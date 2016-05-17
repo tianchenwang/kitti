@@ -55,19 +55,19 @@ class KittiDataLayer:# (caffe.Layer):
 
         self._name_to_top_map = {}
         idx = 0
-        # top[idx].reshape(cfg.TRAIN.IMS_PER_BATCH, 3,
-        #     max(cfg.TRAIN.SCALES), cfg.TRAIN.MAX_SIZE)
+        top[idx].reshape(cfg.TRAIN.IMS_PER_BATCH, 3,
+            max(cfg.TRAIN.SCALES), cfg.TRAIN.MAX_SIZE)
         self._name_to_top_map['data'] = idx
         idx += 1
 
-        if True:
-            # top[idx].reshape(1, 3)
-            self._name_to_top_map['im_info'] = idx
-            idx += 1
 
-            # top[idx].reshape(1, 4)
-            self._name_to_top_map['gt_boxes'] = idx
-            idx += 1
+        top[idx].reshape(1, 3)
+        self._name_to_top_map['im_info'] = idx
+        idx += 1
+
+        top[idx].reshape(1, 4)
+        self._name_to_top_map['gt_boxes'] = idx
+        idx += 1
 
         print 'RoiDataLayer: name_to_top:', self._name_to_top_map
         # assert len(top) == len(self._name_to_top_map)
@@ -101,9 +101,11 @@ class KittiDataLayer:# (caffe.Layer):
         top_blobs = {}
         top_blobs['data'] = self._get_image_blob(im)
 
+        im_shape = top_blobs['data'].shape;
+        top_blobs['im_info'] = np.array(
+            [[im_shape[2], im_shape[3], 1.0]])
         with open(label_file, 'r') as f:
             labels = f.readlines()
-
         top_blobs['gt_boxes'] = self._get_roi_blob(labels)
 
         return top_blobs
