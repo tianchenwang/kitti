@@ -77,7 +77,7 @@ if __name__ == '__main__':
     caffe.set_mode_gpu()
     caffe.set_device(args.gpu_id)
 
-    output_dir = get_output_dir(imdb)
+    output_dir = 'output/'
     print 'Output will be saved to `{:s}`'.format(output_dir)
 
     train_net(args.solver, output_dir,
