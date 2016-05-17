@@ -1,13 +1,13 @@
 from fast_rcnn.config import cfg
 import numpy as np
 import cv2
-# import caffe
+import caffe
 import cPickle
 from utils.blob import im_list_to_blob
 import os
 
 
-class KittiDataLayer:# (caffe.Layer):
+class KittiDataLayer(caffe.Layer):
     def get_roidb(self):
         return self.roidb
 
