@@ -11,6 +11,23 @@ class KittiDataLayer(caffe.Layer):
     def get_roidb(self):
         return self.roidb
 
+    def filter_roidb(self):
+        before = len(self.roidb)
+        after_roidb = []
+        for i in xrange(before):
+            filename = self.roidb[i]
+            label_file = self._kitti_dir + 'label/' + filename + '.txt'
+            with open(label_file, 'r') as f:
+                l = f.read()
+
+            if not l.startswith('DontCare'):
+                after_roidb.append(filename)
+
+        self.roidb = after_roidb
+        after = len(self.roidb)
+
+        print "Filtered roidb: {}->{}".format(before, after)
+
     def _shuffle_roidb_inds(self):
         self._perm = np.random.permutation(np.arange(len(self.roidb)))
         self._cur = 0
@@ -52,6 +69,8 @@ class KittiDataLayer(caffe.Layer):
         for name in image_list:
            if name.endswith('.png'):
                self.roidb.append(name.rstrip('.png'))
+
+        self.filter_roidb()
 
         self._name_to_top_map = {}
         idx = 0
