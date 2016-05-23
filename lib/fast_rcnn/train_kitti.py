@@ -33,6 +33,12 @@ class SolverWrapper(object):
             # fixed statistics to compute a priori
             assert cfg.TRAIN.BBOX_NORMALIZE_TARGETS_PRECOMPUTED
 
+        # Use fixed / precomputed "means" and "stds" instead of empirical values
+        self.bbox_means = np.tile(
+                np.array(cfg.TRAIN.BBOX_NORMALIZE_MEANS), (4, 1))
+        self.bbox_stds = np.tile(
+                np.array(cfg.TRAIN.BBOX_NORMALIZE_STDS), (4, 1))
+
         self.solver = caffe.SGDSolver(solver_prototxt)
         if pretrained_model is not None:
             print ('Loading pretrained model '
