@@ -224,7 +224,7 @@ def apply_nms(all_boxes, thresh):
             nms_boxes[cls_ind][im_ind] = dets[keep, :].copy()
     return nms_boxes
 
-def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
+def test_net(net, test_path, max_per_image=100, thresh=0.5, vis=False):
     """Test a Fast R-CNN network on an image database."""
 
     image_list = os.listdir(test_path + '/image');
@@ -239,10 +239,9 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
     # all detections are collected into:
     #    all_boxes[cls][image] = N x 5 array of detections in
     #    (x1, y1, x2, y2, score)
-    all_boxes = [[[] for _ in xrange(num_images)]
-                 for _ in xrange(num_classes)]
+    all_boxes = [[] for _ in xrange(num_classes)]
 
-    output_dir = 'output/'
+    output_dir = 'results/'
     # timers
     _t = {'im_detect' : Timer(), 'misc' : Timer()}
 
@@ -266,22 +265,27 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
             cls_dets = cls_dets[keep, :]
             if vis:
                 vis_detections(im, classes[j], cls_dets)
-            all_boxes[j][i] = cls_dets
+            all_boxes[j] = cls_dets
 
         # Limit to max_per_image detections *over all classes*
         if max_per_image > 0:
-            image_scores = np.hstack([all_boxes[j][i][:, -1]
+            image_scores = np.hstack([all_boxes[j][:, -1]
                                       for j in xrange(1, num_classes)])
             if len(image_scores) > max_per_image:
                 image_thresh = np.sort(image_scores)[-max_per_image]
                 for j in xrange(1, num_classes):
-                    keep = np.where(all_boxes[j][i][:, -1] >= image_thresh)[0]
-                    all_boxes[j][i] = all_boxes[j][i][keep, :]
+                    keep = np.where(all_boxes[j][:, -1] >= image_thresh)[0]
+                    all_boxes[j] = all_boxes[j][keep, :]
         _t['misc'].toc()
 
         print 'im_detect: {:d}/{:d} {:.3f}s {:.3f}s' \
               .format(i + 1, num_images, _t['im_detect'].average_time,
                       _t['misc'].average_time)
 
-        det_file = os.path.join(output_dir, 'detections.pkl')
+        det_file = os.path.join(output_dir, 'detections', imdb[i].rstrip('png') + 'txt')
+        with open(det_file, 'w') as f:
+            for j in xrange(1, num_classes):
+                for k in xrange(all_boxes[j].shape[0]):
+                    f.write('{} {}\n'.format(
+                        classes[j], all_boxes[j][k,:]).strip('[]'))
 
