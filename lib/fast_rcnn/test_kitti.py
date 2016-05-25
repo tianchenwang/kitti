@@ -248,7 +248,8 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
 
     for i in xrange(num_images):
         # filter out any ground truth boxes
-        im = cv2.imread(imdb[i])
+        # import pdb; pdb.set_trace()
+        im = cv2.imread(test_path + '/image/' + imdb[i])
         _t['im_detect'].tic()
         scores, boxes = im_detect(net, im, None)
         _t['im_detect'].toc()
@@ -282,9 +283,5 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
               .format(i + 1, num_images, _t['im_detect'].average_time,
                       _t['misc'].average_time)
 
-    det_file = os.path.join(output_dir, 'detections.pkl')
-    with open(det_file, 'wb') as f:
-        cPickle.dump(all_boxes, f, cPickle.HIGHEST_PROTOCOL)
+        det_file = os.path.join(output_dir, 'detections.pkl')
 
-    print 'Evaluating detections'
-    imdb.evaluate_detections(all_boxes, output_dir)

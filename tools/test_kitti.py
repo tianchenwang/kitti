@@ -78,4 +78,4 @@ if __name__ == '__main__':
     net = caffe.Net(args.prototxt, args.caffemodel, caffe.TEST)
     net.name = os.path.splitext(os.path.basename(args.caffemodel))[0]
 
-    test_net(net, max_per_image=args.max_per_image, vis=args.vis)
+    test_net(net, '/space3/mark/datasets/kitti', max_per_image=args.max_per_image, vis=args.vis)
