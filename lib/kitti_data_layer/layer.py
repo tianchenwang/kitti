@@ -45,7 +45,7 @@ class KittiDataLayer(caffe.Layer):
         return blob
 
     def _get_roi_blob(self, rois):
-        cls_labels = {'Car': 1, 'Truck': 2, 'Misc': 3, 'DontCare': 0}
+        cls_labels = {'Car': 1, 'Truck': 2, 'Misc': 3, 'DontCare': -1}
         blob = np.zeros([len(rois), 5], dtype=np.float32)
         for i, roi in enumerate(rois):
             s = roi.split()
