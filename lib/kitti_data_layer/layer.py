@@ -5,6 +5,7 @@ import caffe
 import cPickle
 from utils.blob import im_list_to_blob
 import os
+import random
 
 
 class KittiDataLayer(caffe.Layer):
@@ -126,6 +127,10 @@ class KittiDataLayer(caffe.Layer):
         with open(label_file, 'r') as f:
             labels = f.readlines()
         top_blobs['gt_boxes'] = self._get_roi_blob(labels)
+
+        if cfg.TRAIN.USE_FLIPPED && random.choice([True, False]):
+            top['data'] = top['data'][:,:,:,::-1]
+            top['gt_boxes'][:,[1,3]] = im_shape[3] - top['gt_boxes'][:,[1,3]]
 
         return top_blobs
 
