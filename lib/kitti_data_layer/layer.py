@@ -63,7 +63,7 @@ class KittiDataLayer(caffe.Layer):
 
     def setup(self, bottom, top):
         self._kitti_dir = '/space3/mark/datasets/kitti/'
-        image_list = os.listdir(self._kitti_dir + 'image')
+        image_list = os.listdir(self._kitti_dir + 'image/train/')
 
         self.roidb = []
         for name in image_list:
@@ -111,10 +111,10 @@ class KittiDataLayer(caffe.Layer):
         ind = self._get_next_minibatch_inds()
 
         filename = self.roidb[ind]
-        im_file = self._kitti_dir + 'image/' + filename + '.png'
+        im_file = self._kitti_dir + 'image/train/' + filename + '.png'
         label_file = self._kitti_dir + 'label/' + filename + '.txt'
 
-        print 'filename: {}'.format(filename)
+        # print 'filename: {}'.format(filename)
 
         im = cv2.imread(im_file)
         top_blobs = {}
