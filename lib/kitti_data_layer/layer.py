@@ -128,9 +128,9 @@ class KittiDataLayer(caffe.Layer):
             labels = f.readlines()
         top_blobs['gt_boxes'] = self._get_roi_blob(labels)
 
-        if cfg.TRAIN.USE_FLIPPED && random.choice([True, False]):
-            top['data'] = top['data'][:,:,:,::-1]
-            top['gt_boxes'][:,[1,3]] = im_shape[3] - top['gt_boxes'][:,[1,3]]
+        if cfg.TRAIN.USE_FLIPPED and random.choice([True, False]):
+            top_blobs['data'] = top_blobs['data'][:,:,:,::-1]
+            top_blobs['gt_boxes'][:,[0,2]] = im_shape[3] - top_blobs['gt_boxes'][:,[2,0]]
 
         return top_blobs
 
