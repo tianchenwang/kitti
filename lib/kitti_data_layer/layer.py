@@ -49,6 +49,8 @@ class KittiDataLayer(caffe.Layer):
         blob = np.zeros([len(rois), 5], dtype=np.float32)
         for i, roi in enumerate(rois):
             s = roi.split()
+            if s[0] == 'DontCare' and cfg.TRAIN.IGNORE == False:
+                continue
             blob[i, 4] = cls_labels[s[0]]
             blob[i, 0] = float(s[1])
             blob[i, 1] = float(s[2])
