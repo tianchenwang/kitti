@@ -1,0 +1,6309 @@
+set(['Car', 'Truck']) 000001.txt
+set(['Car']) 000003.txt
+set(['Car']) 000004.txt
+set([]) 000005.txt
+set(['Car']) 000006.txt
+set(['Car']) 000007.txt
+set(['Car']) 000008.txt
+set(['Car']) 000009.txt
+set(['Car']) 000010.txt
+set(['Car']) 000011.txt
+set(['Car']) 000012.txt
+set(['Car']) 000013.txt
+set(['Car']) 000014.txt
+set(['Car']) 000015.txt
+set(['Car', 'Truck']) 000016.txt
+set(['Car']) 000017.txt
+set(['Car', 'Truck']) 000019.txt
+set(['Car']) 000020.txt
+set(['Car']) 000021.txt
+set(['Car']) 000022.txt
+set(['Car', 'Truck']) 000023.txt
+set(['Car']) 000024.txt
+set(['Car']) 000025.txt
+set(['Truck']) 000026.txt
+set(['Car']) 000027.txt
+set(['Car']) 000030.txt
+set(['Car']) 000033.txt
+set(['Car']) 000034.txt
+set(['Car']) 000035.txt
+set(['Car']) 000036.txt
+set(['Car']) 000038.txt
+set(['Car']) 000039.txt
+set(['Car']) 000040.txt
+set(['Car']) 000041.txt
+set(['Car']) 000042.txt
+set([]) 000043.txt
+set(['Car']) 000044.txt
+set(['Car']) 000045.txt
+set(['Car']) 000046.txt
+set(['Car']) 000047.txt
+set([]) 000048.txt
+set(['Car']) 000049.txt
+set(['Car']) 000050.txt
+set(['Car']) 000051.txt
+set(['Car']) 000052.txt
+set(['Car']) 000053.txt
+set(['Car', 'Truck']) 000055.txt
+set(['Car']) 000056.txt
+set(['Car']) 000057.txt
+set(['Car']) 000059.txt
+set(['Car']) 000060.txt
+set(['Car', 'Misc']) 000061.txt
+set(['Car']) 000062.txt
+set(['Car']) 000063.txt
+set(['Car', 'Truck']) 000064.txt
+set(['Car']) 000066.txt
+set(['Car', 'Truck']) 000067.txt
+set(['Car']) 000068.txt
+set(['Car']) 000069.txt
+set(['Car']) 000071.txt
+set(['Car']) 000072.txt
+set([]) 000073.txt
+set([]) 000074.txt
+set(['Car', 'Misc']) 000075.txt
+set([]) 000076.txt
+set(['Car']) 000077.txt
+set(['Car']) 000078.txt
+set(['Car', 'Truck']) 000079.txt
+set(['Car']) 000080.txt
+set(['Truck']) 000081.txt
+set(['Car', 'Truck']) 000082.txt
+set(['Car']) 000083.txt
+set(['Car']) 000084.txt
+set(['Car']) 000085.txt
+set(['Car']) 000086.txt
+set(['Car']) 000087.txt
+set(['Car']) 000088.txt
+set(['Car']) 000089.txt
+set(['Car']) 000090.txt
+set(['Car']) 000091.txt
+set(['Car']) 000094.txt
+set(['Car']) 000095.txt
+set(['Car']) 000096.txt
+set(['Car']) 000097.txt
+set(['Car', 'Misc']) 000098.txt
+set(['Car', 'Truck']) 000099.txt
+set(['Car']) 000101.txt
+set(['Car', 'Misc']) 000102.txt
+set(['Car']) 000104.txt
+set(['Car']) 000105.txt
+set(['Car']) 000106.txt
+set(['Car', 'Misc']) 000107.txt
+set(['Car']) 000108.txt
+set(['Car']) 000110.txt
+set(['Car']) 000111.txt
+set(['Car']) 000112.txt
+set(['Car', 'Misc', 'Truck']) 000113.txt
+set(['Car']) 000114.txt
+set(['Car']) 000116.txt
+set(['Car']) 000117.txt
+set(['Car']) 000119.txt
+set(['Car']) 000120.txt
+set(['Car']) 000121.txt
+set(['Car']) 000122.txt
+set(['Car']) 000124.txt
+set(['Car']) 000125.txt
+set(['Car']) 000126.txt
+set(['Car', 'Truck']) 000128.txt
+set(['Car']) 000129.txt
+set(['Car']) 000131.txt
+set(['Car']) 000133.txt
+set(['Car']) 000134.txt
+set(['Car']) 000135.txt
+set(['Car']) 000136.txt
+set(['Car', 'Truck']) 000137.txt
+set(['Car']) 000138.txt
+set(['Car', 'Truck']) 000139.txt
+set(['Car']) 000140.txt
+set(['Car']) 000141.txt
+set(['Car']) 000142.txt
+set(['Car', 'Truck']) 000143.txt
+set(['Car']) 000144.txt
+set(['Car']) 000145.txt
+set(['Car', 'Truck']) 000146.txt
+set(['Car']) 000147.txt
+set(['Car']) 000148.txt
+set(['Car']) 000149.txt
+set(['Car']) 000150.txt
+set(['Car', 'Misc']) 000152.txt
+set(['Car']) 000153.txt
+set(['Car']) 000154.txt
+set(['Car']) 000155.txt
+set(['Car', 'Misc', 'Truck']) 000157.txt
+set(['Car']) 000159.txt
+set(['Car']) 000160.txt
+set(['Car']) 000161.txt
+set(['Car']) 000162.txt
+set(['Car']) 000163.txt
+set(['Car']) 000164.txt
+set(['Car', 'Truck']) 000165.txt
+set(['Car']) 000166.txt
+set([]) 000167.txt
+set(['Car']) 000168.txt
+set(['Car']) 000169.txt
+set(['Car']) 000170.txt
+set(['Car']) 000172.txt
+set(['Car']) 000173.txt
+set(['Car', 'Misc']) 000174.txt
+set(['Car']) 000175.txt
+set(['Car']) 000177.txt
+set(['Car']) 000178.txt
+set(['Car']) 000179.txt
+set(['Car']) 000182.txt
+set(['Car', 'Misc']) 000183.txt
+set(['Car', 'Misc']) 000184.txt
+set(['Car']) 000185.txt
+set(['Car', 'Truck']) 000186.txt
+set([]) 000187.txt
+set(['Car']) 000188.txt
+set([]) 000189.txt
+set(['Car']) 000190.txt
+set(['Car']) 000191.txt
+set(['Car']) 000192.txt
+set(['Car']) 000194.txt
+set([]) 000195.txt
+set(['Car', 'Misc']) 000196.txt
+set(['Car']) 000198.txt
+set(['Car', 'Misc']) 000200.txt
+set(['Car']) 000201.txt
+set(['Car']) 000202.txt
+set(['Car', 'Truck']) 000203.txt
+set(['Car', 'Misc', 'Truck']) 000204.txt
+set(['Car', 'Misc']) 000205.txt
+set(['Car']) 000206.txt
+set(['Car', 'Misc']) 000207.txt
+set(['Car']) 000208.txt
+set(['Car']) 000210.txt
+set(['Car']) 000211.txt
+set(['Car']) 000212.txt
+set(['Car']) 000213.txt
+set(['Car']) 000214.txt
+set(['Car']) 000215.txt
+set(['Car']) 000216.txt
+set(['Car']) 000217.txt
+set(['Car']) 000218.txt
+set(['Car', 'Truck']) 000219.txt
+set(['Car']) 000220.txt
+set(['Car', 'Misc']) 000221.txt
+set(['Car']) 000222.txt
+set(['Car', 'Misc']) 000223.txt
+set(['Car']) 000224.txt
+set(['Car', 'Truck']) 000225.txt
+set(['Car', 'Truck']) 000226.txt
+set(['Car']) 000227.txt
+set(['Car']) 000228.txt
+set(['Car']) 000229.txt
+set(['Car', 'Truck']) 000230.txt
+set(['Car']) 000231.txt
+set(['Car']) 000232.txt
+set(['Car']) 000233.txt
+set(['Car']) 000234.txt
+set(['Car']) 000235.txt
+set(['Car']) 000236.txt
+set(['Car', 'Truck']) 000237.txt
+set(['Car']) 000238.txt
+set(['Car']) 000239.txt
+set(['Car']) 000240.txt
+set(['Truck']) 000241.txt
+set(['Car']) 000242.txt
+set(['Car']) 000243.txt
+set(['Car']) 000244.txt
+set(['Car']) 000245.txt
+set(['Car', 'Misc', 'Truck']) 000246.txt
+set(['Car']) 000247.txt
+set(['Car', 'Misc']) 000248.txt
+set(['Car', 'Misc']) 000249.txt
+set(['Car']) 000252.txt
+set(['Car']) 000253.txt
+set(['Car']) 000255.txt
+set(['Car', 'Misc']) 000256.txt
+set(['Car']) 000257.txt
+set(['Car']) 000258.txt
+set(['Car']) 000259.txt
+set(['Car']) 000260.txt
+set(['Car', 'Truck']) 000261.txt
+set(['Car', 'Misc']) 000262.txt
+set(['Car', 'Truck']) 000264.txt
+set([]) 000265.txt
+set(['Car']) 000266.txt
+set(['Car']) 000267.txt
+set(['Car']) 000268.txt
+set(['Car', 'Truck']) 000269.txt
+set(['Car']) 000270.txt
+set(['Car']) 000271.txt
+set(['Car']) 000273.txt
+set(['Car']) 000274.txt
+set(['Car']) 000275.txt
+set([]) 000277.txt
+set(['Car']) 000278.txt
+set(['Car']) 000279.txt
+set(['Car', 'Truck']) 000280.txt
+set(['Car', 'Truck']) 000281.txt
+set(['Car', 'Misc']) 000282.txt
+set(['Car']) 000283.txt
+set(['Car']) 000284.txt
+set(['Car']) 000285.txt
+set(['Car']) 000286.txt
+set([]) 000287.txt
+set(['Car']) 000289.txt
+set(['Car']) 000291.txt
+set(['Car']) 000292.txt
+set(['Car']) 000293.txt
+set(['Car']) 000296.txt
+set(['Car', 'Truck']) 000297.txt
+set(['Car']) 000299.txt
+set(['Car']) 000300.txt
+set(['Car', 'Truck']) 000301.txt
+set(['Car']) 000302.txt
+set(['Car']) 000303.txt
+set([]) 000304.txt
+set(['Car']) 000305.txt
+set(['Car']) 000306.txt
+set(['Car', 'Truck']) 000307.txt
+set(['Car']) 000308.txt
+set(['Car']) 000310.txt
+set(['Car']) 000311.txt
+set(['Car', 'Truck']) 000312.txt
+set(['Car']) 000313.txt
+set(['Car', 'Misc']) 000314.txt
+set(['Car']) 000315.txt
+set([]) 000317.txt
+set(['Car']) 000320.txt
+set(['Car']) 000322.txt
+set(['Car']) 000323.txt
+set(['Car']) 000325.txt
+set(['Car']) 000326.txt
+set(['Car']) 000328.txt
+set(['Car']) 000329.txt
+set(['Car']) 000330.txt
+set(['Car']) 000331.txt
+set(['Car']) 000332.txt
+set(['Car', 'Misc']) 000333.txt
+set(['Car']) 000334.txt
+set(['Car']) 000335.txt
+set(['Car']) 000338.txt
+set(['Car']) 000339.txt
+set(['Car', 'Misc']) 000340.txt
+set(['Car']) 000341.txt
+set([]) 000342.txt
+set(['Car']) 000344.txt
+set(['Car', 'Misc', 'Truck']) 000345.txt
+set(['Car']) 000346.txt
+set(['Car', 'Truck']) 000347.txt
+set(['Car']) 000348.txt
+set(['Car']) 000349.txt
+set(['Car']) 000350.txt
+set(['Car']) 000352.txt
+set(['Car']) 000353.txt
+set(['Car']) 000354.txt
+set(['Car', 'Truck']) 000355.txt
+set(['Car', 'Truck']) 000356.txt
+set(['Car', 'Misc']) 000357.txt
+set(['Car', 'Truck']) 000358.txt
+set(['Car', 'Truck']) 000359.txt
+set(['Car', 'Truck']) 000360.txt
+set(['Car']) 000362.txt
+set(['Car']) 000363.txt
+set([]) 000364.txt
+set(['Car']) 000366.txt
+set(['Car']) 000367.txt
+set(['Car']) 000369.txt
+set(['Car']) 000370.txt
+set(['Car']) 000371.txt
+set(['Car', 'Truck']) 000372.txt
+set(['Car']) 000373.txt
+set(['Car', 'Misc']) 000374.txt
+set(['Car']) 000375.txt
+set(['Car']) 000376.txt
+set(['Car', 'Misc']) 000377.txt
+set(['Car']) 000378.txt
+set(['Car']) 000379.txt
+set(['Car']) 000380.txt
+set(['Car']) 000383.txt
+set(['Car']) 000384.txt
+set(['Car']) 000385.txt
+set(['Car']) 000386.txt
+set(['Car']) 000387.txt
+set(['Car', 'Truck']) 000388.txt
+set(['Car']) 000389.txt
+set(['Car']) 000390.txt
+set(['Car', 'Misc', 'Truck']) 000391.txt
+set(['Car']) 000392.txt
+set(['Car']) 000393.txt
+set(['Truck']) 000394.txt
+set(['Car', 'Misc']) 000395.txt
+set(['Car']) 000396.txt
+set(['Car', 'Misc']) 000397.txt
+set(['Truck']) 000399.txt
+set(['Car', 'Truck']) 000400.txt
+set(['Car']) 000401.txt
+set(['Car']) 000402.txt
+set(['Car']) 000403.txt
+set(['Car']) 000404.txt
+set(['Car']) 000405.txt
+set(['Car']) 000406.txt
+set(['Car']) 000408.txt
+set(['Car']) 000409.txt
+set(['Car']) 000410.txt
+set(['Car']) 000411.txt
+set(['Car']) 000412.txt
+set(['Car']) 000413.txt
+set(['Car']) 000414.txt
+set(['Car']) 000415.txt
+set(['Car']) 000416.txt
+set(['Car']) 000417.txt
+set(['Car']) 000418.txt
+set(['Car']) 000420.txt
+set(['Car']) 000421.txt
+set(['Car']) 000422.txt
+set(['Car', 'Truck']) 000423.txt
+set(['Car', 'Misc', 'Truck']) 000424.txt
+set(['Car', 'Truck']) 000426.txt
+set(['Car', 'Misc']) 000427.txt
+set(['Car']) 000428.txt
+set(['Car']) 000429.txt
+set(['Car', 'Misc']) 000430.txt
+set(['Car']) 000433.txt
+set(['Car']) 000434.txt
+set(['Car']) 000435.txt
+set(['Car']) 000436.txt
+set(['Car']) 000437.txt
+set(['Car', 'Misc']) 000438.txt
+set(['Car']) 000439.txt
+set(['Car']) 000440.txt
+set(['Car']) 000441.txt
+set(['Car']) 000442.txt
+set(['Car']) 000443.txt
+set(['Car']) 000444.txt
+set(['Car']) 000445.txt
+set(['Car']) 000447.txt
+set(['Car']) 000448.txt
+set(['Car']) 000449.txt
+set(['Car', 'Misc']) 000450.txt
+set([]) 000451.txt
+set(['Car']) 000452.txt
+set(['Car', 'Misc']) 000453.txt
+set(['Car', 'Truck']) 000454.txt
+set(['Car']) 000455.txt
+set(['Car']) 000456.txt
+set(['Car']) 000457.txt
+set(['Car']) 000458.txt
+set(['Car']) 000459.txt
+set(['Car']) 000460.txt
+set(['Car']) 000461.txt
+set(['Car']) 000462.txt
+set(['Car']) 000464.txt
+set(['Car']) 000466.txt
+set(['Car']) 000467.txt
+set(['Car']) 000468.txt
+set(['Car']) 000469.txt
+set(['Car']) 000470.txt
+set(['Car']) 000471.txt
+set(['Car']) 000473.txt
+set(['Car']) 000474.txt
+set(['Car']) 000475.txt
+set(['Car']) 000478.txt
+set(['Car', 'Misc', 'Truck']) 000479.txt
+set(['Car', 'Misc', 'Truck']) 000480.txt
+set(['Car']) 000481.txt
+set(['Car']) 000482.txt
+set(['Car']) 000483.txt
+set(['Car']) 000484.txt
+set(['Car']) 000486.txt
+set(['Misc']) 000487.txt
+set(['Car', 'Misc']) 000488.txt
+set(['Car', 'Truck']) 000489.txt
+set(['Car']) 000490.txt
+set(['Car']) 000491.txt
+set(['Car']) 000492.txt
+set(['Car', 'Misc']) 000493.txt
+set(['Car']) 000494.txt
+set(['Car']) 000495.txt
+set([]) 000496.txt
+set(['Car']) 000497.txt
+set([]) 000499.txt
+set(['Car']) 000500.txt
+set(['Car']) 000502.txt
+set(['Car']) 000503.txt
+set(['Car']) 000504.txt
+set(['Car']) 000505.txt
+set(['Car']) 000506.txt
+set(['Car']) 000507.txt
+set(['Car', 'Truck']) 000508.txt
+set(['Car']) 000510.txt
+set(['Car', 'Truck']) 000511.txt
+set(['Car', 'Truck']) 000512.txt
+set(['Car']) 000513.txt
+set(['Car']) 000514.txt
+set(['Car']) 000515.txt
+set(['Car']) 000516.txt
+set(['Car']) 000517.txt
+set([]) 000518.txt
+set(['Car']) 000519.txt
+set(['Car']) 000521.txt
+set(['Car']) 000522.txt
+set(['Car']) 000523.txt
+set(['Car']) 000524.txt
+set(['Car']) 000525.txt
+set(['Car']) 000526.txt
+set(['Car', 'Misc']) 000527.txt
+set(['Car']) 000528.txt
+set(['Car']) 000529.txt
+set(['Car']) 000530.txt
+set(['Car', 'Misc', 'Truck']) 000531.txt
+set(['Car']) 000533.txt
+set(['Car']) 000534.txt
+set(['Car']) 000535.txt
+set(['Car']) 000536.txt
+set(['Car', 'Truck']) 000537.txt
+set([]) 000538.txt
+set(['Car', 'Truck']) 000539.txt
+set(['Car']) 000540.txt
+set(['Car']) 000541.txt
+set(['Car']) 000542.txt
+set(['Car']) 000543.txt
+set(['Car']) 000544.txt
+set(['Car', 'Misc']) 000545.txt
+set(['Car']) 000546.txt
+set(['Truck']) 000547.txt
+set(['Car']) 000548.txt
+set(['Car', 'Truck']) 000550.txt
+set(['Car', 'Misc']) 000551.txt
+set(['Car']) 000552.txt
+set(['Car', 'Truck']) 000553.txt
+set(['Car', 'Misc']) 000554.txt
+set(['Car', 'Truck']) 000555.txt
+set(['Car']) 000556.txt
+set(['Car']) 000557.txt
+set(['Car', 'Misc']) 000558.txt
+set(['Car']) 000559.txt
+set(['Car']) 000560.txt
+set(['Car']) 000562.txt
+set([]) 000563.txt
+set(['Car']) 000564.txt
+set(['Car']) 000565.txt
+set(['Car', 'Truck']) 000566.txt
+set(['Car']) 000567.txt
+set(['Car']) 000568.txt
+set(['Car']) 000569.txt
+set([]) 000570.txt
+set(['Car']) 000571.txt
+set(['Car', 'Misc']) 000572.txt
+set(['Car']) 000573.txt
+set(['Car']) 000575.txt
+set(['Car']) 000576.txt
+set(['Car']) 000577.txt
+set(['Car']) 000578.txt
+set(['Car', 'Truck']) 000579.txt
+set(['Car']) 000580.txt
+set(['Car', 'Misc']) 000581.txt
+set(['Car']) 000582.txt
+set(['Car']) 000583.txt
+set(['Car']) 000584.txt
+set(['Car']) 000586.txt
+set(['Car']) 000587.txt
+set(['Car']) 000588.txt
+set(['Car']) 000589.txt
+set(['Car']) 000590.txt
+set(['Car']) 000591.txt
+set(['Car']) 000592.txt
+set(['Car']) 000593.txt
+set(['Car']) 000594.txt
+set(['Car']) 000595.txt
+set([]) 000596.txt
+set(['Car']) 000597.txt
+set(['Car']) 000599.txt
+set(['Car', 'Misc']) 000600.txt
+set(['Car', 'Misc', 'Truck']) 000601.txt
+set(['Car']) 000602.txt
+set(['Car']) 000603.txt
+set(['Truck']) 000604.txt
+set(['Car']) 000605.txt
+set(['Car']) 000606.txt
+set(['Car']) 000607.txt
+set(['Car']) 000608.txt
+set(['Car', 'Truck']) 000609.txt
+set(['Car']) 000610.txt
+set(['Car', 'Misc', 'Truck']) 000611.txt
+set(['Car']) 000612.txt
+set(['Car']) 000613.txt
+set(['Car']) 000614.txt
+set(['Car']) 000615.txt
+set(['Car', 'Misc']) 000616.txt
+set(['Car']) 000617.txt
+set(['Car']) 000618.txt
+set(['Car']) 000619.txt
+set(['Car']) 000620.txt
+set(['Car', 'Misc']) 000621.txt
+set(['Car']) 000623.txt
+set(['Car']) 000624.txt
+set([]) 000625.txt
+set(['Car', 'Misc']) 000626.txt
+set(['Car']) 000627.txt
+set(['Car']) 000628.txt
+set(['Car']) 000629.txt
+set(['Car']) 000631.txt
+set(['Car']) 000632.txt
+set(['Car']) 000634.txt
+set(['Car', 'Truck']) 000635.txt
+set(['Car']) 000636.txt
+set(['Car']) 000637.txt
+set(['Car']) 000638.txt
+set(['Car']) 000639.txt
+set(['Car']) 000641.txt
+set(['Car']) 000642.txt
+set(['Car']) 000643.txt
+set(['Car']) 000644.txt
+set(['Car']) 000645.txt
+set(['Car', 'Misc']) 000647.txt
+set(['Car']) 000648.txt
+set(['Car']) 000649.txt
+set(['Car']) 000650.txt
+set(['Car', 'Truck']) 000651.txt
+set(['Car']) 000652.txt
+set([]) 000653.txt
+set(['Car']) 000654.txt
+set(['Car']) 000655.txt
+set(['Car']) 000656.txt
+set(['Car']) 000658.txt
+set(['Car']) 000659.txt
+set(['Car']) 000660.txt
+set(['Car']) 000661.txt
+set(['Car']) 000662.txt
+set([]) 000663.txt
+set(['Car']) 000664.txt
+set(['Car']) 000665.txt
+set(['Car']) 000666.txt
+set(['Car']) 000668.txt
+set(['Car']) 000669.txt
+set(['Car']) 000670.txt
+set(['Car']) 000672.txt
+set(['Car']) 000673.txt
+set(['Car']) 000674.txt
+set([]) 000675.txt
+set(['Car']) 000677.txt
+set(['Car']) 000678.txt
+set(['Car']) 000680.txt
+set(['Car']) 000681.txt
+set(['Car', 'Misc']) 000682.txt
+set(['Car']) 000683.txt
+set(['Car']) 000684.txt
+set(['Car']) 000685.txt
+set(['Car']) 000687.txt
+set(['Car', 'Truck']) 000688.txt
+set(['Car']) 000689.txt
+set(['Car']) 000690.txt
+set(['Car']) 000691.txt
+set(['Car']) 000692.txt
+set(['Car']) 000693.txt
+set(['Car']) 000694.txt
+set(['Car']) 000696.txt
+set(['Car', 'Truck']) 000697.txt
+set(['Car']) 000698.txt
+set(['Car', 'Truck']) 000699.txt
+set(['Car']) 000700.txt
+set(['Car', 'Truck']) 000702.txt
+set(['Car']) 000704.txt
+set(['Car', 'Misc']) 000705.txt
+set(['Car']) 000706.txt
+set(['Car']) 000707.txt
+set(['Car', 'Misc']) 000709.txt
+set(['Car']) 000710.txt
+set(['Car']) 000711.txt
+set(['Car']) 000712.txt
+set(['Car']) 000713.txt
+set([]) 000715.txt
+set(['Car']) 000716.txt
+set(['Car']) 000717.txt
+set(['Car']) 000719.txt
+set(['Misc']) 000720.txt
+set(['Misc']) 000722.txt
+set(['Car']) 000723.txt
+set(['Car']) 000724.txt
+set(['Car']) 000725.txt
+set(['Car']) 000727.txt
+set(['Car']) 000728.txt
+set(['Car', 'Misc']) 000729.txt
+set(['Car']) 000731.txt
+set(['Car', 'Truck']) 000732.txt
+set(['Car']) 000733.txt
+set(['Car']) 000734.txt
+set(['Car', 'Misc']) 000735.txt
+set(['Car']) 000736.txt
+set(['Car', 'Misc']) 000738.txt
+set(['Car']) 000739.txt
+set(['Car']) 000740.txt
+set(['Car']) 000741.txt
+set(['Car']) 000742.txt
+set(['Car', 'Misc']) 000745.txt
+set(['Car', 'Misc']) 000747.txt
+set(['Car']) 000748.txt
+set(['Car', 'Truck']) 000749.txt
+set(['Car']) 000750.txt
+set(['Car']) 000751.txt
+set(['Car']) 000752.txt
+set(['Car']) 000753.txt
+set(['Car']) 000754.txt
+set(['Car']) 000755.txt
+set(['Car', 'Misc']) 000756.txt
+set(['Car', 'Truck']) 000757.txt
+set(['Car']) 000758.txt
+set(['Car']) 000759.txt
+set(['Car', 'Misc']) 000761.txt
+set(['Car']) 000762.txt
+set(['Car']) 000764.txt
+set(['Car']) 000765.txt
+set(['Car']) 000766.txt
+set(['Car', 'Truck']) 000767.txt
+set(['Car']) 000768.txt
+set([]) 000769.txt
+set(['Misc']) 000770.txt
+set(['Car']) 000771.txt
+set(['Car']) 000772.txt
+set(['Car']) 000773.txt
+set(['Car']) 000774.txt
+set(['Truck']) 000775.txt
+set(['Car']) 000776.txt
+set(['Car']) 000777.txt
+set(['Car']) 000778.txt
+set(['Car']) 000779.txt
+set(['Car']) 000780.txt
+set(['Car']) 000781.txt
+set(['Car']) 000783.txt
+set(['Car']) 000786.txt
+set(['Car']) 000788.txt
+set(['Car']) 000790.txt
+set(['Car']) 000792.txt
+set(['Car']) 000793.txt
+set(['Car']) 000795.txt
+set(['Car']) 000796.txt
+set(['Car']) 000797.txt
+set(['Car']) 000799.txt
+set(['Car', 'Truck']) 000801.txt
+set(['Car']) 000802.txt
+set(['Car', 'Truck']) 000803.txt
+set([]) 000806.txt
+set(['Car', 'Truck']) 000807.txt
+set(['Car']) 000808.txt
+set(['Car']) 000809.txt
+set(['Car']) 000810.txt
+set([]) 000811.txt
+set(['Car']) 000812.txt
+set(['Car']) 000813.txt
+set(['Car']) 000816.txt
+set(['Car']) 000817.txt
+set(['Car']) 000818.txt
+set(['Car', 'Misc']) 000819.txt
+set(['Car']) 000820.txt
+set(['Car']) 000821.txt
+set(['Car']) 000822.txt
+set(['Car']) 000823.txt
+set(['Car']) 000824.txt
+set(['Car']) 000828.txt
+set(['Car']) 000830.txt
+set(['Car']) 000831.txt
+set(['Car']) 000832.txt
+set(['Car']) 000833.txt
+set(['Car']) 000834.txt
+set(['Car']) 000835.txt
+set(['Car']) 000836.txt
+set(['Car']) 000837.txt
+set(['Car']) 000838.txt
+set(['Car']) 000839.txt
+set([]) 000840.txt
+set(['Car']) 000845.txt
+set(['Car']) 000846.txt
+set(['Car']) 000847.txt
+set(['Car']) 000848.txt
+set(['Car']) 000849.txt
+set(['Car', 'Misc']) 000850.txt
+set(['Car']) 000851.txt
+set(['Car']) 000852.txt
+set(['Car']) 000853.txt
+set(['Car', 'Truck']) 000854.txt
+set(['Car']) 000855.txt
+set(['Car']) 000856.txt
+set(['Car']) 000857.txt
+set(['Car']) 000858.txt
+set(['Car']) 000859.txt
+set(['Car']) 000860.txt
+set([]) 000861.txt
+set(['Car']) 000864.txt
+set(['Car']) 000865.txt
+set(['Car']) 000866.txt
+set(['Car', 'Truck']) 000867.txt
+set(['Car']) 000868.txt
+set(['Car']) 000869.txt
+set(['Car']) 000870.txt
+set(['Car']) 000872.txt
+set(['Truck']) 000873.txt
+set([]) 000874.txt
+set(['Car']) 000875.txt
+set(['Car', 'Truck']) 000876.txt
+set(['Car', 'Truck']) 000877.txt
+set(['Car', 'Truck']) 000878.txt
+set(['Car', 'Truck']) 000879.txt
+set(['Car']) 000880.txt
+set(['Car']) 000882.txt
+set(['Car']) 000883.txt
+set(['Car']) 000884.txt
+set(['Car']) 000886.txt
+set(['Car', 'Truck']) 000887.txt
+set(['Car']) 000888.txt
+set(['Car']) 000889.txt
+set(['Car', 'Truck']) 000890.txt
+set(['Car']) 000891.txt
+set([]) 000892.txt
+set(['Car', 'Truck']) 000893.txt
+set(['Car']) 000894.txt
+set(['Car']) 000895.txt
+set(['Car']) 000896.txt
+set(['Car', 'Misc', 'Truck']) 000897.txt
+set(['Car', 'Truck']) 000898.txt
+set(['Car', 'Truck']) 000899.txt
+set(['Car']) 000900.txt
+set(['Car']) 000901.txt
+set(['Car', 'Truck']) 000902.txt
+set(['Car', 'Truck']) 000903.txt
+set(['Car']) 000904.txt
+set(['Car']) 000905.txt
+set(['Car']) 000906.txt
+set(['Car']) 000908.txt
+set(['Car', 'Misc']) 000909.txt
+set(['Car']) 000910.txt
+set(['Car']) 000911.txt
+set(['Car']) 000913.txt
+set(['Car']) 000914.txt
+set(['Car']) 000915.txt
+set(['Car']) 000916.txt
+set(['Car']) 000917.txt
+set(['Car']) 000920.txt
+set(['Car']) 000921.txt
+set(['Car']) 000922.txt
+set(['Car']) 000923.txt
+set(['Car']) 000924.txt
+set(['Car']) 000925.txt
+set(['Car']) 000926.txt
+set(['Car']) 000927.txt
+set(['Car']) 000929.txt
+set(['Car']) 000930.txt
+set(['Misc']) 000931.txt
+set(['Car', 'Truck']) 000932.txt
+set(['Car']) 000933.txt
+set([]) 000934.txt
+set(['Car']) 000935.txt
+set(['Car']) 000936.txt
+set([]) 000937.txt
+set(['Car']) 000938.txt
+set(['Car']) 000939.txt
+set(['Car']) 000940.txt
+set(['Car']) 000942.txt
+set(['Car']) 000943.txt
+set(['Car', 'Truck']) 000944.txt
+set(['Car']) 000945.txt
+set(['Car']) 000946.txt
+set([]) 000947.txt
+set(['Car', 'Misc', 'Truck']) 000948.txt
+set(['Car', 'Truck']) 000949.txt
+set(['Car']) 000950.txt
+set(['Car', 'Misc', 'Truck']) 000951.txt
+set(['Car']) 000953.txt
+set(['Car']) 000954.txt
+set(['Car']) 000955.txt
+set(['Car', 'Misc']) 000956.txt
+set(['Car']) 000958.txt
+set(['Car']) 000959.txt
+set(['Car']) 000960.txt
+set([]) 000961.txt
+set(['Car', 'Truck']) 000962.txt
+set(['Car']) 000963.txt
+set(['Car']) 000964.txt
+set(['Car']) 000965.txt
+set(['Car']) 000966.txt
+set(['Car']) 000967.txt
+set(['Car']) 000968.txt
+set(['Car', 'Misc']) 000969.txt
+set(['Car']) 000970.txt
+set(['Car']) 000972.txt
+set(['Car']) 000973.txt
+set(['Car', 'Misc', 'Truck']) 000974.txt
+set(['Car']) 000975.txt
+set(['Car']) 000976.txt
+set(['Car']) 000977.txt
+set(['Car']) 000978.txt
+set(['Car', 'Truck']) 000979.txt
+set(['Car']) 000980.txt
+set(['Car']) 000982.txt
+set(['Car']) 000983.txt
+set(['Car', 'Misc']) 000984.txt
+set(['Car']) 000985.txt
+set(['Car']) 000986.txt
+set(['Car']) 000987.txt
+set(['Car']) 000988.txt
+set(['Car']) 000989.txt
+set(['Car']) 000990.txt
+set(['Car']) 000991.txt
+set(['Car']) 000992.txt
+set(['Car']) 000993.txt
+set(['Car', 'Truck']) 000994.txt
+set(['Car']) 000995.txt
+set(['Car']) 000996.txt
+set(['Car']) 000998.txt
+set(['Car']) 000999.txt
+set(['Car']) 001000.txt
+set(['Car']) 001001.txt
+set(['Car']) 001002.txt
+set(['Car']) 001003.txt
+set(['Car']) 001004.txt
+set(['Car']) 001005.txt
+set(['Car']) 001006.txt
+set(['Car']) 001007.txt
+set(['Car']) 001008.txt
+set(['Car']) 001010.txt
+set(['Car']) 001011.txt
+set(['Car']) 001012.txt
+set(['Car', 'Misc']) 001013.txt
+set(['Car']) 001014.txt
+set(['Car']) 001015.txt
+set(['Car']) 001016.txt
+set(['Car']) 001017.txt
+set(['Car']) 001018.txt
+set([]) 001019.txt
+set(['Car', 'Truck']) 001021.txt
+set(['Car']) 001022.txt
+set(['Car', 'Truck']) 001023.txt
+set(['Car', 'Truck']) 001024.txt
+set(['Car', 'Misc']) 001025.txt
+set(['Car']) 001026.txt
+set(['Car']) 001027.txt
+set(['Car']) 001028.txt
+set(['Car']) 001030.txt
+set(['Car', 'Truck']) 001032.txt
+set(['Car']) 001034.txt
+set(['Car']) 001038.txt
+set(['Car']) 001039.txt
+set(['Car']) 001040.txt
+set(['Car']) 001041.txt
+set(['Car']) 001042.txt
+set(['Car']) 001043.txt
+set(['Car']) 001044.txt
+set(['Car']) 001045.txt
+set(['Car']) 001046.txt
+set(['Car']) 001047.txt
+set(['Car']) 001048.txt
+set(['Car']) 001049.txt
+set(['Car']) 001050.txt
+set(['Car', 'Misc']) 001051.txt
+set(['Car', 'Misc']) 001052.txt
+set(['Car', 'Misc', 'Truck']) 001054.txt
+set(['Car']) 001055.txt
+set(['Car', 'Truck']) 001056.txt
+set(['Car']) 001058.txt
+set(['Car', 'Truck']) 001059.txt
+set(['Car', 'Truck']) 001060.txt
+set(['Car']) 001061.txt
+set(['Car']) 001062.txt
+set(['Car']) 001063.txt
+set(['Car']) 001065.txt
+set(['Car']) 001066.txt
+set(['Car']) 001067.txt
+set(['Car']) 001068.txt
+set(['Car']) 001069.txt
+set(['Car']) 001070.txt
+set(['Car']) 001071.txt
+set(['Car']) 001072.txt
+set(['Car']) 001073.txt
+set(['Car']) 001074.txt
+set(['Car', 'Misc', 'Truck']) 001075.txt
+set(['Car']) 001076.txt
+set(['Car']) 001077.txt
+set(['Car', 'Misc']) 001079.txt
+set(['Car']) 001080.txt
+set(['Car']) 001082.txt
+set(['Car']) 001083.txt
+set(['Car']) 001084.txt
+set(['Car']) 001085.txt
+set(['Car']) 001086.txt
+set(['Car', 'Truck']) 001089.txt
+set(['Car']) 001090.txt
+set(['Truck']) 001092.txt
+set(['Car']) 001093.txt
+set(['Car']) 001094.txt
+set(['Car']) 001095.txt
+set(['Car']) 001096.txt
+set(['Car']) 001097.txt
+set(['Car']) 001098.txt
+set(['Car']) 001099.txt
+set(['Car']) 001100.txt
+set(['Car']) 001101.txt
+set(['Car']) 001102.txt
+set(['Car']) 001103.txt
+set(['Car']) 001105.txt
+set(['Car']) 001107.txt
+set(['Car']) 001108.txt
+set(['Car']) 001110.txt
+set(['Car']) 001112.txt
+set(['Car']) 001114.txt
+set(['Car', 'Truck']) 001115.txt
+set(['Car']) 001116.txt
+set(['Car', 'Truck']) 001117.txt
+set(['Car']) 001118.txt
+set(['Car']) 001119.txt
+set(['Car']) 001120.txt
+set(['Car']) 001121.txt
+set(['Car']) 001123.txt
+set(['Car']) 001125.txt
+set(['Car']) 001126.txt
+set(['Car']) 001127.txt
+set(['Car', 'Truck']) 001128.txt
+set(['Car']) 001129.txt
+set(['Car']) 001130.txt
+set(['Car']) 001131.txt
+set([]) 001132.txt
+set(['Car']) 001133.txt
+set(['Car']) 001134.txt
+set(['Car']) 001135.txt
+set(['Car']) 001136.txt
+set(['Car']) 001137.txt
+set(['Car', 'Misc']) 001138.txt
+set(['Car']) 001139.txt
+set(['Car']) 001140.txt
+set(['Car']) 001141.txt
+set(['Car', 'Truck']) 001142.txt
+set(['Car']) 001143.txt
+set(['Car', 'Misc']) 001144.txt
+set(['Car']) 001145.txt
+set(['Car']) 001146.txt
+set(['Car']) 001148.txt
+set([]) 001149.txt
+set(['Car']) 001150.txt
+set(['Car']) 001151.txt
+set(['Car']) 001152.txt
+set(['Car', 'Truck']) 001153.txt
+set(['Car', 'Truck']) 001154.txt
+set(['Car']) 001155.txt
+set(['Car']) 001156.txt
+set(['Car', 'Truck']) 001157.txt
+set(['Car', 'Misc']) 001158.txt
+set(['Car', 'Truck']) 001159.txt
+set(['Car']) 001162.txt
+set(['Car']) 001163.txt
+set(['Car']) 001165.txt
+set(['Car']) 001166.txt
+set(['Car']) 001167.txt
+set(['Misc']) 001169.txt
+set(['Car']) 001170.txt
+set(['Car']) 001171.txt
+set(['Car']) 001172.txt
+set(['Truck']) 001173.txt
+set(['Car']) 001175.txt
+set(['Car']) 001176.txt
+set(['Car', 'Truck']) 001177.txt
+set(['Car']) 001178.txt
+set(['Car']) 001179.txt
+set(['Car']) 001180.txt
+set(['Car']) 001181.txt
+set(['Car', 'Misc']) 001182.txt
+set(['Car']) 001183.txt
+set(['Car', 'Truck']) 001184.txt
+set([]) 001186.txt
+set(['Car']) 001187.txt
+set(['Car']) 001188.txt
+set(['Car']) 001193.txt
+set(['Car']) 001194.txt
+set(['Car']) 001195.txt
+set(['Car']) 001196.txt
+set(['Car']) 001197.txt
+set(['Car']) 001198.txt
+set(['Car']) 001199.txt
+set(['Car']) 001200.txt
+set(['Car', 'Truck']) 001201.txt
+set(['Car']) 001203.txt
+set(['Car', 'Truck']) 001206.txt
+set([]) 001207.txt
+set(['Car']) 001209.txt
+set(['Car']) 001210.txt
+set([]) 001211.txt
+set(['Car', 'Truck']) 001212.txt
+set(['Car']) 001213.txt
+set(['Car']) 001214.txt
+set(['Car']) 001215.txt
+set(['Car']) 001216.txt
+set(['Car']) 001217.txt
+set(['Car']) 001218.txt
+set(['Car']) 001219.txt
+set([]) 001220.txt
+set(['Car']) 001221.txt
+set(['Car']) 001222.txt
+set(['Car']) 001223.txt
+set(['Car']) 001224.txt
+set(['Car', 'Truck']) 001225.txt
+set(['Car']) 001226.txt
+set(['Car']) 001227.txt
+set(['Car', 'Truck']) 001229.txt
+set(['Car']) 001230.txt
+set(['Car']) 001231.txt
+set(['Car']) 001232.txt
+set(['Car']) 001234.txt
+set(['Car', 'Misc']) 001235.txt
+set(['Car']) 001236.txt
+set(['Car']) 001237.txt
+set(['Car']) 001238.txt
+set(['Car']) 001239.txt
+set(['Car']) 001240.txt
+set(['Car']) 001241.txt
+set(['Car']) 001242.txt
+set(['Car']) 001243.txt
+set(['Car']) 001244.txt
+set(['Car']) 001245.txt
+set(['Car']) 001247.txt
+set(['Car', 'Misc', 'Truck']) 001248.txt
+set(['Car']) 001250.txt
+set(['Car']) 001251.txt
+set([]) 001252.txt
+set(['Car']) 001253.txt
+set(['Car', 'Misc']) 001254.txt
+set(['Car', 'Misc', 'Truck']) 001255.txt
+set(['Car']) 001258.txt
+set(['Car']) 001259.txt
+set(['Car']) 001260.txt
+set(['Car']) 001261.txt
+set(['Car', 'Truck']) 001262.txt
+set(['Car']) 001263.txt
+set(['Car']) 001264.txt
+set(['Car']) 001265.txt
+set(['Car']) 001266.txt
+set([]) 001267.txt
+set(['Car']) 001268.txt
+set(['Car']) 001269.txt
+set(['Car']) 001270.txt
+set(['Car', 'Misc']) 001271.txt
+set(['Car']) 001273.txt
+set(['Car']) 001274.txt
+set(['Car']) 001275.txt
+set(['Car']) 001276.txt
+set(['Car']) 001277.txt
+set(['Car']) 001280.txt
+set(['Car', 'Truck']) 001281.txt
+set(['Car']) 001282.txt
+set(['Car']) 001283.txt
+set(['Car']) 001284.txt
+set(['Car', 'Truck']) 001285.txt
+set(['Car']) 001286.txt
+set(['Car']) 001287.txt
+set(['Car']) 001290.txt
+set(['Car']) 001291.txt
+set(['Car']) 001292.txt
+set(['Car']) 001293.txt
+set(['Car']) 001294.txt
+set(['Car']) 001295.txt
+set(['Car']) 001296.txt
+set(['Car', 'Misc']) 001297.txt
+set([]) 001298.txt
+set(['Car']) 001299.txt
+set(['Car']) 001301.txt
+set(['Car', 'Truck']) 001302.txt
+set(['Car', 'Misc', 'Truck']) 001304.txt
+set(['Car', 'Truck']) 001305.txt
+set(['Car']) 001307.txt
+set(['Car', 'Misc']) 001308.txt
+set(['Car']) 001309.txt
+set(['Car']) 001310.txt
+set(['Car']) 001311.txt
+set(['Car']) 001312.txt
+set(['Car']) 001315.txt
+set(['Car', 'Truck']) 001317.txt
+set(['Car']) 001318.txt
+set(['Car']) 001319.txt
+set(['Car']) 001320.txt
+set(['Car']) 001321.txt
+set(['Car']) 001324.txt
+set(['Car']) 001325.txt
+set(['Car', 'Misc']) 001326.txt
+set(['Car']) 001327.txt
+set(['Car']) 001328.txt
+set(['Car']) 001329.txt
+set(['Car', 'Truck']) 001330.txt
+set(['Car', 'Truck']) 001331.txt
+set(['Car']) 001332.txt
+set(['Car']) 001333.txt
+set(['Misc']) 001334.txt
+set(['Car']) 001335.txt
+set(['Car']) 001336.txt
+set(['Car']) 001337.txt
+set(['Car']) 001338.txt
+set(['Car']) 001339.txt
+set(['Misc']) 001340.txt
+set(['Car']) 001341.txt
+set(['Car']) 001342.txt
+set(['Car']) 001343.txt
+set(['Car', 'Misc']) 001344.txt
+set([]) 001345.txt
+set(['Car']) 001347.txt
+set(['Car']) 001349.txt
+set(['Car']) 001350.txt
+set(['Car']) 001351.txt
+set(['Car', 'Truck']) 001352.txt
+set(['Car']) 001353.txt
+set(['Truck']) 001354.txt
+set(['Car']) 001355.txt
+set(['Car', 'Truck']) 001356.txt
+set([]) 001357.txt
+set(['Car']) 001358.txt
+set(['Car']) 001359.txt
+set(['Car', 'Truck']) 001360.txt
+set(['Car']) 001362.txt
+set(['Car']) 001363.txt
+set(['Car']) 001364.txt
+set(['Car']) 001365.txt
+set(['Car']) 001366.txt
+set(['Car', 'Truck']) 001367.txt
+set(['Car', 'Truck']) 001368.txt
+set(['Car']) 001369.txt
+set(['Car']) 001370.txt
+set(['Car']) 001371.txt
+set(['Car']) 001372.txt
+set(['Car', 'Truck']) 001373.txt
+set(['Car']) 001375.txt
+set(['Car', 'Misc']) 001376.txt
+set(['Car', 'Truck']) 001378.txt
+set(['Car']) 001379.txt
+set(['Car']) 001380.txt
+set(['Car', 'Misc']) 001381.txt
+set(['Car']) 001382.txt
+set(['Car']) 001383.txt
+set(['Car']) 001385.txt
+set(['Car']) 001386.txt
+set(['Car', 'Truck']) 001387.txt
+set(['Car', 'Misc']) 001388.txt
+set(['Car']) 001389.txt
+set(['Car']) 001390.txt
+set(['Car']) 001391.txt
+set(['Car']) 001392.txt
+set(['Car', 'Misc']) 001393.txt
+set(['Car']) 001395.txt
+set(['Car']) 001396.txt
+set(['Car', 'Truck']) 001398.txt
+set(['Car']) 001399.txt
+set(['Car']) 001400.txt
+set([]) 001401.txt
+set(['Car']) 001402.txt
+set(['Car', 'Truck']) 001403.txt
+set(['Car']) 001404.txt
+set([]) 001405.txt
+set(['Car']) 001407.txt
+set(['Car']) 001408.txt
+set(['Car']) 001409.txt
+set(['Car']) 001410.txt
+set(['Car']) 001411.txt
+set(['Car']) 001412.txt
+set(['Car']) 001413.txt
+set(['Car']) 001414.txt
+set(['Car']) 001415.txt
+set(['Car']) 001416.txt
+set(['Car']) 001417.txt
+set(['Car']) 001418.txt
+set(['Car']) 001419.txt
+set(['Car']) 001420.txt
+set([]) 001422.txt
+set(['Car']) 001424.txt
+set(['Car']) 001425.txt
+set(['Car', 'Truck']) 001426.txt
+set(['Car']) 001427.txt
+set([]) 001428.txt
+set(['Car']) 001429.txt
+set(['Car', 'Misc']) 001432.txt
+set(['Car']) 001433.txt
+set(['Car']) 001434.txt
+set(['Car']) 001435.txt
+set(['Car', 'Truck']) 001436.txt
+set(['Car']) 001437.txt
+set(['Car', 'Truck']) 001438.txt
+set(['Car']) 001439.txt
+set(['Car']) 001440.txt
+set(['Car', 'Truck']) 001442.txt
+set(['Car']) 001443.txt
+set(['Car']) 001445.txt
+set(['Car', 'Misc']) 001446.txt
+set(['Car']) 001447.txt
+set(['Car']) 001448.txt
+set([]) 001450.txt
+set(['Car', 'Truck']) 001451.txt
+set(['Car']) 001452.txt
+set(['Car', 'Truck']) 001453.txt
+set([]) 001454.txt
+set(['Car', 'Truck']) 001457.txt
+set(['Car']) 001458.txt
+set(['Car']) 001459.txt
+set(['Car', 'Misc']) 001461.txt
+set(['Car', 'Misc', 'Truck']) 001463.txt
+set(['Car']) 001464.txt
+set(['Car', 'Misc']) 001465.txt
+set(['Car']) 001466.txt
+set([]) 001467.txt
+set(['Car']) 001468.txt
+set(['Car', 'Misc']) 001469.txt
+set(['Car']) 001470.txt
+set(['Car', 'Truck']) 001471.txt
+set(['Car', 'Truck']) 001472.txt
+set(['Car', 'Truck']) 001473.txt
+set(['Car', 'Truck']) 001475.txt
+set(['Car']) 001478.txt
+set(['Car']) 001479.txt
+set(['Car', 'Truck']) 001480.txt
+set(['Car']) 001481.txt
+set(['Car']) 001482.txt
+set(['Car', 'Truck']) 001483.txt
+set(['Car']) 001484.txt
+set(['Car', 'Truck']) 001485.txt
+set(['Car']) 001486.txt
+set(['Car']) 001487.txt
+set(['Car']) 001488.txt
+set(['Car', 'Misc']) 001489.txt
+set(['Car', 'Truck']) 001490.txt
+set(['Car', 'Truck']) 001491.txt
+set(['Car', 'Truck']) 001492.txt
+set(['Car', 'Truck']) 001493.txt
+set(['Car', 'Truck']) 001494.txt
+set(['Car']) 001495.txt
+set(['Car']) 001496.txt
+set(['Car', 'Truck']) 001497.txt
+set(['Car', 'Truck']) 001498.txt
+set(['Car']) 001499.txt
+set(['Car']) 001500.txt
+set(['Car', 'Truck']) 001501.txt
+set(['Car']) 001502.txt
+set(['Car']) 001503.txt
+set([]) 001504.txt
+set(['Car', 'Misc']) 001505.txt
+set(['Car']) 001506.txt
+set(['Car', 'Truck']) 001507.txt
+set(['Car']) 001508.txt
+set(['Car', 'Truck']) 001510.txt
+set(['Car', 'Truck']) 001511.txt
+set(['Car']) 001512.txt
+set(['Car', 'Misc']) 001513.txt
+set(['Car']) 001514.txt
+set(['Car', 'Truck']) 001515.txt
+set(['Car']) 001516.txt
+set(['Car']) 001517.txt
+set(['Car']) 001518.txt
+set(['Car', 'Truck']) 001520.txt
+set(['Car']) 001521.txt
+set(['Car']) 001522.txt
+set(['Car']) 001523.txt
+set(['Car', 'Truck']) 001524.txt
+set(['Car']) 001526.txt
+set(['Car', 'Truck']) 001527.txt
+set(['Car']) 001530.txt
+set(['Car']) 001532.txt
+set(['Car', 'Misc']) 001533.txt
+set(['Car']) 001534.txt
+set(['Car']) 001535.txt
+set(['Car']) 001536.txt
+set(['Car', 'Truck']) 001537.txt
+set(['Car']) 001538.txt
+set(['Car']) 001542.txt
+set(['Car', 'Truck']) 001545.txt
+set(['Car']) 001546.txt
+set(['Car']) 001549.txt
+set(['Car']) 001550.txt
+set(['Car']) 001551.txt
+set(['Car']) 001553.txt
+set(['Car']) 001554.txt
+set(['Car']) 001555.txt
+set(['Car']) 001556.txt
+set(['Car']) 001557.txt
+set(['Car', 'Truck']) 001559.txt
+set(['Car']) 001560.txt
+set(['Car']) 001561.txt
+set(['Car']) 001562.txt
+set(['Car']) 001563.txt
+set(['Car']) 001564.txt
+set(['Car']) 001566.txt
+set(['Car']) 001567.txt
+set(['Car', 'Truck']) 001569.txt
+set([]) 001572.txt
+set(['Car']) 001573.txt
+set(['Car']) 001575.txt
+set(['Car']) 001576.txt
+set(['Car', 'Misc']) 001577.txt
+set(['Car']) 001578.txt
+set(['Car', 'Misc']) 001579.txt
+set(['Car']) 001580.txt
+set(['Car']) 001581.txt
+set(['Car']) 001582.txt
+set(['Car']) 001583.txt
+set(['Car']) 001584.txt
+set(['Car']) 001585.txt
+set(['Car', 'Misc']) 001586.txt
+set(['Car']) 001587.txt
+set(['Car']) 001588.txt
+set(['Car']) 001589.txt
+set(['Car']) 001590.txt
+set(['Car']) 001591.txt
+set(['Car']) 001592.txt
+set(['Car']) 001593.txt
+set(['Car']) 001594.txt
+set(['Car', 'Truck']) 001595.txt
+set(['Car']) 001596.txt
+set(['Car']) 001597.txt
+set(['Car']) 001598.txt
+set(['Car', 'Misc']) 001599.txt
+set(['Car']) 001600.txt
+set(['Car']) 001602.txt
+set(['Car']) 001603.txt
+set(['Car']) 001604.txt
+set(['Car']) 001605.txt
+set(['Car']) 001606.txt
+set(['Car']) 001607.txt
+set(['Car']) 001608.txt
+set(['Car']) 001610.txt
+set(['Misc']) 001611.txt
+set(['Car', 'Truck']) 001613.txt
+set(['Car']) 001615.txt
+set(['Car', 'Truck']) 001617.txt
+set(['Car']) 001618.txt
+set(['Car']) 001619.txt
+set(['Car']) 001620.txt
+set(['Car', 'Truck']) 001621.txt
+set(['Misc']) 001622.txt
+set(['Car', 'Truck']) 001623.txt
+set([]) 001624.txt
+set(['Car']) 001625.txt
+set(['Truck']) 001626.txt
+set(['Car']) 001627.txt
+set(['Car']) 001628.txt
+set(['Car', 'Truck']) 001629.txt
+set(['Car']) 001631.txt
+set(['Car']) 001633.txt
+set(['Car']) 001635.txt
+set(['Car']) 001636.txt
+set(['Car']) 001637.txt
+set(['Car', 'Misc', 'Truck']) 001638.txt
+set(['Car']) 001640.txt
+set(['Car']) 001641.txt
+set(['Car']) 001642.txt
+set(['Car']) 001643.txt
+set(['Car']) 001644.txt
+set(['Car']) 001645.txt
+set(['Car']) 001646.txt
+set(['Car']) 001647.txt
+set(['Car']) 001648.txt
+set(['Car']) 001649.txt
+set(['Car', 'Misc']) 001650.txt
+set(['Car']) 001651.txt
+set(['Car']) 001652.txt
+set(['Car']) 001653.txt
+set(['Car']) 001655.txt
+set(['Car']) 001656.txt
+set(['Car', 'Misc']) 001657.txt
+set(['Car']) 001658.txt
+set(['Car']) 001659.txt
+set(['Car']) 001660.txt
+set(['Car', 'Truck']) 001662.txt
+set(['Car']) 001663.txt
+set(['Car']) 001664.txt
+set(['Car', 'Truck']) 001665.txt
+set(['Car']) 001666.txt
+set([]) 001667.txt
+set(['Car']) 001668.txt
+set(['Car']) 001669.txt
+set(['Car']) 001671.txt
+set(['Car']) 001672.txt
+set(['Car']) 001673.txt
+set(['Car']) 001674.txt
+set(['Car', 'Truck']) 001675.txt
+set(['Car']) 001676.txt
+set(['Car']) 001677.txt
+set(['Car', 'Truck']) 001678.txt
+set(['Car']) 001679.txt
+set(['Car', 'Misc']) 001680.txt
+set(['Car']) 001681.txt
+set(['Car']) 001682.txt
+set(['Car', 'Truck']) 001684.txt
+set(['Car', 'Misc']) 001685.txt
+set(['Car']) 001686.txt
+set(['Car', 'Misc']) 001687.txt
+set(['Car']) 001688.txt
+set(['Car']) 001690.txt
+set(['Car', 'Misc']) 001691.txt
+set([]) 001692.txt
+set(['Car', 'Misc']) 001693.txt
+set(['Car', 'Misc']) 001694.txt
+set(['Car']) 001695.txt
+set(['Car']) 001696.txt
+set(['Car', 'Misc']) 001697.txt
+set(['Car']) 001698.txt
+set(['Car']) 001699.txt
+set(['Car']) 001701.txt
+set(['Car']) 001702.txt
+set(['Car']) 001703.txt
+set(['Car']) 001704.txt
+set(['Car', 'Misc']) 001705.txt
+set(['Car']) 001706.txt
+set(['Car']) 001708.txt
+set(['Car']) 001709.txt
+set(['Car']) 001710.txt
+set(['Car', 'Misc']) 001711.txt
+set(['Truck']) 001712.txt
+set(['Car']) 001714.txt
+set(['Car']) 001715.txt
+set(['Car']) 001716.txt
+set(['Car']) 001718.txt
+set(['Car']) 001719.txt
+set(['Car']) 001720.txt
+set(['Car', 'Misc']) 001721.txt
+set(['Car']) 001722.txt
+set(['Car']) 001723.txt
+set(['Car', 'Misc']) 001724.txt
+set(['Misc']) 001725.txt
+set(['Car']) 001726.txt
+set(['Car']) 001728.txt
+set(['Car']) 001729.txt
+set(['Car']) 001730.txt
+set(['Car']) 001731.txt
+set(['Car']) 001732.txt
+set(['Car']) 001733.txt
+set(['Car']) 001734.txt
+set(['Car', 'Truck']) 001735.txt
+set(['Car', 'Misc']) 001736.txt
+set(['Car']) 001737.txt
+set(['Car']) 001738.txt
+set(['Car']) 001739.txt
+set(['Car']) 001740.txt
+set(['Car']) 001741.txt
+set(['Car']) 001742.txt
+set(['Car']) 001744.txt
+set(['Car']) 001746.txt
+set(['Car', 'Misc']) 001747.txt
+set(['Car']) 001748.txt
+set(['Car']) 001749.txt
+set(['Car', 'Misc']) 001750.txt
+set(['Truck']) 001752.txt
+set(['Car']) 001753.txt
+set(['Car']) 001754.txt
+set(['Car']) 001755.txt
+set(['Car']) 001756.txt
+set(['Car', 'Truck']) 001757.txt
+set(['Car', 'Truck']) 001759.txt
+set(['Car']) 001760.txt
+set(['Car']) 001761.txt
+set(['Car']) 001762.txt
+set(['Car', 'Misc']) 001763.txt
+set(['Car']) 001764.txt
+set(['Car']) 001765.txt
+set(['Car']) 001766.txt
+set(['Car']) 001768.txt
+set(['Car']) 001769.txt
+set(['Car']) 001770.txt
+set(['Car']) 001771.txt
+set(['Car']) 001772.txt
+set(['Car', 'Misc', 'Truck']) 001773.txt
+set(['Car', 'Truck']) 001774.txt
+set(['Car']) 001775.txt
+set(['Car']) 001776.txt
+set(['Car']) 001778.txt
+set(['Car']) 001780.txt
+set(['Car']) 001781.txt
+set(['Car']) 001784.txt
+set(['Car']) 001785.txt
+set(['Car']) 001786.txt
+set(['Car']) 001787.txt
+set(['Car', 'Misc']) 001788.txt
+set(['Car']) 001789.txt
+set([]) 001790.txt
+set(['Car']) 001791.txt
+set(['Car', 'Misc']) 001792.txt
+set(['Car']) 001793.txt
+set(['Car']) 001794.txt
+set(['Car']) 001795.txt
+set(['Car']) 001796.txt
+set(['Car']) 001797.txt
+set(['Car']) 001798.txt
+set(['Car']) 001799.txt
+set(['Car']) 001800.txt
+set(['Car']) 001801.txt
+set(['Car', 'Truck']) 001802.txt
+set(['Car']) 001803.txt
+set(['Car', 'Misc']) 001805.txt
+set(['Car', 'Truck']) 001807.txt
+set(['Car', 'Misc', 'Truck']) 001808.txt
+set(['Car']) 001809.txt
+set(['Car']) 001811.txt
+set(['Car']) 001812.txt
+set(['Car']) 001813.txt
+set(['Car']) 001814.txt
+set(['Car', 'Truck']) 001815.txt
+set(['Car', 'Misc']) 001816.txt
+set(['Car', 'Truck']) 001818.txt
+set(['Car']) 001820.txt
+set(['Car']) 001821.txt
+set([]) 001822.txt
+set(['Car']) 001823.txt
+set(['Car']) 001824.txt
+set(['Car', 'Misc']) 001825.txt
+set(['Car', 'Truck']) 001826.txt
+set(['Car']) 001827.txt
+set(['Car']) 001828.txt
+set(['Car']) 001829.txt
+set(['Car']) 001830.txt
+set(['Car', 'Truck']) 001833.txt
+set(['Car', 'Truck']) 001834.txt
+set(['Car']) 001836.txt
+set(['Car']) 001837.txt
+set(['Car', 'Misc', 'Truck']) 001838.txt
+set(['Car']) 001839.txt
+set(['Car']) 001840.txt
+set(['Car']) 001841.txt
+set(['Car', 'Misc']) 001842.txt
+set(['Car', 'Misc']) 001843.txt
+set(['Car']) 001844.txt
+set(['Car']) 001847.txt
+set(['Car', 'Misc']) 001848.txt
+set(['Car']) 001849.txt
+set(['Car']) 001850.txt
+set(['Car']) 001851.txt
+set(['Car']) 001852.txt
+set(['Car']) 001853.txt
+set(['Truck']) 001854.txt
+set(['Car', 'Misc']) 001855.txt
+set(['Car']) 001856.txt
+set(['Car']) 001857.txt
+set(['Car', 'Misc']) 001858.txt
+set(['Car']) 001859.txt
+set(['Car']) 001860.txt
+set(['Car']) 001861.txt
+set(['Car', 'Misc']) 001862.txt
+set(['Car']) 001865.txt
+set(['Car', 'Truck']) 001866.txt
+set(['Car']) 001867.txt
+set(['Car']) 001868.txt
+set(['Car', 'Truck']) 001869.txt
+set(['Car']) 001871.txt
+set(['Car', 'Truck']) 001872.txt
+set([]) 001873.txt
+set(['Car']) 001874.txt
+set(['Car']) 001875.txt
+set(['Car', 'Misc']) 001876.txt
+set(['Car']) 001877.txt
+set(['Car']) 001878.txt
+set(['Car']) 001880.txt
+set(['Truck']) 001881.txt
+set(['Car']) 001882.txt
+set(['Car', 'Truck']) 001883.txt
+set(['Car', 'Truck']) 001884.txt
+set(['Car', 'Misc']) 001885.txt
+set(['Car']) 001886.txt
+set(['Car']) 001887.txt
+set(['Car']) 001888.txt
+set(['Car']) 001889.txt
+set(['Car']) 001890.txt
+set(['Car']) 001891.txt
+set(['Car', 'Misc']) 001892.txt
+set(['Car', 'Misc']) 001893.txt
+set(['Car']) 001894.txt
+set(['Car']) 001896.txt
+set(['Car']) 001897.txt
+set(['Car', 'Truck']) 001898.txt
+set([]) 001899.txt
+set(['Car']) 001900.txt
+set(['Car', 'Truck']) 001901.txt
+set(['Car']) 001903.txt
+set(['Car', 'Misc']) 001904.txt
+set(['Car']) 001906.txt
+set(['Car']) 001907.txt
+set(['Car', 'Truck']) 001908.txt
+set(['Car']) 001909.txt
+set([]) 001910.txt
+set(['Car']) 001912.txt
+set(['Car']) 001913.txt
+set(['Car', 'Misc']) 001914.txt
+set([]) 001915.txt
+set(['Car']) 001916.txt
+set(['Car', 'Misc']) 001917.txt
+set(['Car']) 001918.txt
+set(['Car']) 001919.txt
+set(['Car', 'Truck']) 001920.txt
+set(['Car']) 001921.txt
+set(['Car', 'Truck']) 001922.txt
+set(['Car']) 001924.txt
+set(['Car', 'Truck']) 001925.txt
+set(['Car']) 001926.txt
+set(['Car']) 001927.txt
+set(['Car']) 001928.txt
+set(['Car']) 001929.txt
+set(['Car']) 001930.txt
+set(['Car']) 001931.txt
+set(['Car']) 001932.txt
+set(['Car']) 001933.txt
+set(['Car']) 001934.txt
+set(['Car']) 001935.txt
+set(['Car']) 001936.txt
+set(['Car', 'Misc']) 001937.txt
+set(['Car']) 001938.txt
+set(['Car', 'Misc', 'Truck']) 001939.txt
+set(['Car']) 001940.txt
+set(['Car']) 001941.txt
+set(['Car', 'Misc', 'Truck']) 001942.txt
+set(['Car']) 001943.txt
+set(['Car', 'Truck']) 001945.txt
+set(['Car']) 001947.txt
+set(['Car', 'Misc']) 001949.txt
+set([]) 001950.txt
+set(['Car']) 001953.txt
+set(['Car']) 001954.txt
+set(['Car', 'Truck']) 001955.txt
+set(['Car']) 001957.txt
+set([]) 001958.txt
+set(['Car', 'Misc']) 001959.txt
+set(['Car']) 001960.txt
+set(['Car']) 001961.txt
+set(['Car', 'Truck']) 001965.txt
+set(['Car', 'Truck']) 001966.txt
+set(['Car']) 001967.txt
+set(['Car']) 001968.txt
+set(['Car']) 001969.txt
+set(['Truck']) 001971.txt
+set(['Car']) 001972.txt
+set(['Car', 'Misc']) 001973.txt
+set(['Car']) 001974.txt
+set(['Car']) 001975.txt
+set(['Car']) 001976.txt
+set(['Car']) 001977.txt
+set(['Car']) 001978.txt
+set(['Car', 'Truck']) 001979.txt
+set(['Car']) 001980.txt
+set([]) 001981.txt
+set(['Car']) 001983.txt
+set(['Car']) 001985.txt
+set(['Car', 'Truck']) 001986.txt
+set(['Car']) 001987.txt
+set([]) 001988.txt
+set(['Car']) 001989.txt
+set(['Car', 'Truck']) 001990.txt
+set(['Car', 'Misc']) 001991.txt
+set(['Car', 'Misc']) 001992.txt
+set(['Car']) 001993.txt
+set(['Car']) 001995.txt
+set(['Car']) 001996.txt
+set(['Car']) 001997.txt
+set(['Car']) 001999.txt
+set(['Car', 'Misc']) 002000.txt
+set(['Car']) 002001.txt
+set(['Car', 'Truck']) 002002.txt
+set(['Car']) 002003.txt
+set(['Car', 'Misc']) 002004.txt
+set(['Car']) 002005.txt
+set(['Car']) 002006.txt
+set([]) 002007.txt
+set(['Car']) 002008.txt
+set(['Car']) 002009.txt
+set(['Truck']) 002010.txt
+set(['Car']) 002012.txt
+set(['Car']) 002013.txt
+set(['Car', 'Misc']) 002014.txt
+set([]) 002015.txt
+set(['Car']) 002016.txt
+set(['Car']) 002017.txt
+set(['Car']) 002018.txt
+set(['Car']) 002019.txt
+set(['Car']) 002020.txt
+set(['Car']) 002021.txt
+set(['Car']) 002022.txt
+set(['Car']) 002024.txt
+set(['Car']) 002025.txt
+set(['Car', 'Misc']) 002026.txt
+set(['Car']) 002027.txt
+set(['Car']) 002028.txt
+set(['Car']) 002029.txt
+set(['Car']) 002032.txt
+set(['Car']) 002033.txt
+set(['Car']) 002034.txt
+set(['Car', 'Misc']) 002035.txt
+set(['Car']) 002036.txt
+set(['Car']) 002037.txt
+set(['Car']) 002038.txt
+set(['Car']) 002039.txt
+set(['Car']) 002040.txt
+set(['Car']) 002041.txt
+set([]) 002042.txt
+set(['Car']) 002043.txt
+set(['Car']) 002044.txt
+set(['Car', 'Misc']) 002045.txt
+set(['Car']) 002047.txt
+set(['Car']) 002048.txt
+set(['Car']) 002050.txt
+set(['Car']) 002051.txt
+set(['Car', 'Misc', 'Truck']) 002052.txt
+set(['Car']) 002053.txt
+set(['Car']) 002054.txt
+set(['Car']) 002055.txt
+set(['Car']) 002056.txt
+set(['Car']) 002057.txt
+set(['Car', 'Misc']) 002060.txt
+set(['Car']) 002061.txt
+set(['Car']) 002062.txt
+set(['Car']) 002063.txt
+set([]) 002065.txt
+set(['Car']) 002066.txt
+set(['Car', 'Truck']) 002067.txt
+set(['Car']) 002068.txt
+set(['Car']) 002069.txt
+set(['Car']) 002070.txt
+set([]) 002071.txt
+set(['Car']) 002072.txt
+set(['Car']) 002073.txt
+set(['Car']) 002074.txt
+set([]) 002075.txt
+set(['Car']) 002076.txt
+set(['Car']) 002077.txt
+set(['Car']) 002078.txt
+set(['Car']) 002079.txt
+set(['Car']) 002080.txt
+set(['Car']) 002081.txt
+set(['Car']) 002082.txt
+set(['Car']) 002083.txt
+set(['Car']) 002084.txt
+set(['Car']) 002085.txt
+set(['Car']) 002086.txt
+set(['Car']) 002087.txt
+set(['Car']) 002088.txt
+set(['Car']) 002089.txt
+set(['Car']) 002091.txt
+set(['Car']) 002092.txt
+set(['Car']) 002093.txt
+set(['Car']) 002094.txt
+set(['Car']) 002095.txt
+set(['Car']) 002096.txt
+set(['Car']) 002098.txt
+set(['Truck']) 002099.txt
+set(['Car']) 002100.txt
+set(['Car', 'Misc']) 002101.txt
+set(['Car', 'Misc']) 002103.txt
+set(['Car', 'Misc']) 002104.txt
+set(['Car', 'Misc', 'Truck']) 002105.txt
+set(['Car', 'Truck']) 002106.txt
+set(['Car']) 002107.txt
+set(['Car']) 002109.txt
+set(['Car']) 002110.txt
+set(['Car']) 002111.txt
+set(['Car']) 002112.txt
+set(['Car', 'Misc', 'Truck']) 002113.txt
+set(['Car', 'Misc']) 002114.txt
+set(['Car', 'Truck']) 002115.txt
+set(['Car', 'Truck']) 002116.txt
+set(['Car', 'Truck']) 002118.txt
+set(['Car']) 002119.txt
+set(['Car']) 002120.txt
+set(['Car']) 002122.txt
+set(['Car']) 002123.txt
+set(['Car']) 002124.txt
+set(['Car']) 002125.txt
+set(['Car']) 002126.txt
+set(['Car', 'Misc']) 002127.txt
+set(['Car', 'Truck']) 002128.txt
+set(['Car']) 002129.txt
+set(['Car']) 002130.txt
+set(['Car']) 002131.txt
+set(['Car']) 002132.txt
+set(['Misc']) 002133.txt
+set(['Car']) 002135.txt
+set(['Car', 'Misc']) 002136.txt
+set(['Car']) 002137.txt
+set(['Car']) 002138.txt
+set(['Car', 'Misc']) 002139.txt
+set(['Car', 'Misc', 'Truck']) 002140.txt
+set(['Car']) 002141.txt
+set(['Car', 'Misc']) 002143.txt
+set(['Car']) 002145.txt
+set(['Car']) 002146.txt
+set(['Car']) 002147.txt
+set(['Car']) 002148.txt
+set([]) 002149.txt
+set(['Car']) 002150.txt
+set(['Car', 'Misc', 'Truck']) 002151.txt
+set(['Car']) 002152.txt
+set(['Car']) 002154.txt
+set(['Car', 'Misc', 'Truck']) 002155.txt
+set(['Car', 'Truck']) 002156.txt
+set(['Car']) 002157.txt
+set(['Car']) 002158.txt
+set([]) 002160.txt
+set(['Car']) 002161.txt
+set(['Car']) 002162.txt
+set(['Car', 'Truck']) 002163.txt
+set(['Car']) 002164.txt
+set(['Car', 'Truck']) 002165.txt
+set(['Car', 'Truck']) 002166.txt
+set(['Car']) 002167.txt
+set(['Car']) 002168.txt
+set(['Car']) 002169.txt
+set(['Car', 'Truck']) 002170.txt
+set(['Car']) 002171.txt
+set(['Car']) 002172.txt
+set(['Car', 'Misc']) 002173.txt
+set(['Truck']) 002174.txt
+set(['Car']) 002175.txt
+set(['Car']) 002176.txt
+set(['Car']) 002177.txt
+set(['Car']) 002179.txt
+set([]) 002180.txt
+set(['Car']) 002181.txt
+set(['Car']) 002182.txt
+set(['Car']) 002183.txt
+set(['Car']) 002184.txt
+set(['Car', 'Truck']) 002185.txt
+set(['Car']) 002186.txt
+set(['Car']) 002187.txt
+set(['Car', 'Truck']) 002188.txt
+set(['Car']) 002189.txt
+set(['Car']) 002190.txt
+set(['Car']) 002191.txt
+set(['Car']) 002192.txt
+set(['Car']) 002193.txt
+set(['Car', 'Truck']) 002194.txt
+set(['Car']) 002195.txt
+set(['Car']) 002196.txt
+set(['Car']) 002197.txt
+set(['Car']) 002198.txt
+set(['Car']) 002199.txt
+set(['Car', 'Truck']) 002201.txt
+set(['Car']) 002202.txt
+set(['Car']) 002204.txt
+set(['Car']) 002205.txt
+set(['Car']) 002206.txt
+set(['Car']) 002207.txt
+set(['Car']) 002208.txt
+set(['Car']) 002209.txt
+set(['Car', 'Truck']) 002210.txt
+set(['Car']) 002211.txt
+set(['Car']) 002212.txt
+set(['Car', 'Misc']) 002213.txt
+set(['Car']) 002214.txt
+set(['Car']) 002215.txt
+set(['Car']) 002216.txt
+set(['Car']) 002217.txt
+set(['Car']) 002218.txt
+set(['Car']) 002219.txt
+set(['Car']) 002220.txt
+set(['Car']) 002221.txt
+set(['Car']) 002222.txt
+set(['Car']) 002223.txt
+set(['Car']) 002224.txt
+set(['Car']) 002225.txt
+set(['Car']) 002227.txt
+set(['Car']) 002228.txt
+set(['Car', 'Truck']) 002229.txt
+set(['Car', 'Truck']) 002230.txt
+set(['Car']) 002231.txt
+set(['Car']) 002232.txt
+set(['Car']) 002233.txt
+set(['Car']) 002234.txt
+set(['Car']) 002235.txt
+set(['Car']) 002236.txt
+set(['Car', 'Misc']) 002237.txt
+set([]) 002238.txt
+set(['Car']) 002239.txt
+set(['Car']) 002240.txt
+set(['Car', 'Truck']) 002241.txt
+set(['Car']) 002242.txt
+set(['Car']) 002243.txt
+set(['Car']) 002244.txt
+set(['Car']) 002245.txt
+set(['Car']) 002248.txt
+set(['Car']) 002250.txt
+set(['Car']) 002251.txt
+set(['Car']) 002252.txt
+set(['Car']) 002253.txt
+set(['Car']) 002254.txt
+set(['Car']) 002255.txt
+set(['Car']) 002256.txt
+set(['Car']) 002257.txt
+set(['Car']) 002259.txt
+set(['Car', 'Misc']) 002260.txt
+set(['Car']) 002262.txt
+set(['Car']) 002263.txt
+set(['Car']) 002264.txt
+set(['Car', 'Misc']) 002265.txt
+set(['Car']) 002266.txt
+set(['Car']) 002268.txt
+set(['Car']) 002269.txt
+set(['Car']) 002272.txt
+set(['Car']) 002273.txt
+set(['Car']) 002274.txt
+set(['Car']) 002275.txt
+set(['Car']) 002276.txt
+set(['Car']) 002277.txt
+set(['Car']) 002278.txt
+set([]) 002279.txt
+set(['Car', 'Truck']) 002280.txt
+set(['Car']) 002281.txt
+set(['Car']) 002283.txt
+set(['Car', 'Truck']) 002284.txt
+set(['Car']) 002285.txt
+set(['Car']) 002286.txt
+set(['Car']) 002288.txt
+set([]) 002289.txt
+set(['Car']) 002290.txt
+set(['Car']) 002291.txt
+set(['Car', 'Misc']) 002293.txt
+set(['Car', 'Truck']) 002294.txt
+set(['Car']) 002295.txt
+set(['Car']) 002296.txt
+set(['Car']) 002297.txt
+set(['Car']) 002298.txt
+set(['Car']) 002300.txt
+set(['Car', 'Misc']) 002301.txt
+set(['Car']) 002302.txt
+set(['Car', 'Truck']) 002304.txt
+set(['Car']) 002305.txt
+set(['Car', 'Misc']) 002306.txt
+set(['Car']) 002307.txt
+set(['Car', 'Truck']) 002308.txt
+set(['Car']) 002309.txt
+set(['Car']) 002312.txt
+set(['Car']) 002313.txt
+set(['Car', 'Misc']) 002314.txt
+set(['Car']) 002315.txt
+set(['Car', 'Misc']) 002316.txt
+set(['Car']) 002317.txt
+set(['Car']) 002318.txt
+set(['Car']) 002319.txt
+set(['Car']) 002321.txt
+set(['Car']) 002322.txt
+set(['Car']) 002323.txt
+set(['Truck']) 002325.txt
+set(['Car', 'Truck']) 002326.txt
+set(['Car', 'Truck']) 002328.txt
+set(['Car']) 002330.txt
+set(['Car']) 002331.txt
+set(['Car']) 002332.txt
+set(['Car']) 002335.txt
+set(['Car']) 002336.txt
+set(['Car', 'Truck']) 002337.txt
+set(['Car']) 002338.txt
+set(['Car']) 002340.txt
+set(['Car', 'Misc']) 002341.txt
+set(['Car']) 002343.txt
+set(['Car', 'Misc']) 002344.txt
+set(['Car', 'Misc']) 002345.txt
+set(['Car']) 002346.txt
+set(['Car']) 002347.txt
+set(['Car']) 002348.txt
+set([]) 002351.txt
+set(['Car']) 002352.txt
+set(['Car', 'Truck']) 002353.txt
+set(['Car']) 002354.txt
+set(['Car']) 002355.txt
+set(['Car']) 002356.txt
+set(['Car']) 002357.txt
+set(['Car']) 002359.txt
+set(['Car']) 002361.txt
+set(['Car']) 002362.txt
+set(['Car']) 002363.txt
+set(['Car']) 002364.txt
+set(['Car']) 002365.txt
+set(['Car']) 002366.txt
+set(['Car', 'Misc']) 002367.txt
+set(['Car']) 002368.txt
+set([]) 002369.txt
+set(['Car']) 002370.txt
+set(['Car']) 002371.txt
+set(['Car', 'Misc']) 002372.txt
+set(['Car']) 002373.txt
+set(['Car']) 002374.txt
+set(['Car', 'Truck']) 002375.txt
+set(['Car']) 002376.txt
+set(['Car']) 002377.txt
+set(['Car']) 002378.txt
+set([]) 002379.txt
+set(['Car', 'Misc']) 002380.txt
+set(['Car']) 002381.txt
+set(['Car']) 002382.txt
+set(['Car']) 002383.txt
+set(['Car', 'Misc']) 002384.txt
+set(['Car']) 002385.txt
+set([]) 002386.txt
+set(['Car', 'Misc']) 002387.txt
+set(['Car']) 002388.txt
+set(['Car']) 002389.txt
+set(['Car']) 002390.txt
+set(['Car']) 002391.txt
+set(['Car', 'Truck']) 002392.txt
+set(['Car', 'Truck']) 002394.txt
+set(['Car']) 002395.txt
+set(['Car']) 002396.txt
+set(['Car', 'Misc']) 002397.txt
+set(['Car']) 002398.txt
+set(['Car']) 002399.txt
+set(['Car', 'Misc']) 002400.txt
+set(['Car']) 002401.txt
+set(['Car']) 002404.txt
+set(['Car']) 002406.txt
+set(['Car']) 002407.txt
+set(['Car', 'Misc', 'Truck']) 002409.txt
+set(['Car']) 002411.txt
+set(['Car']) 002412.txt
+set(['Car']) 002413.txt
+set(['Car']) 002414.txt
+set(['Car']) 002415.txt
+set(['Car']) 002416.txt
+set([]) 002417.txt
+set(['Car']) 002418.txt
+set(['Car']) 002419.txt
+set(['Car']) 002420.txt
+set(['Car']) 002422.txt
+set(['Car']) 002425.txt
+set(['Car']) 002426.txt
+set(['Car', 'Truck']) 002427.txt
+set(['Car']) 002428.txt
+set(['Car']) 002429.txt
+set(['Car']) 002430.txt
+set(['Car']) 002434.txt
+set(['Car']) 002435.txt
+set(['Car', 'Misc']) 002436.txt
+set(['Car']) 002437.txt
+set(['Car', 'Misc']) 002438.txt
+set(['Car']) 002441.txt
+set(['Car']) 002442.txt
+set(['Car']) 002444.txt
+set(['Car']) 002445.txt
+set(['Car']) 002446.txt
+set(['Car']) 002447.txt
+set(['Car', 'Truck']) 002448.txt
+set(['Car', 'Misc', 'Truck']) 002449.txt
+set(['Car']) 002450.txt
+set(['Car']) 002451.txt
+set(['Car']) 002452.txt
+set(['Car']) 002453.txt
+set(['Car', 'Misc']) 002454.txt
+set(['Car']) 002455.txt
+set(['Car']) 002458.txt
+set(['Car', 'Misc', 'Truck']) 002459.txt
+set(['Car']) 002460.txt
+set(['Car', 'Misc']) 002461.txt
+set(['Car']) 002462.txt
+set(['Car']) 002463.txt
+set(['Car']) 002464.txt
+set(['Car']) 002465.txt
+set(['Car']) 002466.txt
+set(['Car']) 002467.txt
+set(['Car']) 002468.txt
+set(['Car']) 002469.txt
+set(['Car']) 002470.txt
+set(['Car', 'Truck']) 002471.txt
+set(['Car']) 002472.txt
+set(['Car']) 002473.txt
+set(['Car']) 002474.txt
+set(['Car']) 002475.txt
+set(['Car']) 002476.txt
+set(['Car', 'Misc']) 002477.txt
+set(['Car']) 002479.txt
+set(['Car']) 002481.txt
+set(['Car']) 002482.txt
+set(['Car', 'Truck']) 002483.txt
+set(['Car']) 002484.txt
+set(['Car']) 002486.txt
+set(['Car']) 002487.txt
+set(['Car']) 002488.txt
+set(['Car']) 002489.txt
+set(['Car']) 002490.txt
+set(['Car']) 002491.txt
+set(['Car', 'Misc', 'Truck']) 002492.txt
+set(['Car']) 002494.txt
+set(['Car', 'Misc']) 002495.txt
+set([]) 002496.txt
+set(['Car']) 002497.txt
+set([]) 002498.txt
+set([]) 002499.txt
+set(['Car']) 002500.txt
+set(['Car']) 002501.txt
+set(['Car']) 002502.txt
+set(['Car']) 002503.txt
+set(['Car', 'Misc']) 002504.txt
+set(['Car', 'Truck']) 002505.txt
+set(['Car']) 002506.txt
+set(['Car']) 002508.txt
+set(['Car']) 002509.txt
+set(['Car', 'Truck']) 002510.txt
+set(['Car']) 002512.txt
+set(['Car', 'Truck']) 002513.txt
+set(['Car']) 002514.txt
+set(['Car']) 002515.txt
+set(['Car']) 002516.txt
+set(['Car']) 002517.txt
+set(['Car']) 002518.txt
+set(['Car', 'Truck']) 002520.txt
+set(['Car']) 002521.txt
+set(['Car']) 002522.txt
+set(['Car']) 002524.txt
+set(['Car', 'Truck']) 002525.txt
+set([]) 002526.txt
+set(['Car']) 002527.txt
+set(['Car']) 002528.txt
+set(['Car']) 002530.txt
+set(['Car']) 002531.txt
+set(['Car', 'Truck']) 002532.txt
+set(['Car', 'Truck']) 002533.txt
+set(['Car']) 002534.txt
+set(['Car']) 002535.txt
+set([]) 002536.txt
+set(['Car', 'Misc']) 002537.txt
+set(['Car']) 002538.txt
+set(['Car']) 002539.txt
+set(['Car', 'Misc', 'Truck']) 002540.txt
+set(['Car']) 002541.txt
+set(['Car']) 002543.txt
+set(['Car']) 002544.txt
+set(['Car']) 002545.txt
+set(['Car']) 002547.txt
+set(['Car', 'Misc', 'Truck']) 002549.txt
+set(['Car']) 002550.txt
+set(['Car']) 002551.txt
+set(['Car', 'Misc']) 002552.txt
+set(['Car']) 002553.txt
+set(['Car']) 002555.txt
+set(['Car']) 002556.txt
+set([]) 002557.txt
+set(['Car', 'Misc']) 002558.txt
+set(['Car']) 002560.txt
+set(['Car', 'Truck']) 002561.txt
+set(['Car']) 002562.txt
+set(['Car']) 002563.txt
+set(['Car']) 002564.txt
+set(['Car']) 002565.txt
+set(['Car']) 002566.txt
+set(['Car']) 002568.txt
+set(['Car']) 002569.txt
+set(['Car']) 002570.txt
+set(['Car', 'Truck']) 002571.txt
+set(['Car', 'Misc', 'Truck']) 002572.txt
+set(['Car']) 002573.txt
+set(['Car']) 002574.txt
+set(['Car', 'Misc']) 002575.txt
+set(['Car']) 002577.txt
+set(['Car']) 002578.txt
+set(['Car']) 002579.txt
+set(['Car']) 002580.txt
+set(['Car']) 002581.txt
+set(['Car']) 002582.txt
+set(['Car']) 002583.txt
+set(['Car', 'Misc', 'Truck']) 002584.txt
+set(['Car']) 002585.txt
+set(['Car']) 002586.txt
+set(['Car']) 002587.txt
+set(['Car']) 002588.txt
+set(['Car']) 002589.txt
+set(['Car']) 002590.txt
+set(['Car']) 002591.txt
+set(['Car']) 002592.txt
+set(['Car']) 002593.txt
+set(['Car']) 002595.txt
+set(['Car']) 002597.txt
+set(['Car', 'Truck']) 002598.txt
+set(['Car']) 002599.txt
+set(['Car']) 002600.txt
+set(['Car', 'Misc']) 002601.txt
+set(['Car']) 002602.txt
+set(['Car']) 002603.txt
+set(['Car', 'Misc']) 002604.txt
+set(['Truck']) 002605.txt
+set(['Car']) 002606.txt
+set(['Car']) 002607.txt
+set(['Car']) 002608.txt
+set(['Car']) 002609.txt
+set(['Car', 'Truck']) 002610.txt
+set(['Car']) 002611.txt
+set(['Car']) 002612.txt
+set(['Car']) 002614.txt
+set(['Car']) 002615.txt
+set([]) 002616.txt
+set(['Car']) 002619.txt
+set(['Car', 'Truck']) 002620.txt
+set(['Car']) 002621.txt
+set(['Car', 'Truck']) 002622.txt
+set(['Car', 'Truck']) 002623.txt
+set(['Car']) 002624.txt
+set(['Car']) 002625.txt
+set(['Car']) 002626.txt
+set(['Truck']) 002628.txt
+set(['Car', 'Misc', 'Truck']) 002629.txt
+set(['Car']) 002630.txt
+set(['Car']) 002631.txt
+set(['Car']) 002632.txt
+set(['Car']) 002633.txt
+set([]) 002634.txt
+set(['Car']) 002635.txt
+set(['Car']) 002637.txt
+set(['Car']) 002638.txt
+set(['Car']) 002639.txt
+set(['Car']) 002641.txt
+set(['Car']) 002642.txt
+set(['Car', 'Misc']) 002644.txt
+set(['Car', 'Truck']) 002645.txt
+set(['Car']) 002646.txt
+set(['Car']) 002647.txt
+set(['Car']) 002648.txt
+set([]) 002649.txt
+set(['Car']) 002652.txt
+set([]) 002653.txt
+set(['Car']) 002654.txt
+set(['Car']) 002655.txt
+set(['Car']) 002656.txt
+set(['Car', 'Misc']) 002657.txt
+set(['Car']) 002658.txt
+set([]) 002659.txt
+set(['Car']) 002660.txt
+set(['Car']) 002661.txt
+set(['Car']) 002662.txt
+set([]) 002663.txt
+set(['Car', 'Truck']) 002664.txt
+set(['Car']) 002665.txt
+set(['Car']) 002666.txt
+set(['Car']) 002667.txt
+set(['Car']) 002668.txt
+set(['Car']) 002669.txt
+set(['Car']) 002670.txt
+set(['Car']) 002675.txt
+set(['Car']) 002677.txt
+set(['Car']) 002678.txt
+set(['Car', 'Misc']) 002679.txt
+set(['Car', 'Truck']) 002681.txt
+set(['Car']) 002682.txt
+set(['Car']) 002683.txt
+set(['Car']) 002684.txt
+set(['Car']) 002685.txt
+set(['Car']) 002686.txt
+set(['Car']) 002687.txt
+set(['Car']) 002688.txt
+set(['Car']) 002690.txt
+set(['Car']) 002691.txt
+set(['Car', 'Truck']) 002692.txt
+set(['Car']) 002694.txt
+set(['Car', 'Misc']) 002695.txt
+set(['Car', 'Truck']) 002696.txt
+set(['Car', 'Truck']) 002698.txt
+set(['Car']) 002699.txt
+set(['Car', 'Truck']) 002700.txt
+set(['Car']) 002701.txt
+set(['Car']) 002702.txt
+set(['Car']) 002703.txt
+set(['Car', 'Truck']) 002704.txt
+set(['Car']) 002705.txt
+set(['Car']) 002706.txt
+set([]) 002707.txt
+set(['Car']) 002708.txt
+set(['Car']) 002709.txt
+set(['Car']) 002710.txt
+set(['Car']) 002713.txt
+set(['Car']) 002714.txt
+set(['Car']) 002715.txt
+set(['Car']) 002716.txt
+set(['Truck']) 002717.txt
+set(['Car']) 002719.txt
+set(['Car', 'Truck']) 002720.txt
+set(['Car', 'Truck']) 002721.txt
+set(['Car', 'Truck']) 002722.txt
+set(['Car']) 002723.txt
+set(['Car', 'Truck']) 002724.txt
+set(['Car']) 002725.txt
+set(['Car']) 002727.txt
+set(['Car']) 002728.txt
+set(['Car']) 002729.txt
+set(['Car', 'Truck']) 002730.txt
+set(['Car', 'Truck']) 002731.txt
+set(['Car']) 002732.txt
+set(['Car', 'Truck']) 002733.txt
+set(['Car', 'Truck']) 002734.txt
+set(['Car']) 002736.txt
+set(['Car']) 002738.txt
+set(['Car']) 002740.txt
+set(['Car']) 002743.txt
+set(['Car', 'Truck']) 002744.txt
+set(['Car']) 002746.txt
+set(['Car']) 002747.txt
+set(['Car', 'Misc']) 002748.txt
+set(['Car']) 002750.txt
+set(['Car']) 002751.txt
+set(['Car', 'Misc']) 002752.txt
+set(['Car']) 002753.txt
+set(['Car']) 002754.txt
+set(['Car']) 002755.txt
+set(['Car']) 002756.txt
+set(['Car']) 002757.txt
+set(['Car']) 002758.txt
+set(['Car']) 002759.txt
+set(['Car']) 002760.txt
+set(['Car']) 002762.txt
+set(['Car']) 002765.txt
+set(['Car']) 002766.txt
+set(['Car']) 002770.txt
+set(['Car']) 002771.txt
+set(['Car']) 002772.txt
+set(['Car']) 002773.txt
+set([]) 002774.txt
+set(['Car']) 002775.txt
+set(['Car']) 002776.txt
+set(['Car', 'Truck']) 002778.txt
+set(['Car']) 002779.txt
+set(['Car']) 002781.txt
+set(['Car']) 002782.txt
+set(['Car']) 002783.txt
+set(['Car']) 002784.txt
+set(['Car']) 002785.txt
+set(['Car']) 002786.txt
+set(['Car']) 002787.txt
+set(['Car']) 002788.txt
+set(['Car']) 002789.txt
+set(['Car']) 002791.txt
+set(['Car']) 002793.txt
+set(['Car', 'Misc']) 002794.txt
+set(['Car']) 002795.txt
+set(['Car']) 002796.txt
+set(['Car']) 002797.txt
+set(['Car']) 002798.txt
+set(['Car']) 002800.txt
+set(['Car']) 002802.txt
+set(['Car']) 002803.txt
+set(['Car']) 002804.txt
+set(['Car']) 002805.txt
+set(['Car']) 002806.txt
+set(['Car']) 002807.txt
+set(['Car', 'Misc']) 002808.txt
+set(['Car', 'Truck']) 002809.txt
+set(['Car']) 002810.txt
+set(['Car']) 002812.txt
+set([]) 002813.txt
+set(['Car']) 002816.txt
+set(['Car']) 002817.txt
+set(['Car']) 002818.txt
+set(['Car']) 002819.txt
+set(['Car']) 002820.txt
+set(['Car', 'Truck']) 002821.txt
+set(['Car']) 002822.txt
+set(['Car']) 002823.txt
+set(['Car']) 002824.txt
+set(['Car']) 002825.txt
+set(['Car']) 002826.txt
+set(['Car']) 002827.txt
+set(['Car', 'Truck']) 002828.txt
+set(['Car']) 002829.txt
+set(['Car']) 002830.txt
+set(['Car']) 002831.txt
+set(['Car']) 002832.txt
+set(['Car', 'Misc', 'Truck']) 002833.txt
+set(['Car']) 002834.txt
+set(['Car']) 002835.txt
+set(['Car', 'Truck']) 002836.txt
+set(['Car', 'Truck']) 002837.txt
+set(['Car', 'Truck']) 002838.txt
+set(['Car', 'Truck']) 002840.txt
+set(['Car']) 002841.txt
+set(['Car']) 002842.txt
+set(['Car']) 002843.txt
+set(['Car']) 002844.txt
+set(['Car']) 002845.txt
+set(['Car']) 002846.txt
+set(['Car', 'Misc']) 002847.txt
+set(['Car', 'Misc']) 002848.txt
+set(['Car']) 002850.txt
+set([]) 002851.txt
+set(['Car']) 002852.txt
+set(['Car']) 002853.txt
+set(['Car']) 002854.txt
+set(['Car']) 002855.txt
+set(['Car']) 002856.txt
+set(['Car']) 002858.txt
+set(['Car', 'Misc', 'Truck']) 002859.txt
+set(['Car']) 002861.txt
+set(['Car']) 002862.txt
+set([]) 002863.txt
+set(['Car']) 002864.txt
+set(['Car']) 002865.txt
+set(['Car']) 002866.txt
+set(['Car', 'Misc']) 002867.txt
+set(['Car']) 002869.txt
+set([]) 002870.txt
+set(['Car', 'Misc']) 002871.txt
+set(['Car']) 002872.txt
+set(['Car']) 002874.txt
+set(['Car']) 002876.txt
+set(['Car']) 002877.txt
+set(['Car']) 002879.txt
+set(['Car']) 002880.txt
+set(['Car']) 002882.txt
+set(['Car', 'Truck']) 002883.txt
+set(['Car']) 002884.txt
+set([]) 002885.txt
+set(['Car', 'Truck']) 002886.txt
+set(['Car']) 002887.txt
+set(['Car', 'Misc']) 002890.txt
+set(['Car', 'Truck']) 002891.txt
+set(['Car']) 002892.txt
+set(['Car']) 002893.txt
+set(['Car', 'Misc', 'Truck']) 002894.txt
+set(['Car']) 002895.txt
+set(['Car']) 002896.txt
+set(['Car']) 002897.txt
+set(['Car']) 002899.txt
+set(['Car', 'Misc']) 002900.txt
+set(['Car']) 002901.txt
+set(['Car', 'Misc']) 002902.txt
+set([]) 002904.txt
+set(['Car']) 002905.txt
+set(['Car']) 002907.txt
+set(['Car']) 002908.txt
+set([]) 002909.txt
+set(['Car']) 002910.txt
+set(['Car']) 002911.txt
+set(['Car', 'Truck']) 002912.txt
+set(['Car', 'Misc']) 002913.txt
+set([]) 002914.txt
+set(['Car']) 002915.txt
+set(['Misc']) 002917.txt
+set(['Car']) 002918.txt
+set(['Car']) 002919.txt
+set([]) 002920.txt
+set(['Car']) 002921.txt
+set(['Car']) 002922.txt
+set(['Car']) 002923.txt
+set(['Car']) 002925.txt
+set(['Car']) 002926.txt
+set(['Car']) 002928.txt
+set(['Car']) 002929.txt
+set(['Car', 'Misc', 'Truck']) 002930.txt
+set(['Car', 'Truck']) 002931.txt
+set(['Car']) 002932.txt
+set(['Car']) 002933.txt
+set(['Car']) 002934.txt
+set(['Car']) 002935.txt
+set(['Car']) 002936.txt
+set(['Car', 'Misc']) 002937.txt
+set(['Truck']) 002938.txt
+set(['Car']) 002940.txt
+set(['Car']) 002942.txt
+set([]) 002943.txt
+set(['Car']) 002944.txt
+set(['Car']) 002945.txt
+set(['Car']) 002946.txt
+set(['Car', 'Misc', 'Truck']) 002947.txt
+set(['Car', 'Truck']) 002951.txt
+set(['Car', 'Truck']) 002953.txt
+set([]) 002954.txt
+set(['Car']) 002955.txt
+set(['Car']) 002957.txt
+set(['Car']) 002958.txt
+set(['Car']) 002959.txt
+set(['Car', 'Misc']) 002960.txt
+set(['Car']) 002961.txt
+set(['Car', 'Misc', 'Truck']) 002963.txt
+set(['Car']) 002965.txt
+set(['Car']) 002966.txt
+set(['Car']) 002967.txt
+set(['Car']) 002968.txt
+set(['Car', 'Misc']) 002969.txt
+set(['Car', 'Truck']) 002970.txt
+set(['Car']) 002971.txt
+set(['Car', 'Truck']) 002972.txt
+set(['Car']) 002973.txt
+set(['Car']) 002974.txt
+set(['Car']) 002975.txt
+set(['Car']) 002977.txt
+set(['Car']) 002978.txt
+set([]) 002979.txt
+set(['Car']) 002980.txt
+set(['Car', 'Truck']) 002981.txt
+set(['Car']) 002982.txt
+set(['Car']) 002983.txt
+set(['Car']) 002984.txt
+set(['Car']) 002985.txt
+set(['Car']) 002986.txt
+set(['Car']) 002987.txt
+set(['Car']) 002988.txt
+set(['Car']) 002989.txt
+set(['Car']) 002990.txt
+set(['Car']) 002991.txt
+set(['Car']) 002992.txt
+set(['Car', 'Truck']) 002993.txt
+set(['Car', 'Misc']) 002995.txt
+set(['Car']) 002996.txt
+set(['Car', 'Misc']) 002997.txt
+set(['Car']) 002998.txt
+set(['Car']) 002999.txt
+set(['Car', 'Truck']) 003000.txt
+set(['Car']) 003001.txt
+set(['Truck']) 003002.txt
+set(['Car']) 003004.txt
+set(['Car']) 003005.txt
+set(['Car']) 003006.txt
+set(['Car', 'Truck']) 003007.txt
+set(['Car']) 003008.txt
+set(['Car']) 003009.txt
+set(['Car']) 003010.txt
+set(['Car']) 003011.txt
+set(['Car']) 003012.txt
+set(['Car', 'Misc']) 003014.txt
+set(['Car']) 003015.txt
+set(['Car']) 003016.txt
+set(['Car']) 003017.txt
+set(['Car']) 003019.txt
+set(['Misc']) 003020.txt
+set(['Car']) 003021.txt
+set(['Car']) 003022.txt
+set(['Car']) 003023.txt
+set(['Car']) 003025.txt
+set(['Car']) 003027.txt
+set(['Car']) 003028.txt
+set(['Car', 'Truck']) 003029.txt
+set(['Car']) 003030.txt
+set(['Car']) 003031.txt
+set(['Car', 'Truck']) 003032.txt
+set(['Car', 'Truck']) 003033.txt
+set(['Car']) 003034.txt
+set(['Car', 'Truck']) 003035.txt
+set(['Car']) 003036.txt
+set(['Car']) 003037.txt
+set(['Car']) 003038.txt
+set(['Car']) 003039.txt
+set(['Car']) 003040.txt
+set(['Car', 'Truck']) 003041.txt
+set(['Car']) 003042.txt
+set(['Car']) 003043.txt
+set(['Car']) 003044.txt
+set(['Car']) 003045.txt
+set(['Car']) 003046.txt
+set(['Car']) 003047.txt
+set(['Car']) 003048.txt
+set(['Car']) 003049.txt
+set(['Car']) 003051.txt
+set(['Car']) 003052.txt
+set(['Car']) 003053.txt
+set([]) 003054.txt
+set(['Car']) 003055.txt
+set(['Car']) 003056.txt
+set(['Car', 'Truck']) 003057.txt
+set(['Car']) 003058.txt
+set(['Car']) 003061.txt
+set(['Car']) 003062.txt
+set(['Car']) 003063.txt
+set(['Car']) 003064.txt
+set(['Car', 'Truck']) 003066.txt
+set(['Car']) 003067.txt
+set(['Car']) 003068.txt
+set(['Car']) 003070.txt
+set(['Car']) 003071.txt
+set(['Car', 'Misc', 'Truck']) 003072.txt
+set(['Car', 'Truck']) 003073.txt
+set(['Car']) 003074.txt
+set(['Car', 'Truck']) 003075.txt
+set(['Car']) 003077.txt
+set(['Car']) 003078.txt
+set(['Car']) 003079.txt
+set(['Car']) 003080.txt
+set(['Car']) 003081.txt
+set([]) 003082.txt
+set(['Car']) 003083.txt
+set(['Car']) 003084.txt
+set(['Car']) 003086.txt
+set(['Car']) 003087.txt
+set(['Truck']) 003088.txt
+set(['Car']) 003089.txt
+set(['Car']) 003090.txt
+set(['Car', 'Misc', 'Truck']) 003092.txt
+set(['Car', 'Truck']) 003093.txt
+set(['Car']) 003095.txt
+set(['Car', 'Truck']) 003096.txt
+set(['Car']) 003097.txt
+set(['Car']) 003098.txt
+set(['Car']) 003099.txt
+set(['Car']) 003100.txt
+set(['Car']) 003101.txt
+set(['Car', 'Truck']) 003102.txt
+set(['Car']) 003103.txt
+set(['Car']) 003104.txt
+set(['Car']) 003105.txt
+set(['Misc']) 003106.txt
+set(['Car']) 003107.txt
+set([]) 003108.txt
+set(['Car']) 003109.txt
+set(['Car']) 003110.txt
+set(['Car']) 003111.txt
+set(['Car']) 003112.txt
+set(['Car']) 003113.txt
+set(['Car']) 003114.txt
+set(['Car']) 003115.txt
+set(['Car']) 003116.txt
+set(['Car']) 003117.txt
+set(['Car']) 003118.txt
+set(['Car']) 003119.txt
+set(['Car']) 003120.txt
+set(['Car']) 003123.txt
+set(['Car', 'Truck']) 003124.txt
+set(['Car']) 003125.txt
+set(['Car']) 003126.txt
+set(['Car']) 003127.txt
+set(['Car', 'Misc']) 003128.txt
+set(['Car']) 003129.txt
+set(['Car']) 003131.txt
+set(['Car']) 003133.txt
+set(['Car', 'Misc', 'Truck']) 003136.txt
+set(['Car']) 003137.txt
+set(['Car']) 003138.txt
+set(['Car', 'Truck']) 003139.txt
+set(['Car']) 003140.txt
+set(['Car']) 003141.txt
+set(['Car', 'Misc', 'Truck']) 003142.txt
+set(['Car', 'Truck']) 003143.txt
+set(['Car']) 003144.txt
+set(['Car']) 003145.txt
+set(['Car']) 003146.txt
+set(['Car']) 003148.txt
+set([]) 003149.txt
+set(['Car']) 003150.txt
+set(['Car', 'Truck']) 003151.txt
+set(['Car']) 003152.txt
+set(['Car']) 003153.txt
+set(['Car']) 003154.txt
+set(['Car']) 003155.txt
+set(['Car']) 003156.txt
+set(['Car']) 003158.txt
+set(['Car', 'Truck']) 003159.txt
+set(['Car']) 003160.txt
+set(['Car', 'Misc']) 003161.txt
+set(['Car', 'Truck']) 003163.txt
+set(['Car', 'Truck']) 003165.txt
+set(['Car']) 003166.txt
+set(['Car']) 003167.txt
+set(['Car']) 003168.txt
+set(['Car']) 003169.txt
+set(['Car', 'Truck']) 003172.txt
+set(['Car']) 003173.txt
+set(['Car']) 003174.txt
+set(['Car']) 003176.txt
+set(['Car']) 003178.txt
+set(['Car']) 003179.txt
+set(['Car']) 003180.txt
+set(['Car', 'Truck']) 003182.txt
+set(['Car']) 003183.txt
+set(['Car']) 003184.txt
+set(['Car', 'Truck']) 003186.txt
+set(['Car', 'Misc']) 003187.txt
+set(['Car']) 003188.txt
+set(['Car']) 003189.txt
+set(['Car', 'Misc']) 003190.txt
+set(['Car']) 003191.txt
+set(['Car']) 003192.txt
+set(['Car']) 003195.txt
+set(['Truck']) 003196.txt
+set(['Car']) 003197.txt
+set(['Car']) 003198.txt
+set(['Car']) 003199.txt
+set(['Car']) 003200.txt
+set(['Car']) 003201.txt
+set([]) 003202.txt
+set(['Car']) 003204.txt
+set(['Car']) 003205.txt
+set(['Car']) 003207.txt
+set(['Car']) 003208.txt
+set(['Car']) 003209.txt
+set(['Car', 'Truck']) 003212.txt
+set(['Car']) 003213.txt
+set(['Car', 'Misc']) 003214.txt
+set(['Car']) 003215.txt
+set(['Car', 'Misc']) 003216.txt
+set(['Car']) 003218.txt
+set(['Car']) 003219.txt
+set(['Car']) 003220.txt
+set(['Car']) 003222.txt
+set([]) 003223.txt
+set(['Car']) 003224.txt
+set(['Car']) 003225.txt
+set(['Car']) 003226.txt
+set(['Car', 'Truck']) 003227.txt
+set(['Car']) 003228.txt
+set(['Car']) 003229.txt
+set(['Car']) 003230.txt
+set(['Car']) 003232.txt
+set(['Car']) 003233.txt
+set(['Car']) 003234.txt
+set([]) 003235.txt
+set(['Car']) 003237.txt
+set(['Car']) 003238.txt
+set(['Car', 'Truck']) 003239.txt
+set(['Car']) 003240.txt
+set(['Car']) 003241.txt
+set(['Car']) 003242.txt
+set(['Car']) 003244.txt
+set(['Car']) 003246.txt
+set([]) 003249.txt
+set(['Car']) 003250.txt
+set(['Car']) 003251.txt
+set(['Car']) 003252.txt
+set(['Car']) 003253.txt
+set(['Car']) 003254.txt
+set(['Car']) 003255.txt
+set([]) 003256.txt
+set(['Car']) 003257.txt
+set(['Car']) 003258.txt
+set(['Car']) 003259.txt
+set(['Car']) 003260.txt
+set(['Car']) 003261.txt
+set(['Car', 'Misc']) 003262.txt
+set(['Car']) 003263.txt
+set(['Car']) 003265.txt
+set(['Car']) 003266.txt
+set(['Car']) 003267.txt
+set(['Car']) 003268.txt
+set(['Car']) 003270.txt
+set(['Car', 'Misc']) 003271.txt
+set(['Car']) 003272.txt
+set(['Car']) 003273.txt
+set(['Car']) 003274.txt
+set(['Car', 'Truck']) 003275.txt
+set(['Car', 'Truck']) 003276.txt
+set(['Car']) 003278.txt
+set(['Car']) 003279.txt
+set(['Car', 'Misc']) 003280.txt
+set(['Car']) 003282.txt
+set(['Car']) 003283.txt
+set(['Car', 'Truck']) 003284.txt
+set(['Car']) 003285.txt
+set(['Car']) 003286.txt
+set(['Car']) 003287.txt
+set(['Car']) 003288.txt
+set(['Car']) 003289.txt
+set(['Car']) 003290.txt
+set(['Car']) 003291.txt
+set(['Car']) 003292.txt
+set(['Car', 'Misc']) 003293.txt
+set([]) 003294.txt
+set(['Car']) 003296.txt
+set(['Car']) 003297.txt
+set(['Car']) 003299.txt
+set(['Car']) 003300.txt
+set(['Car']) 003301.txt
+set(['Car']) 003302.txt
+set(['Car']) 003303.txt
+set(['Car', 'Misc']) 003304.txt
+set(['Car']) 003305.txt
+set(['Car']) 003306.txt
+set(['Car']) 003308.txt
+set(['Car']) 003309.txt
+set(['Car']) 003310.txt
+set(['Car']) 003311.txt
+set(['Car']) 003312.txt
+set(['Car']) 003314.txt
+set(['Car']) 003316.txt
+set(['Car']) 003317.txt
+set(['Car']) 003318.txt
+set(['Car']) 003319.txt
+set([]) 003322.txt
+set(['Car']) 003323.txt
+set(['Car']) 003324.txt
+set(['Car']) 003325.txt
+set(['Car', 'Misc']) 003326.txt
+set(['Car', 'Truck']) 003327.txt
+set(['Car', 'Truck']) 003328.txt
+set([]) 003329.txt
+set(['Car']) 003332.txt
+set(['Car']) 003334.txt
+set(['Car']) 003335.txt
+set(['Truck']) 003336.txt
+set(['Car']) 003337.txt
+set(['Car']) 003340.txt
+set(['Car', 'Misc']) 003341.txt
+set(['Car']) 003342.txt
+set(['Car']) 003344.txt
+set(['Car', 'Truck']) 003345.txt
+set(['Car']) 003346.txt
+set(['Car']) 003348.txt
+set(['Car', 'Misc']) 003350.txt
+set(['Car', 'Truck']) 003351.txt
+set(['Car', 'Misc']) 003352.txt
+set(['Car']) 003353.txt
+set(['Car']) 003354.txt
+set(['Car', 'Misc']) 003355.txt
+set(['Car']) 003356.txt
+set(['Car']) 003357.txt
+set(['Car']) 003358.txt
+set(['Car']) 003359.txt
+set(['Car']) 003360.txt
+set(['Car']) 003361.txt
+set(['Car']) 003363.txt
+set(['Car', 'Truck']) 003364.txt
+set(['Car']) 003365.txt
+set(['Car']) 003366.txt
+set(['Car']) 003367.txt
+set(['Car']) 003368.txt
+set(['Car']) 003369.txt
+set(['Car']) 003370.txt
+set(['Car']) 003371.txt
+set(['Car']) 003372.txt
+set(['Car']) 003374.txt
+set(['Car', 'Misc']) 003375.txt
+set(['Car']) 003376.txt
+set(['Car']) 003378.txt
+set(['Misc']) 003379.txt
+set(['Car']) 003380.txt
+set(['Car']) 003381.txt
+set(['Car']) 003382.txt
+set(['Truck']) 003383.txt
+set(['Car', 'Truck']) 003384.txt
+set([]) 003385.txt
+set(['Car']) 003386.txt
+set(['Car']) 003387.txt
+set(['Car']) 003388.txt
+set(['Car', 'Truck']) 003389.txt
+set(['Car']) 003390.txt
+set(['Car']) 003392.txt
+set([]) 003393.txt
+set(['Car']) 003394.txt
+set(['Car', 'Misc']) 003395.txt
+set(['Car', 'Truck']) 003396.txt
+set(['Car']) 003397.txt
+set(['Car']) 003398.txt
+set(['Car', 'Misc']) 003399.txt
+set(['Car']) 003400.txt
+set(['Car']) 003401.txt
+set(['Car']) 003402.txt
+set(['Car']) 003403.txt
+set(['Car', 'Misc']) 003404.txt
+set(['Car', 'Misc']) 003405.txt
+set(['Car']) 003407.txt
+set(['Car']) 003409.txt
+set(['Car']) 003410.txt
+set(['Car']) 003411.txt
+set(['Car', 'Misc', 'Truck']) 003412.txt
+set(['Truck']) 003413.txt
+set(['Car']) 003414.txt
+set(['Car']) 003415.txt
+set(['Car']) 003416.txt
+set(['Car', 'Misc']) 003417.txt
+set(['Car']) 003418.txt
+set(['Car']) 003419.txt
+set(['Car']) 003420.txt
+set(['Car']) 003422.txt
+set(['Car']) 003423.txt
+set(['Car']) 003424.txt
+set(['Car']) 003425.txt
+set(['Car']) 003426.txt
+set(['Car']) 003427.txt
+set(['Car', 'Truck']) 003428.txt
+set(['Car', 'Misc', 'Truck']) 003429.txt
+set(['Car']) 003430.txt
+set(['Car']) 003431.txt
+set(['Car']) 003432.txt
+set(['Car']) 003433.txt
+set(['Car']) 003434.txt
+set(['Car']) 003436.txt
+set([]) 003437.txt
+set([]) 003438.txt
+set(['Car']) 003439.txt
+set(['Car']) 003440.txt
+set(['Car', 'Truck']) 003441.txt
+set(['Car']) 003442.txt
+set(['Car']) 003443.txt
+set(['Car', 'Misc', 'Truck']) 003444.txt
+set(['Car']) 003445.txt
+set(['Car']) 003446.txt
+set(['Car']) 003447.txt
+set(['Car']) 003448.txt
+set(['Car']) 003449.txt
+set(['Car']) 003450.txt
+set(['Car']) 003451.txt
+set(['Car']) 003452.txt
+set(['Car', 'Misc', 'Truck']) 003453.txt
+set([]) 003454.txt
+set([]) 003455.txt
+set(['Car']) 003456.txt
+set(['Car']) 003457.txt
+set(['Car', 'Truck']) 003458.txt
+set(['Car']) 003459.txt
+set(['Car']) 003460.txt
+set(['Car', 'Truck']) 003462.txt
+set(['Car']) 003463.txt
+set([]) 003464.txt
+set(['Car']) 003466.txt
+set(['Car']) 003467.txt
+set(['Car']) 003468.txt
+set(['Car']) 003469.txt
+set(['Car']) 003470.txt
+set(['Car']) 003472.txt
+set(['Car']) 003473.txt
+set(['Car']) 003474.txt
+set(['Car']) 003475.txt
+set(['Car']) 003477.txt
+set(['Car']) 003478.txt
+set(['Car', 'Truck']) 003479.txt
+set(['Car']) 003480.txt
+set(['Car']) 003483.txt
+set(['Car']) 003484.txt
+set(['Car']) 003485.txt
+set(['Car']) 003486.txt
+set(['Car']) 003487.txt
+set(['Car']) 003488.txt
+set(['Car']) 003489.txt
+set(['Car']) 003490.txt
+set(['Car']) 003493.txt
+set(['Car']) 003494.txt
+set(['Car', 'Truck']) 003495.txt
+set(['Car', 'Truck']) 003496.txt
+set(['Car']) 003497.txt
+set(['Car']) 003498.txt
+set(['Car']) 003499.txt
+set(['Car']) 003500.txt
+set(['Car']) 003501.txt
+set(['Car']) 003502.txt
+set(['Car']) 003503.txt
+set(['Car']) 003504.txt
+set(['Car']) 003505.txt
+set(['Car']) 003506.txt
+set(['Car']) 003507.txt
+set(['Car']) 003508.txt
+set(['Car']) 003509.txt
+set(['Car']) 003510.txt
+set(['Car']) 003511.txt
+set(['Car']) 003512.txt
+set(['Car']) 003513.txt
+set(['Car']) 003515.txt
+set(['Car']) 003517.txt
+set(['Car']) 003518.txt
+set(['Car', 'Truck']) 003519.txt
+set(['Car']) 003520.txt
+set(['Car']) 003521.txt
+set(['Car']) 003522.txt
+set(['Car']) 003523.txt
+set(['Car']) 003524.txt
+set(['Car']) 003525.txt
+set([]) 003526.txt
+set(['Car']) 003527.txt
+set(['Car']) 003528.txt
+set(['Car']) 003529.txt
+set(['Car']) 003530.txt
+set(['Car']) 003531.txt
+set(['Car', 'Truck']) 003532.txt
+set(['Car']) 003533.txt
+set(['Car']) 003534.txt
+set(['Car', 'Truck']) 003536.txt
+set(['Car', 'Truck']) 003537.txt
+set(['Car', 'Truck']) 003538.txt
+set(['Car', 'Misc', 'Truck']) 003539.txt
+set(['Car']) 003540.txt
+set(['Car']) 003541.txt
+set(['Car']) 003542.txt
+set(['Car']) 003543.txt
+set(['Car']) 003544.txt
+set(['Car']) 003546.txt
+set(['Car', 'Misc']) 003547.txt
+set(['Car']) 003548.txt
+set(['Car']) 003549.txt
+set(['Car']) 003550.txt
+set(['Car', 'Truck']) 003551.txt
+set(['Car']) 003552.txt
+set(['Car']) 003553.txt
+set(['Car']) 003554.txt
+set(['Car']) 003555.txt
+set(['Car']) 003556.txt
+set(['Car']) 003557.txt
+set(['Car']) 003558.txt
+set(['Car']) 003559.txt
+set(['Car', 'Misc']) 003561.txt
+set(['Car']) 003562.txt
+set(['Car']) 003563.txt
+set(['Car']) 003564.txt
+set(['Car']) 003565.txt
+set(['Car']) 003566.txt
+set(['Car', 'Truck']) 003567.txt
+set(['Car', 'Misc']) 003568.txt
+set(['Car', 'Misc']) 003569.txt
+set(['Car']) 003570.txt
+set(['Car']) 003572.txt
+set(['Car']) 003573.txt
+set(['Car']) 003575.txt
+set(['Car']) 003578.txt
+set(['Car']) 003579.txt
+set(['Car']) 003580.txt
+set(['Car']) 003581.txt
+set(['Car']) 003582.txt
+set(['Car']) 003583.txt
+set(['Car']) 003584.txt
+set(['Car']) 003585.txt
+set(['Misc']) 003586.txt
+set(['Car']) 003588.txt
+set([]) 003589.txt
+set(['Car']) 003590.txt
+set(['Car', 'Misc']) 003592.txt
+set(['Car']) 003593.txt
+set(['Car']) 003594.txt
+set(['Car']) 003595.txt
+set(['Car']) 003596.txt
+set(['Car']) 003597.txt
+set(['Car']) 003599.txt
+set(['Car', 'Misc', 'Truck']) 003600.txt
+set(['Car', 'Misc', 'Truck']) 003601.txt
+set(['Car']) 003602.txt
+set(['Car']) 003603.txt
+set(['Car']) 003604.txt
+set(['Car']) 003605.txt
+set(['Car', 'Truck']) 003606.txt
+set(['Car']) 003607.txt
+set([]) 003608.txt
+set(['Car']) 003610.txt
+set(['Car']) 003611.txt
+set([]) 003612.txt
+set(['Car', 'Misc']) 003613.txt
+set(['Car']) 003614.txt
+set(['Car']) 003615.txt
+set(['Car']) 003616.txt
+set(['Car', 'Truck']) 003618.txt
+set(['Car']) 003619.txt
+set(['Car']) 003620.txt
+set(['Car']) 003621.txt
+set(['Car']) 003622.txt
+set(['Car', 'Misc']) 003623.txt
+set(['Car']) 003624.txt
+set(['Car']) 003625.txt
+set(['Car']) 003626.txt
+set(['Car']) 003627.txt
+set(['Car']) 003628.txt
+set(['Car']) 003629.txt
+set(['Car', 'Truck']) 003630.txt
+set(['Car']) 003631.txt
+set(['Car']) 003632.txt
+set(['Car', 'Misc']) 003634.txt
+set(['Car']) 003635.txt
+set(['Car']) 003636.txt
+set(['Car', 'Truck']) 003637.txt
+set(['Car']) 003638.txt
+set(['Car']) 003639.txt
+set(['Car', 'Misc']) 003640.txt
+set(['Car']) 003641.txt
+set(['Car']) 003642.txt
+set(['Car']) 003643.txt
+set(['Car', 'Misc']) 003644.txt
+set(['Car', 'Truck']) 003645.txt
+set(['Car', 'Truck']) 003646.txt
+set(['Car', 'Misc']) 003647.txt
+set(['Truck']) 003649.txt
+set(['Car', 'Misc']) 003650.txt
+set(['Car']) 003651.txt
+set(['Car']) 003652.txt
+set(['Car']) 003653.txt
+set(['Car']) 003654.txt
+set(['Car']) 003655.txt
+set(['Car', 'Truck']) 003656.txt
+set(['Car']) 003657.txt
+set(['Car']) 003658.txt
+set(['Car']) 003659.txt
+set(['Car', 'Truck']) 003660.txt
+set(['Car']) 003661.txt
+set(['Car']) 003662.txt
+set(['Car']) 003663.txt
+set(['Car']) 003664.txt
+set(['Car']) 003665.txt
+set(['Car', 'Misc']) 003666.txt
+set(['Car']) 003667.txt
+set(['Car']) 003668.txt
+set(['Car']) 003669.txt
+set(['Car']) 003671.txt
+set(['Car', 'Truck']) 003672.txt
+set(['Car']) 003673.txt
+set(['Car']) 003676.txt
+set(['Car']) 003677.txt
+set(['Car', 'Truck']) 003678.txt
+set(['Car']) 003679.txt
+set([]) 003680.txt
+set(['Car', 'Truck']) 003681.txt
+set(['Car']) 003682.txt
+set(['Car']) 003683.txt
+set(['Car']) 003684.txt
+set(['Car']) 003687.txt
+set([]) 003688.txt
+set(['Car']) 003689.txt
+set(['Car']) 003690.txt
+set(['Car']) 003691.txt
+set(['Car', 'Truck']) 003692.txt
+set(['Car', 'Truck']) 003693.txt
+set(['Car']) 003696.txt
+set(['Car', 'Truck']) 003697.txt
+set(['Car', 'Misc', 'Truck']) 003698.txt
+set(['Car']) 003701.txt
+set(['Car', 'Truck']) 003704.txt
+set(['Car']) 003705.txt
+set(['Car']) 003706.txt
+set(['Car']) 003707.txt
+set(['Car']) 003708.txt
+set(['Car']) 003709.txt
+set(['Car']) 003710.txt
+set(['Car']) 003711.txt
+set(['Car']) 003712.txt
+set(['Car']) 003713.txt
+set(['Car']) 003714.txt
+set(['Car']) 003715.txt
+set(['Car']) 003716.txt
+set(['Car']) 003717.txt
+set([]) 003718.txt
+set(['Car']) 003719.txt
+set(['Car']) 003720.txt
+set(['Car']) 003721.txt
+set(['Car', 'Truck']) 003722.txt
+set(['Car']) 003723.txt
+set(['Car']) 003724.txt
+set(['Car']) 003725.txt
+set(['Car', 'Truck']) 003726.txt
+set(['Car']) 003727.txt
+set(['Car']) 003728.txt
+set(['Car']) 003729.txt
+set(['Car', 'Truck']) 003730.txt
+set(['Car']) 003731.txt
+set(['Car']) 003732.txt
+set(['Car']) 003733.txt
+set(['Car']) 003734.txt
+set(['Car', 'Misc', 'Truck']) 003735.txt
+set(['Car']) 003736.txt
+set(['Car']) 003739.txt
+set([]) 003740.txt
+set(['Car']) 003741.txt
+set(['Car']) 003742.txt
+set([]) 003743.txt
+set(['Car']) 003744.txt
+set(['Car']) 003745.txt
+set(['Car', 'Misc']) 003747.txt
+set(['Car']) 003748.txt
+set(['Car', 'Truck']) 003749.txt
+set(['Car']) 003750.txt
+set(['Car']) 003751.txt
+set(['Car']) 003752.txt
+set([]) 003753.txt
+set(['Car']) 003754.txt
+set(['Car']) 003755.txt
+set(['Car', 'Misc']) 003756.txt
+set(['Car']) 003757.txt
+set(['Car']) 003758.txt
+set(['Car']) 003760.txt
+set(['Car']) 003761.txt
+set([]) 003762.txt
+set(['Car']) 003763.txt
+set(['Car']) 003764.txt
+set([]) 003765.txt
+set(['Car', 'Truck']) 003767.txt
+set(['Car']) 003768.txt
+set(['Car', 'Truck']) 003769.txt
+set(['Car']) 003771.txt
+set(['Car']) 003772.txt
+set(['Car']) 003773.txt
+set(['Car', 'Truck']) 003775.txt
+set(['Car']) 003776.txt
+set([]) 003777.txt
+set(['Car', 'Truck']) 003778.txt
+set(['Car']) 003779.txt
+set(['Car']) 003780.txt
+set(['Car', 'Misc']) 003781.txt
+set(['Car']) 003782.txt
+set(['Car']) 003783.txt
+set(['Car']) 003784.txt
+set(['Car']) 003785.txt
+set(['Car']) 003788.txt
+set(['Car']) 003790.txt
+set(['Car']) 003791.txt
+set(['Car']) 003792.txt
+set(['Car']) 003793.txt
+set(['Car', 'Truck']) 003794.txt
+set(['Car', 'Truck']) 003795.txt
+set(['Car']) 003796.txt
+set(['Car']) 003798.txt
+set(['Car']) 003800.txt
+set(['Car', 'Truck']) 003801.txt
+set(['Car']) 003802.txt
+set(['Car']) 003803.txt
+set(['Car']) 003804.txt
+set(['Car', 'Misc']) 003805.txt
+set(['Car']) 003806.txt
+set(['Car']) 003807.txt
+set(['Car']) 003808.txt
+set(['Car', 'Truck']) 003809.txt
+set(['Car']) 003810.txt
+set(['Car', 'Misc']) 003811.txt
+set(['Car', 'Misc']) 003812.txt
+set(['Car', 'Truck']) 003814.txt
+set(['Car']) 003815.txt
+set(['Car']) 003816.txt
+set(['Car']) 003817.txt
+set(['Car']) 003818.txt
+set(['Car']) 003820.txt
+set(['Car']) 003822.txt
+set(['Car']) 003824.txt
+set(['Car']) 003826.txt
+set(['Car', 'Truck']) 003827.txt
+set(['Car']) 003828.txt
+set(['Car', 'Truck']) 003829.txt
+set(['Car']) 003830.txt
+set(['Car']) 003831.txt
+set(['Car', 'Truck']) 003832.txt
+set(['Car', 'Truck']) 003833.txt
+set(['Car']) 003834.txt
+set(['Car']) 003835.txt
+set(['Car']) 003836.txt
+set(['Car']) 003837.txt
+set(['Car']) 003839.txt
+set(['Car']) 003840.txt
+set(['Truck']) 003841.txt
+set(['Car']) 003842.txt
+set(['Car']) 003843.txt
+set(['Car', 'Truck']) 003845.txt
+set(['Car', 'Misc']) 003846.txt
+set(['Car']) 003847.txt
+set(['Car']) 003848.txt
+set(['Car']) 003850.txt
+set(['Car']) 003851.txt
+set(['Car']) 003852.txt
+set(['Car']) 003853.txt
+set(['Car']) 003854.txt
+set(['Car']) 003855.txt
+set(['Car']) 003856.txt
+set(['Car']) 003857.txt
+set(['Car']) 003859.txt
+set(['Car']) 003860.txt
+set(['Car']) 003861.txt
+set(['Car']) 003862.txt
+set(['Car']) 003863.txt
+set(['Car', 'Truck']) 003864.txt
+set(['Car', 'Truck']) 003865.txt
+set(['Car']) 003866.txt
+set([]) 003868.txt
+set(['Car']) 003869.txt
+set(['Car']) 003870.txt
+set(['Car']) 003871.txt
+set(['Car', 'Misc']) 003872.txt
+set(['Car', 'Truck']) 003873.txt
+set(['Car']) 003874.txt
+set(['Car', 'Misc']) 003875.txt
+set(['Car']) 003876.txt
+set(['Car']) 003877.txt
+set(['Car']) 003878.txt
+set(['Car']) 003879.txt
+set(['Car']) 003880.txt
+set(['Car']) 003881.txt
+set(['Car']) 003883.txt
+set(['Car']) 003886.txt
+set(['Car']) 003887.txt
+set(['Car']) 003888.txt
+set(['Car', 'Truck']) 003889.txt
+set(['Truck']) 003890.txt
+set(['Car']) 003892.txt
+set(['Car']) 003893.txt
+set(['Car']) 003894.txt
+set(['Car']) 003895.txt
+set(['Car']) 003896.txt
+set(['Car', 'Truck']) 003897.txt
+set(['Car']) 003898.txt
+set(['Car']) 003899.txt
+set(['Car']) 003900.txt
+set(['Car']) 003901.txt
+set(['Car']) 003902.txt
+set(['Car']) 003904.txt
+set(['Car']) 003906.txt
+set(['Car']) 003907.txt
+set(['Car']) 003908.txt
+set(['Car', 'Misc']) 003909.txt
+set(['Car']) 003910.txt
+set(['Car']) 003911.txt
+set(['Car']) 003912.txt
+set(['Car']) 003913.txt
+set(['Car']) 003915.txt
+set(['Car', 'Misc', 'Truck']) 003916.txt
+set(['Car']) 003917.txt
+set(['Car']) 003918.txt
+set(['Car']) 003919.txt
+set(['Car']) 003920.txt
+set([]) 003921.txt
+set(['Car']) 003923.txt
+set(['Car']) 003924.txt
+set(['Car']) 003925.txt
+set(['Car']) 003926.txt
+set(['Car']) 003928.txt
+set(['Car']) 003929.txt
+set(['Car']) 003930.txt
+set(['Car']) 003931.txt
+set(['Car']) 003932.txt
+set(['Car']) 003933.txt
+set(['Car']) 003934.txt
+set(['Car']) 003935.txt
+set(['Car', 'Truck']) 003936.txt
+set(['Car']) 003937.txt
+set(['Car']) 003938.txt
+set(['Car']) 003939.txt
+set(['Car']) 003940.txt
+set(['Car']) 003941.txt
+set(['Car']) 003942.txt
+set(['Car', 'Misc', 'Truck']) 003943.txt
+set(['Car', 'Truck']) 003944.txt
+set(['Car', 'Truck']) 003945.txt
+set(['Car']) 003946.txt
+set(['Car']) 003948.txt
+set(['Car']) 003949.txt
+set(['Truck']) 003950.txt
+set(['Car']) 003951.txt
+set(['Car']) 003952.txt
+set(['Car']) 003953.txt
+set([]) 003955.txt
+set(['Car']) 003956.txt
+set([]) 003957.txt
+set(['Car']) 003958.txt
+set(['Car']) 003959.txt
+set(['Car']) 003960.txt
+set(['Car']) 003961.txt
+set(['Car']) 003962.txt
+set(['Car']) 003963.txt
+set(['Car']) 003964.txt
+set(['Car', 'Truck']) 003965.txt
+set(['Car']) 003966.txt
+set(['Car', 'Misc']) 003968.txt
+set(['Car']) 003970.txt
+set([]) 003971.txt
+set(['Truck']) 003972.txt
+set(['Car']) 003973.txt
+set(['Car']) 003975.txt
+set(['Car', 'Misc']) 003976.txt
+set(['Car', 'Truck']) 003977.txt
+set(['Car']) 003978.txt
+set(['Car']) 003979.txt
+set(['Car']) 003980.txt
+set(['Car']) 003982.txt
+set(['Car']) 003983.txt
+set(['Car']) 003984.txt
+set(['Car']) 003986.txt
+set(['Car']) 003987.txt
+set(['Car', 'Truck']) 003988.txt
+set(['Car']) 003990.txt
+set(['Car']) 003991.txt
+set(['Car', 'Misc']) 003992.txt
+set(['Car']) 003993.txt
+set(['Car']) 003994.txt
+set([]) 003995.txt
+set(['Car', 'Misc', 'Truck']) 003996.txt
+set(['Truck']) 003997.txt
+set(['Car']) 003998.txt
+set(['Car', 'Truck']) 003999.txt
+set(['Car']) 004000.txt
+set(['Car']) 004001.txt
+set([]) 004002.txt
+set(['Car']) 004003.txt
+set(['Car', 'Misc']) 004004.txt
+set(['Car']) 004005.txt
+set(['Car', 'Truck']) 004006.txt
+set(['Car']) 004007.txt
+set(['Car']) 004008.txt
+set(['Car', 'Misc']) 004010.txt
+set(['Car', 'Truck']) 004011.txt
+set(['Car']) 004013.txt
+set(['Car']) 004014.txt
+set(['Car']) 004015.txt
+set(['Car']) 004016.txt
+set(['Car']) 004017.txt
+set(['Car']) 004018.txt
+set(['Car']) 004019.txt
+set(['Car']) 004020.txt
+set(['Car', 'Misc']) 004022.txt
+set(['Car']) 004023.txt
+set(['Car']) 004025.txt
+set(['Car']) 004026.txt
+set([]) 004027.txt
+set(['Car']) 004028.txt
+set(['Car']) 004029.txt
+set(['Car']) 004030.txt
+set(['Car']) 004031.txt
+set(['Car']) 004032.txt
+set(['Car']) 004033.txt
+set(['Car']) 004034.txt
+set(['Car']) 004035.txt
+set(['Car', 'Misc']) 004036.txt
+set(['Car', 'Truck']) 004037.txt
+set([]) 004039.txt
+set(['Truck']) 004040.txt
+set(['Car', 'Truck']) 004041.txt
+set(['Car', 'Misc', 'Truck']) 004042.txt
+set(['Car']) 004043.txt
+set(['Car']) 004045.txt
+set(['Car']) 004046.txt
+set(['Car']) 004047.txt
+set(['Car', 'Truck']) 004048.txt
+set(['Car']) 004050.txt
+set(['Car']) 004051.txt
+set(['Car', 'Misc', 'Truck']) 004052.txt
+set(['Car', 'Misc']) 004054.txt
+set([]) 004055.txt
+set(['Car']) 004056.txt
+set(['Car']) 004057.txt
+set(['Car']) 004058.txt
+set(['Car']) 004059.txt
+set(['Car']) 004060.txt
+set(['Car', 'Misc', 'Truck']) 004061.txt
+set(['Car']) 004062.txt
+set(['Car']) 004063.txt
+set(['Car']) 004064.txt
+set(['Car']) 004065.txt
+set(['Car']) 004066.txt
+set(['Car', 'Truck']) 004068.txt
+set(['Car']) 004069.txt
+set(['Car']) 004070.txt
+set(['Car']) 004071.txt
+set(['Car']) 004072.txt
+set(['Car']) 004074.txt
+set(['Car']) 004075.txt
+set(['Car', 'Truck']) 004076.txt
+set(['Car']) 004077.txt
+set(['Car']) 004078.txt
+set(['Car']) 004079.txt
+set(['Car']) 004080.txt
+set(['Car']) 004081.txt
+set(['Car', 'Misc']) 004082.txt
+set(['Car', 'Misc', 'Truck']) 004083.txt
+set(['Car']) 004084.txt
+set(['Car']) 004085.txt
+set(['Car']) 004086.txt
+set(['Car']) 004087.txt
+set(['Car', 'Misc']) 004088.txt
+set(['Car']) 004089.txt
+set(['Car', 'Truck']) 004090.txt
+set(['Car']) 004091.txt
+set(['Car']) 004092.txt
+set(['Car']) 004095.txt
+set(['Car']) 004097.txt
+set(['Car']) 004098.txt
+set(['Car']) 004099.txt
+set(['Car', 'Misc']) 004100.txt
+set(['Car']) 004101.txt
+set(['Car']) 004102.txt
+set(['Car']) 004104.txt
+set(['Car', 'Truck']) 004105.txt
+set(['Car']) 004106.txt
+set(['Car', 'Misc', 'Truck']) 004107.txt
+set(['Car']) 004109.txt
+set(['Car']) 004110.txt
+set(['Car']) 004111.txt
+set(['Car']) 004112.txt
+set(['Car']) 004113.txt
+set(['Car']) 004114.txt
+set(['Car']) 004117.txt
+set(['Car', 'Misc']) 004118.txt
+set(['Car', 'Truck']) 004119.txt
+set(['Car']) 004120.txt
+set(['Car', 'Truck']) 004121.txt
+set(['Car']) 004122.txt
+set(['Car']) 004123.txt
+set(['Car']) 004124.txt
+set(['Car', 'Truck']) 004126.txt
+set(['Car', 'Truck']) 004127.txt
+set(['Car']) 004128.txt
+set(['Car', 'Truck']) 004129.txt
+set(['Car']) 004130.txt
+set(['Car']) 004131.txt
+set(['Car', 'Misc']) 004132.txt
+set(['Car']) 004133.txt
+set(['Car']) 004134.txt
+set(['Car']) 004135.txt
+set(['Car']) 004138.txt
+set(['Car']) 004139.txt
+set(['Car', 'Truck']) 004140.txt
+set(['Car']) 004141.txt
+set([]) 004142.txt
+set(['Car']) 004143.txt
+set(['Car']) 004144.txt
+set(['Car', 'Truck']) 004145.txt
+set(['Car']) 004146.txt
+set(['Car']) 004148.txt
+set(['Car']) 004149.txt
+set(['Car', 'Misc']) 004150.txt
+set(['Car']) 004151.txt
+set(['Car']) 004152.txt
+set(['Car']) 004153.txt
+set(['Car']) 004154.txt
+set(['Car']) 004156.txt
+set(['Car']) 004158.txt
+set(['Car']) 004159.txt
+set(['Car']) 004160.txt
+set(['Car', 'Truck']) 004161.txt
+set(['Car']) 004162.txt
+set(['Car']) 004163.txt
+set(['Car']) 004164.txt
+set(['Car']) 004166.txt
+set(['Car']) 004167.txt
+set(['Car']) 004168.txt
+set(['Car']) 004169.txt
+set(['Car']) 004170.txt
+set(['Car']) 004173.txt
+set(['Car']) 004174.txt
+set(['Car', 'Truck']) 004175.txt
+set([]) 004177.txt
+set(['Car']) 004178.txt
+set(['Car', 'Truck']) 004179.txt
+set(['Car']) 004180.txt
+set(['Car']) 004181.txt
+set(['Car']) 004182.txt
+set(['Car']) 004183.txt
+set(['Car']) 004184.txt
+set(['Car', 'Misc']) 004185.txt
+set(['Car']) 004186.txt
+set(['Car', 'Truck']) 004187.txt
+set(['Car']) 004188.txt
+set(['Car']) 004189.txt
+set(['Car', 'Misc']) 004190.txt
+set(['Truck']) 004191.txt
+set(['Car', 'Truck']) 004193.txt
+set(['Car']) 004194.txt
+set(['Car']) 004195.txt
+set(['Car']) 004196.txt
+set(['Car']) 004197.txt
+set(['Car']) 004198.txt
+set(['Car']) 004199.txt
+set(['Car', 'Misc']) 004200.txt
+set(['Car']) 004201.txt
+set([]) 004202.txt
+set(['Car']) 004203.txt
+set(['Car']) 004204.txt
+set(['Car']) 004205.txt
+set(['Car']) 004207.txt
+set(['Car']) 004208.txt
+set(['Car', 'Misc', 'Truck']) 004209.txt
+set(['Car', 'Truck']) 004210.txt
+set(['Car']) 004211.txt
+set(['Car']) 004213.txt
+set(['Car', 'Misc']) 004214.txt
+set(['Car']) 004215.txt
+set(['Car']) 004216.txt
+set(['Car']) 004217.txt
+set(['Car']) 004218.txt
+set(['Car']) 004220.txt
+set(['Car']) 004221.txt
+set(['Car']) 004222.txt
+set(['Car']) 004223.txt
+set(['Car']) 004224.txt
+set(['Car']) 004225.txt
+set(['Car', 'Misc']) 004226.txt
+set(['Car']) 004227.txt
+set(['Car']) 004228.txt
+set(['Misc']) 004229.txt
+set(['Car']) 004230.txt
+set(['Car']) 004231.txt
+set(['Car']) 004232.txt
+set(['Car']) 004233.txt
+set(['Car']) 004234.txt
+set(['Car']) 004238.txt
+set(['Car']) 004239.txt
+set(['Car']) 004241.txt
+set(['Car']) 004242.txt
+set(['Car', 'Misc', 'Truck']) 004243.txt
+set(['Car']) 004244.txt
+set(['Car']) 004245.txt
+set(['Car']) 004246.txt
+set(['Car', 'Misc']) 004248.txt
+set(['Car']) 004249.txt
+set(['Car', 'Truck']) 004251.txt
+set(['Car']) 004253.txt
+set(['Car', 'Misc']) 004254.txt
+set(['Car']) 004257.txt
+set(['Car']) 004258.txt
+set(['Car']) 004259.txt
+set(['Car']) 004260.txt
+set(['Car']) 004262.txt
+set(['Car']) 004264.txt
+set(['Car']) 004265.txt
+set(['Car']) 004266.txt
+set(['Car']) 004267.txt
+set(['Truck']) 004268.txt
+set(['Car', 'Truck']) 004269.txt
+set(['Car', 'Misc', 'Truck']) 004270.txt
+set(['Car']) 004271.txt
+set(['Car']) 004272.txt
+set(['Car', 'Truck']) 004274.txt
+set(['Car']) 004275.txt
+set(['Car']) 004277.txt
+set(['Car']) 004278.txt
+set(['Car']) 004279.txt
+set(['Car']) 004280.txt
+set(['Car', 'Misc']) 004281.txt
+set(['Car']) 004282.txt
+set(['Car']) 004283.txt
+set(['Car']) 004284.txt
+set(['Car', 'Truck']) 004285.txt
+set(['Car']) 004286.txt
+set(['Car']) 004287.txt
+set(['Car']) 004288.txt
+set(['Car']) 004289.txt
+set(['Car']) 004290.txt
+set(['Car']) 004291.txt
+set(['Car']) 004292.txt
+set(['Car']) 004293.txt
+set(['Car']) 004294.txt
+set(['Car']) 004295.txt
+set(['Car', 'Truck']) 004296.txt
+set(['Car']) 004298.txt
+set(['Car']) 004299.txt
+set(['Car']) 004300.txt
+set(['Car']) 004301.txt
+set(['Car']) 004302.txt
+set(['Car']) 004303.txt
+set(['Car']) 004304.txt
+set(['Car']) 004306.txt
+set(['Car']) 004307.txt
+set(['Car']) 004309.txt
+set(['Car']) 004310.txt
+set(['Car']) 004311.txt
+set(['Car']) 004312.txt
+set(['Car', 'Truck']) 004314.txt
+set(['Car']) 004315.txt
+set(['Car']) 004316.txt
+set(['Car']) 004317.txt
+set(['Car']) 004318.txt
+set(['Car', 'Truck']) 004319.txt
+set(['Car', 'Truck']) 004320.txt
+set(['Car']) 004321.txt
+set(['Car']) 004322.txt
+set(['Car']) 004325.txt
+set(['Car', 'Misc']) 004326.txt
+set(['Car']) 004327.txt
+set(['Car']) 004328.txt
+set(['Car', 'Misc', 'Truck']) 004329.txt
+set(['Car']) 004331.txt
+set(['Car']) 004332.txt
+set(['Car']) 004333.txt
+set(['Car']) 004334.txt
+set(['Car']) 004335.txt
+set(['Car']) 004336.txt
+set(['Car']) 004337.txt
+set(['Truck']) 004339.txt
+set([]) 004340.txt
+set(['Car']) 004341.txt
+set(['Car', 'Truck']) 004344.txt
+set(['Car']) 004347.txt
+set(['Car']) 004348.txt
+set(['Car']) 004349.txt
+set(['Car']) 004350.txt
+set(['Car']) 004351.txt
+set(['Car']) 004352.txt
+set(['Car', 'Truck']) 004353.txt
+set(['Car']) 004354.txt
+set(['Car']) 004355.txt
+set(['Car']) 004356.txt
+set(['Car']) 004357.txt
+set(['Car']) 004358.txt
+set(['Car']) 004359.txt
+set(['Car']) 004360.txt
+set(['Car']) 004362.txt
+set(['Car', 'Truck']) 004363.txt
+set(['Car', 'Truck']) 004364.txt
+set(['Car']) 004365.txt
+set(['Car']) 004366.txt
+set(['Car']) 004367.txt
+set(['Car', 'Misc']) 004368.txt
+set(['Car', 'Misc']) 004370.txt
+set(['Car']) 004372.txt
+set(['Car']) 004373.txt
+set(['Truck']) 004374.txt
+set(['Car']) 004375.txt
+set(['Car', 'Misc']) 004376.txt
+set(['Car', 'Truck']) 004377.txt
+set(['Car']) 004378.txt
+set(['Misc']) 004379.txt
+set(['Car']) 004380.txt
+set(['Car']) 004381.txt
+set(['Car']) 004382.txt
+set(['Car']) 004383.txt
+set(['Car']) 004384.txt
+set(['Car']) 004385.txt
+set(['Car', 'Truck']) 004387.txt
+set(['Car', 'Truck']) 004388.txt
+set([]) 004389.txt
+set(['Car']) 004391.txt
+set(['Car']) 004392.txt
+set(['Car']) 004393.txt
+set(['Car']) 004394.txt
+set(['Car']) 004395.txt
+set(['Car']) 004396.txt
+set(['Car']) 004397.txt
+set(['Car']) 004398.txt
+set(['Car']) 004401.txt
+set(['Car']) 004402.txt
+set(['Car']) 004403.txt
+set(['Car']) 004404.txt
+set(['Car']) 004405.txt
+set(['Car']) 004406.txt
+set(['Car']) 004408.txt
+set(['Car']) 004409.txt
+set(['Car', 'Truck']) 004410.txt
+set(['Car']) 004411.txt
+set([]) 004413.txt
+set(['Car']) 004414.txt
+set(['Truck']) 004415.txt
+set(['Car']) 004416.txt
+set(['Car']) 004417.txt
+set(['Car']) 004419.txt
+set(['Car']) 004420.txt
+set(['Car']) 004421.txt
+set(['Car']) 004422.txt
+set(['Car']) 004423.txt
+set(['Car']) 004424.txt
+set(['Car']) 004425.txt
+set(['Car']) 004426.txt
+set(['Car']) 004427.txt
+set(['Car']) 004428.txt
+set([]) 004429.txt
+set(['Car']) 004430.txt
+set(['Car']) 004431.txt
+set(['Car', 'Truck']) 004433.txt
+set(['Car']) 004434.txt
+set(['Car', 'Misc', 'Truck']) 004435.txt
+set(['Car']) 004437.txt
+set(['Car', 'Misc']) 004438.txt
+set(['Car']) 004439.txt
+set(['Car', 'Truck']) 004440.txt
+set(['Car']) 004441.txt
+set(['Car']) 004442.txt
+set(['Car']) 004443.txt
+set(['Car']) 004444.txt
+set(['Truck']) 004445.txt
+set(['Car']) 004446.txt
+set(['Car', 'Misc']) 004447.txt
+set(['Car']) 004448.txt
+set(['Car', 'Misc']) 004450.txt
+set(['Car']) 004451.txt
+set(['Car']) 004452.txt
+set(['Car']) 004453.txt
+set(['Car', 'Truck']) 004454.txt
+set(['Car', 'Truck']) 004456.txt
+set(['Car']) 004457.txt
+set(['Car']) 004458.txt
+set(['Car']) 004459.txt
+set(['Car']) 004460.txt
+set(['Car']) 004462.txt
+set(['Car']) 004463.txt
+set(['Car']) 004464.txt
+set(['Car']) 004465.txt
+set(['Car', 'Misc']) 004466.txt
+set(['Car']) 004467.txt
+set(['Car']) 004468.txt
+set(['Car']) 004473.txt
+set(['Car']) 004474.txt
+set(['Car']) 004475.txt
+set(['Car', 'Truck']) 004476.txt
+set(['Car']) 004477.txt
+set(['Car']) 004478.txt
+set(['Car', 'Misc']) 004479.txt
+set(['Car', 'Truck']) 004480.txt
+set(['Car']) 004481.txt
+set(['Car']) 004483.txt
+set(['Car']) 004484.txt
+set(['Car']) 004485.txt
+set(['Car']) 004486.txt
+set(['Car', 'Misc']) 004487.txt
+set(['Car']) 004488.txt
+set(['Car']) 004490.txt
+set(['Car']) 004491.txt
+set(['Car']) 004492.txt
+set(['Car']) 004493.txt
+set(['Car']) 004494.txt
+set(['Car']) 004495.txt
+set(['Car']) 004496.txt
+set(['Car']) 004497.txt
+set(['Car', 'Truck']) 004498.txt
+set(['Car', 'Truck']) 004499.txt
+set(['Car']) 004500.txt
+set(['Car']) 004501.txt
+set(['Car']) 004503.txt
+set(['Car']) 004505.txt
+set(['Car', 'Truck']) 004506.txt
+set(['Car', 'Misc']) 004511.txt
+set([]) 004512.txt
+set(['Car']) 004513.txt
+set(['Car']) 004515.txt
+set(['Car']) 004516.txt
+set(['Car', 'Misc']) 004517.txt
+set(['Car', 'Truck']) 004518.txt
+set(['Car']) 004519.txt
+set(['Car']) 004520.txt
+set([]) 004522.txt
+set(['Car']) 004523.txt
+set(['Car']) 004524.txt
+set(['Car']) 004525.txt
+set(['Car', 'Misc']) 004526.txt
+set([]) 004527.txt
+set(['Car', 'Misc']) 004528.txt
+set(['Car']) 004529.txt
+set(['Car', 'Misc']) 004530.txt
+set(['Car']) 004531.txt
+set([]) 004532.txt
+set(['Car']) 004533.txt
+set(['Car', 'Misc']) 004534.txt
+set(['Car']) 004535.txt
+set(['Car']) 004536.txt
+set(['Car']) 004537.txt
+set(['Car']) 004539.txt
+set(['Car']) 004540.txt
+set(['Car']) 004541.txt
+set(['Car']) 004542.txt
+set(['Car']) 004544.txt
+set(['Car']) 004547.txt
+set(['Car', 'Misc', 'Truck']) 004548.txt
+set(['Car']) 004549.txt
+set(['Car']) 004550.txt
+set(['Car']) 004551.txt
+set(['Car']) 004552.txt
+set(['Car', 'Truck']) 004553.txt
+set(['Car']) 004554.txt
+set(['Car']) 004555.txt
+set(['Car']) 004556.txt
+set(['Car']) 004558.txt
+set(['Car']) 004559.txt
+set(['Car']) 004560.txt
+set(['Car']) 004561.txt
+set([]) 004562.txt
+set(['Car', 'Truck']) 004563.txt
+set(['Car', 'Misc']) 004565.txt
+set(['Car']) 004566.txt
+set(['Car']) 004567.txt
+set([]) 004568.txt
+set(['Car']) 004569.txt
+set(['Car']) 004570.txt
+set(['Car']) 004571.txt
+set(['Car']) 004572.txt
+set(['Car']) 004575.txt
+set(['Car', 'Misc', 'Truck']) 004576.txt
+set(['Car']) 004577.txt
+set(['Car']) 004578.txt
+set(['Car', 'Truck']) 004579.txt
+set(['Car', 'Truck']) 004581.txt
+set(['Car']) 004582.txt
+set([]) 004583.txt
+set(['Car']) 004584.txt
+set(['Car', 'Truck']) 004585.txt
+set(['Car', 'Truck']) 004587.txt
+set(['Car']) 004589.txt
+set(['Car']) 004590.txt
+set(['Car']) 004592.txt
+set(['Car']) 004593.txt
+set(['Car']) 004596.txt
+set(['Car']) 004599.txt
+set(['Car']) 004600.txt
+set(['Car']) 004601.txt
+set([]) 004602.txt
+set(['Car']) 004603.txt
+set(['Car']) 004604.txt
+set(['Car', 'Truck']) 004606.txt
+set(['Car', 'Truck']) 004607.txt
+set(['Car']) 004609.txt
+set(['Car']) 004610.txt
+set(['Car']) 004612.txt
+set(['Car']) 004614.txt
+set(['Car']) 004615.txt
+set(['Car']) 004616.txt
+set(['Car', 'Truck']) 004617.txt
+set(['Car', 'Misc']) 004618.txt
+set(['Truck']) 004619.txt
+set(['Car']) 004620.txt
+set(['Car']) 004621.txt
+set(['Car']) 004622.txt
+set(['Car']) 004623.txt
+set(['Car']) 004624.txt
+set(['Car', 'Truck']) 004625.txt
+set(['Car', 'Truck']) 004626.txt
+set(['Car']) 004628.txt
+set(['Car', 'Truck']) 004629.txt
+set(['Car', 'Truck']) 004630.txt
+set(['Car']) 004631.txt
+set(['Car']) 004632.txt
+set(['Car']) 004633.txt
+set(['Car']) 004636.txt
+set(['Car']) 004637.txt
+set(['Car']) 004638.txt
+set(['Car']) 004639.txt
+set(['Car']) 004640.txt
+set(['Car']) 004641.txt
+set(['Car']) 004642.txt
+set(['Car']) 004643.txt
+set(['Car', 'Truck']) 004644.txt
+set(['Car']) 004645.txt
+set([]) 004647.txt
+set(['Car']) 004648.txt
+set(['Car']) 004649.txt
+set(['Car', 'Misc']) 004650.txt
+set(['Car', 'Truck']) 004651.txt
+set(['Car', 'Misc', 'Truck']) 004653.txt
+set(['Car']) 004655.txt
+set(['Car']) 004656.txt
+set(['Car']) 004657.txt
+set(['Car', 'Misc', 'Truck']) 004658.txt
+set(['Car']) 004659.txt
+set(['Car', 'Truck']) 004660.txt
+set(['Car']) 004661.txt
+set(['Car']) 004662.txt
+set(['Car']) 004663.txt
+set(['Car']) 004665.txt
+set(['Car']) 004666.txt
+set(['Car']) 004667.txt
+set(['Car']) 004668.txt
+set(['Car']) 004669.txt
+set(['Car']) 004670.txt
+set(['Car']) 004671.txt
+set(['Car']) 004672.txt
+set(['Car']) 004673.txt
+set(['Car']) 004676.txt
+set([]) 004678.txt
+set(['Car', 'Truck']) 004681.txt
+set([]) 004683.txt
+set(['Car']) 004685.txt
+set(['Car']) 004686.txt
+set(['Car']) 004687.txt
+set(['Car']) 004688.txt
+set(['Car']) 004690.txt
+set(['Car']) 004692.txt
+set(['Car']) 004693.txt
+set(['Car', 'Truck']) 004694.txt
+set(['Car']) 004695.txt
+set(['Car']) 004697.txt
+set(['Truck']) 004698.txt
+set(['Car', 'Truck']) 004699.txt
+set(['Car']) 004700.txt
+set(['Car', 'Truck']) 004701.txt
+set(['Car']) 004702.txt
+set(['Car']) 004703.txt
+set(['Car']) 004704.txt
+set(['Car', 'Truck']) 004705.txt
+set(['Car']) 004706.txt
+set(['Car']) 004707.txt
+set(['Car']) 004708.txt
+set(['Car']) 004709.txt
+set(['Car']) 004710.txt
+set(['Car']) 004711.txt
+set(['Car']) 004712.txt
+set(['Car', 'Misc']) 004715.txt
+set(['Car', 'Truck']) 004717.txt
+set(['Car', 'Truck']) 004718.txt
+set(['Car']) 004719.txt
+set(['Car']) 004720.txt
+set(['Car']) 004721.txt
+set(['Car', 'Misc', 'Truck']) 004725.txt
+set(['Truck']) 004726.txt
+set(['Car']) 004727.txt
+set(['Car']) 004728.txt
+set(['Misc']) 004729.txt
+set(['Car']) 004730.txt
+set(['Car']) 004732.txt
+set(['Car', 'Misc']) 004734.txt
+set(['Car']) 004735.txt
+set(['Car', 'Misc', 'Truck']) 004736.txt
+set(['Car']) 004737.txt
+set(['Car', 'Truck']) 004738.txt
+set(['Car', 'Misc']) 004739.txt
+set(['Car']) 004740.txt
+set(['Car']) 004741.txt
+set(['Car', 'Misc']) 004743.txt
+set(['Truck']) 004744.txt
+set(['Car']) 004745.txt
+set(['Car', 'Misc']) 004746.txt
+set(['Car']) 004747.txt
+set(['Car']) 004748.txt
+set(['Car']) 004749.txt
+set(['Car', 'Truck']) 004750.txt
+set(['Car', 'Truck']) 004751.txt
+set(['Car', 'Truck']) 004752.txt
+set(['Car', 'Truck']) 004753.txt
+set(['Car']) 004754.txt
+set(['Car']) 004755.txt
+set(['Car', 'Truck']) 004756.txt
+set(['Car']) 004757.txt
+set(['Car']) 004758.txt
+set(['Car']) 004759.txt
+set(['Car']) 004760.txt
+set(['Car']) 004761.txt
+set(['Car']) 004763.txt
+set(['Car']) 004764.txt
+set(['Car', 'Truck']) 004765.txt
+set(['Car']) 004766.txt
+set(['Car', 'Truck']) 004767.txt
+set(['Car']) 004768.txt
+set(['Car', 'Misc']) 004769.txt
+set(['Car']) 004770.txt
+set(['Car']) 004771.txt
+set(['Car']) 004772.txt
+set([]) 004773.txt
+set(['Car']) 004774.txt
+set(['Car']) 004775.txt
+set(['Car', 'Truck']) 004776.txt
+set(['Car']) 004777.txt
+set(['Car']) 004778.txt
+set(['Car']) 004781.txt
+set(['Car']) 004782.txt
+set([]) 004783.txt
+set(['Car']) 004784.txt
+set(['Car', 'Truck']) 004785.txt
+set(['Car']) 004787.txt
+set(['Car']) 004788.txt
+set(['Car']) 004789.txt
+set(['Car']) 004791.txt
+set(['Car']) 004792.txt
+set(['Car']) 004793.txt
+set(['Car']) 004794.txt
+set(['Car', 'Truck']) 004796.txt
+set(['Car']) 004798.txt
+set(['Car']) 004800.txt
+set(['Car', 'Truck']) 004801.txt
+set(['Car']) 004802.txt
+set(['Car']) 004803.txt
+set(['Car']) 004804.txt
+set(['Car']) 004805.txt
+set(['Car']) 004806.txt
+set(['Car']) 004807.txt
+set(['Car']) 004808.txt
+set(['Car']) 004809.txt
+set(['Car']) 004810.txt
+set(['Car']) 004811.txt
+set(['Car']) 004812.txt
+set(['Car', 'Truck']) 004813.txt
+set(['Car']) 004814.txt
+set(['Car']) 004816.txt
+set(['Car', 'Truck']) 004817.txt
+set(['Car']) 004818.txt
+set(['Car', 'Truck']) 004819.txt
+set(['Car', 'Misc']) 004820.txt
+set(['Car']) 004821.txt
+set(['Car']) 004822.txt
+set(['Car', 'Misc']) 004823.txt
+set([]) 004825.txt
+set(['Car']) 004826.txt
+set([]) 004827.txt
+set(['Car', 'Misc']) 004828.txt
+set(['Car']) 004829.txt
+set(['Car']) 004830.txt
+set(['Car']) 004831.txt
+set(['Car']) 004832.txt
+set(['Car']) 004833.txt
+set(['Car']) 004835.txt
+set([]) 004836.txt
+set(['Car']) 004837.txt
+set(['Car']) 004838.txt
+set(['Car', 'Truck']) 004839.txt
+set(['Car']) 004840.txt
+set(['Car']) 004841.txt
+set(['Car']) 004842.txt
+set(['Car']) 004845.txt
+set(['Car']) 004848.txt
+set(['Car']) 004849.txt
+set(['Car']) 004850.txt
+set(['Car', 'Misc']) 004851.txt
+set(['Car', 'Misc', 'Truck']) 004852.txt
+set(['Car']) 004855.txt
+set(['Car']) 004856.txt
+set(['Car']) 004857.txt
+set(['Car']) 004858.txt
+set(['Car']) 004859.txt
+set(['Car']) 004860.txt
+set(['Car', 'Misc']) 004861.txt
+set(['Car', 'Truck']) 004862.txt
+set(['Car']) 004863.txt
+set(['Car']) 004864.txt
+set(['Car']) 004865.txt
+set(['Car']) 004866.txt
+set(['Car']) 004867.txt
+set(['Car']) 004868.txt
+set(['Car', 'Misc']) 004870.txt
+set(['Car']) 004871.txt
+set(['Car']) 004872.txt
+set(['Car']) 004873.txt
+set(['Car']) 004874.txt
+set(['Car']) 004875.txt
+set(['Car']) 004877.txt
+set(['Car']) 004878.txt
+set(['Car']) 004879.txt
+set(['Car']) 004880.txt
+set(['Car']) 004881.txt
+set(['Car', 'Misc']) 004882.txt
+set(['Car']) 004883.txt
+set(['Car']) 004884.txt
+set(['Car', 'Misc']) 004885.txt
+set(['Car']) 004886.txt
+set(['Car']) 004887.txt
+set(['Car']) 004888.txt
+set(['Car']) 004889.txt
+set(['Car']) 004891.txt
+set(['Car']) 004892.txt
+set(['Car', 'Truck']) 004893.txt
+set(['Car', 'Truck']) 004894.txt
+set(['Car']) 004895.txt
+set(['Car']) 004896.txt
+set(['Car', 'Truck']) 004898.txt
+set(['Car', 'Misc']) 004899.txt
+set(['Car', 'Misc', 'Truck']) 004900.txt
+set(['Car']) 004901.txt
+set(['Truck']) 004903.txt
+set(['Car', 'Misc']) 004904.txt
+set(['Car']) 004905.txt
+set(['Car']) 004906.txt
+set(['Car']) 004907.txt
+set(['Car']) 004910.txt
+set(['Car']) 004911.txt
+set(['Car']) 004913.txt
+set(['Car']) 004914.txt
+set(['Car', 'Misc', 'Truck']) 004916.txt
+set(['Car']) 004918.txt
+set(['Car']) 004919.txt
+set(['Car', 'Misc']) 004920.txt
+set(['Car', 'Truck']) 004921.txt
+set(['Car']) 004922.txt
+set(['Car']) 004923.txt
+set(['Car', 'Truck']) 004925.txt
+set(['Car']) 004926.txt
+set(['Car', 'Truck']) 004927.txt
+set([]) 004928.txt
+set(['Car', 'Misc']) 004929.txt
+set(['Car']) 004930.txt
+set(['Car']) 004932.txt
+set(['Car']) 004933.txt
+set(['Car']) 004934.txt
+set(['Car']) 004935.txt
+set(['Car']) 004936.txt
+set(['Car']) 004937.txt
+set(['Car']) 004938.txt
+set(['Car']) 004939.txt
+set(['Car']) 004942.txt
+set(['Car', 'Misc']) 004943.txt
+set(['Car']) 004944.txt
+set(['Car']) 004945.txt
+set(['Car']) 004946.txt
+set(['Car']) 004947.txt
+set(['Car']) 004948.txt
+set([]) 004950.txt
+set(['Car']) 004951.txt
+set(['Car']) 004952.txt
+set(['Car']) 004953.txt
+set(['Car']) 004954.txt
+set([]) 004955.txt
+set(['Car', 'Truck']) 004956.txt
+set(['Car']) 004957.txt
+set(['Car']) 004958.txt
+set(['Car']) 004959.txt
+set(['Car']) 004960.txt
+set(['Car', 'Misc']) 004961.txt
+set(['Car']) 004962.txt
+set(['Car', 'Misc']) 004963.txt
+set(['Car']) 004964.txt
+set(['Car']) 004965.txt
+set(['Car']) 004966.txt
+set(['Car']) 004968.txt
+set(['Car']) 004969.txt
+set(['Car']) 004970.txt
+set(['Car', 'Misc']) 004971.txt
+set(['Car']) 004972.txt
+set(['Car']) 004974.txt
+set(['Car']) 004975.txt
+set(['Car']) 004977.txt
+set(['Car']) 004979.txt
+set(['Car']) 004980.txt
+set(['Car', 'Misc']) 004981.txt
+set(['Car']) 004982.txt
+set(['Car']) 004983.txt
+set(['Car']) 004984.txt
+set(['Car']) 004985.txt
+set(['Car']) 004987.txt
+set([]) 004989.txt
+set(['Car']) 004990.txt
+set(['Car']) 004992.txt
+set(['Car', 'Misc']) 004993.txt
+set(['Car', 'Truck']) 004995.txt
+set(['Car']) 004997.txt
+set([]) 004998.txt
+set(['Car']) 004999.txt
+set(['Car']) 005000.txt
+set(['Car']) 005001.txt
+set(['Car']) 005002.txt
+set(['Car']) 005003.txt
+set(['Car']) 005004.txt
+set(['Car', 'Truck']) 005006.txt
+set(['Car', 'Misc']) 005008.txt
+set(['Car']) 005009.txt
+set(['Car']) 005010.txt
+set(['Car']) 005011.txt
+set(['Car']) 005012.txt
+set(['Car']) 005013.txt
+set(['Car', 'Truck']) 005015.txt
+set(['Car', 'Truck']) 005018.txt
+set(['Car']) 005020.txt
+set(['Car']) 005021.txt
+set(['Car']) 005022.txt
+set(['Car']) 005023.txt
+set(['Car']) 005024.txt
+set(['Car']) 005025.txt
+set(['Car']) 005026.txt
+set(['Car']) 005027.txt
+set(['Car', 'Truck']) 005028.txt
+set(['Car', 'Truck']) 005029.txt
+set(['Car', 'Misc']) 005032.txt
+set(['Car', 'Misc']) 005033.txt
+set(['Car']) 005034.txt
+set(['Car']) 005036.txt
+set(['Car']) 005037.txt
+set(['Car']) 005038.txt
+set(['Car']) 005039.txt
+set(['Car', 'Misc']) 005040.txt
+set(['Car']) 005041.txt
+set(['Car']) 005042.txt
+set(['Car', 'Truck']) 005043.txt
+set(['Car']) 005044.txt
+set(['Car']) 005045.txt
+set(['Car']) 005046.txt
+set(['Car']) 005047.txt
+set(['Car']) 005048.txt
+set(['Car']) 005051.txt
+set(['Car']) 005052.txt
+set(['Car']) 005053.txt
+set(['Car']) 005054.txt
+set(['Car', 'Truck']) 005055.txt
+set(['Car']) 005056.txt
+set(['Car']) 005057.txt
+set(['Car', 'Misc', 'Truck']) 005058.txt
+set(['Misc']) 005059.txt
+set(['Car', 'Misc']) 005060.txt
+set(['Car']) 005061.txt
+set(['Car']) 005062.txt
+set(['Car']) 005063.txt
+set(['Car']) 005064.txt
+set(['Car']) 005065.txt
+set(['Truck']) 005066.txt
+set(['Car', 'Truck']) 005067.txt
+set(['Car', 'Truck']) 005068.txt
+set(['Car']) 005069.txt
+set(['Car']) 005070.txt
+set(['Car']) 005071.txt
+set(['Car']) 005072.txt
+set(['Car']) 005073.txt
+set(['Car']) 005074.txt
+set(['Car']) 005075.txt
+set(['Car']) 005076.txt
+set(['Car']) 005077.txt
+set(['Car']) 005078.txt
+set(['Car']) 005079.txt
+set(['Car']) 005080.txt
+set(['Car']) 005081.txt
+set(['Car']) 005082.txt
+set(['Car']) 005083.txt
+set(['Car', 'Misc', 'Truck']) 005084.txt
+set(['Car']) 005085.txt
+set(['Car', 'Misc']) 005086.txt
+set(['Car']) 005087.txt
+set(['Car']) 005089.txt
+set(['Car']) 005090.txt
+set(['Car']) 005091.txt
+set(['Car']) 005092.txt
+set(['Car', 'Truck']) 005093.txt
+set(['Car', 'Misc']) 005094.txt
+set(['Car']) 005095.txt
+set(['Car']) 005096.txt
+set(['Car']) 005097.txt
+set(['Car', 'Truck']) 005098.txt
+set(['Car']) 005099.txt
+set(['Car', 'Misc', 'Truck']) 005101.txt
+set(['Car']) 005102.txt
+set(['Car']) 005103.txt
+set(['Car']) 005104.txt
+set(['Car']) 005105.txt
+set([]) 005106.txt
+set(['Car']) 005109.txt
+set(['Car']) 005110.txt
+set(['Car']) 005111.txt
+set(['Car', 'Misc']) 005112.txt
+set(['Car', 'Truck']) 005113.txt
+set(['Car']) 005114.txt
+set(['Car']) 005115.txt
+set(['Car']) 005116.txt
+set(['Car', 'Truck']) 005117.txt
+set(['Car']) 005118.txt
+set(['Car', 'Misc']) 005120.txt
+set(['Car', 'Misc']) 005122.txt
+set(['Car']) 005123.txt
+set(['Car']) 005125.txt
+set(['Car', 'Truck']) 005126.txt
+set(['Car']) 005127.txt
+set(['Car']) 005128.txt
+set(['Car']) 005130.txt
+set(['Car']) 005132.txt
+set(['Car']) 005133.txt
+set(['Car', 'Truck']) 005134.txt
+set(['Car', 'Misc']) 005135.txt
+set(['Car', 'Misc']) 005136.txt
+set(['Car']) 005137.txt
+set(['Car']) 005138.txt
+set(['Car']) 005139.txt
+set(['Car']) 005140.txt
+set(['Car']) 005141.txt
+set(['Car']) 005143.txt
+set(['Car']) 005144.txt
+set(['Car']) 005145.txt
+set(['Car', 'Misc']) 005146.txt
+set([]) 005147.txt
+set(['Car']) 005148.txt
+set(['Car', 'Truck']) 005149.txt
+set(['Car']) 005152.txt
+set(['Car', 'Truck']) 005153.txt
+set(['Car']) 005154.txt
+set(['Car', 'Misc', 'Truck']) 005155.txt
+set(['Car']) 005156.txt
+set(['Car']) 005157.txt
+set(['Car', 'Truck']) 005158.txt
+set(['Car', 'Truck']) 005159.txt
+set(['Car']) 005160.txt
+set(['Car']) 005161.txt
+set(['Car']) 005162.txt
+set(['Car']) 005163.txt
+set(['Car']) 005164.txt
+set(['Car']) 005165.txt
+set(['Car']) 005166.txt
+set(['Car']) 005168.txt
+set(['Car']) 005169.txt
+set(['Car']) 005170.txt
+set(['Car']) 005171.txt
+set(['Car']) 005172.txt
+set(['Car', 'Truck']) 005173.txt
+set(['Car']) 005174.txt
+set(['Car']) 005175.txt
+set(['Car']) 005176.txt
+set(['Car']) 005177.txt
+set(['Car', 'Misc', 'Truck']) 005178.txt
+set(['Car']) 005179.txt
+set(['Car']) 005180.txt
+set(['Car', 'Misc']) 005181.txt
+set(['Car', 'Misc']) 005182.txt
+set(['Car']) 005183.txt
+set(['Car']) 005185.txt
+set(['Car']) 005186.txt
+set(['Car']) 005187.txt
+set(['Car']) 005188.txt
+set(['Car']) 005189.txt
+set(['Car', 'Misc']) 005190.txt
+set(['Car']) 005191.txt
+set(['Car', 'Truck']) 005192.txt
+set(['Car', 'Misc']) 005193.txt
+set(['Car']) 005195.txt
+set(['Car']) 005196.txt
+set([]) 005197.txt
+set(['Car']) 005199.txt
+set(['Car']) 005201.txt
+set(['Car']) 005202.txt
+set(['Car']) 005203.txt
+set(['Car']) 005204.txt
+set(['Car']) 005205.txt
+set(['Car', 'Misc']) 005206.txt
+set(['Car']) 005207.txt
+set(['Car']) 005208.txt
+set(['Car']) 005209.txt
+set(['Car']) 005210.txt
+set(['Car']) 005211.txt
+set(['Car', 'Misc']) 005212.txt
+set(['Car']) 005213.txt
+set(['Car', 'Misc']) 005214.txt
+set(['Car']) 005215.txt
+set(['Car']) 005216.txt
+set(['Car', 'Truck']) 005217.txt
+set(['Car']) 005219.txt
+set(['Car']) 005220.txt
+set(['Car', 'Truck']) 005221.txt
+set(['Car']) 005222.txt
+set(['Car']) 005224.txt
+set(['Car']) 005225.txt
+set([]) 005226.txt
+set(['Car']) 005227.txt
+set(['Car']) 005228.txt
+set(['Car', 'Misc']) 005229.txt
+set(['Car']) 005232.txt
+set(['Car']) 005233.txt
+set(['Car', 'Truck']) 005234.txt
+set(['Car']) 005235.txt
+set(['Car', 'Truck']) 005236.txt
+set(['Car']) 005238.txt
+set(['Car']) 005239.txt
+set(['Car']) 005241.txt
+set(['Car', 'Truck']) 005242.txt
+set(['Truck']) 005243.txt
+set(['Car', 'Truck']) 005245.txt
+set(['Car']) 005247.txt
+set(['Car']) 005248.txt
+set(['Car', 'Truck']) 005249.txt
+set(['Car']) 005250.txt
+set(['Car']) 005251.txt
+set(['Car']) 005252.txt
+set(['Car']) 005253.txt
+set(['Car']) 005254.txt
+set(['Car']) 005256.txt
+set([]) 005258.txt
+set(['Car']) 005259.txt
+set(['Car', 'Misc']) 005260.txt
+set(['Car']) 005261.txt
+set(['Car']) 005262.txt
+set(['Car', 'Misc']) 005263.txt
+set(['Car']) 005264.txt
+set(['Car']) 005265.txt
+set(['Car']) 005266.txt
+set(['Car']) 005267.txt
+set(['Car', 'Truck']) 005268.txt
+set(['Car']) 005269.txt
+set(['Car']) 005270.txt
+set(['Car', 'Truck']) 005271.txt
+set(['Car']) 005272.txt
+set(['Car']) 005274.txt
+set(['Car']) 005275.txt
+set(['Car']) 005276.txt
+set([]) 005278.txt
+set(['Car']) 005279.txt
+set(['Car']) 005280.txt
+set(['Car', 'Truck']) 005282.txt
+set(['Car']) 005283.txt
+set(['Car', 'Truck']) 005284.txt
+set(['Car']) 005286.txt
+set(['Car']) 005287.txt
+set(['Car']) 005289.txt
+set(['Car', 'Truck']) 005290.txt
+set(['Car']) 005291.txt
+set(['Car']) 005292.txt
+set(['Car']) 005293.txt
+set(['Car']) 005294.txt
+set(['Car', 'Truck']) 005295.txt
+set(['Car']) 005296.txt
+set(['Car']) 005297.txt
+set(['Car']) 005298.txt
+set(['Car', 'Misc', 'Truck']) 005299.txt
+set(['Car']) 005300.txt
+set([]) 005302.txt
+set(['Car']) 005303.txt
+set(['Car']) 005304.txt
+set(['Car']) 005305.txt
+set(['Car']) 005306.txt
+set(['Car']) 005307.txt
+set(['Car', 'Misc']) 005308.txt
+set(['Car']) 005309.txt
+set(['Car', 'Misc']) 005310.txt
+set(['Car']) 005311.txt
+set(['Car', 'Truck']) 005312.txt
+set(['Car', 'Truck']) 005313.txt
+set(['Car']) 005315.txt
+set(['Car']) 005316.txt
+set(['Car', 'Misc', 'Truck']) 005318.txt
+set(['Car']) 005319.txt
+set(['Car']) 005320.txt
+set(['Car']) 005321.txt
+set(['Car']) 005323.txt
+set(['Car']) 005325.txt
+set(['Car']) 005326.txt
+set(['Car']) 005327.txt
+set(['Car']) 005328.txt
+set(['Car']) 005330.txt
+set(['Car']) 005331.txt
+set(['Car']) 005332.txt
+set(['Car']) 005333.txt
+set(['Car']) 005334.txt
+set(['Car', 'Truck']) 005335.txt
+set(['Car']) 005336.txt
+set(['Car']) 005337.txt
+set(['Car', 'Truck']) 005339.txt
+set(['Car']) 005340.txt
+set([]) 005341.txt
+set(['Car', 'Misc', 'Truck']) 005342.txt
+set(['Car']) 005344.txt
+set(['Car']) 005345.txt
+set(['Car']) 005346.txt
+set(['Car', 'Truck']) 005347.txt
+set(['Car']) 005348.txt
+set(['Car']) 005349.txt
+set(['Car']) 005350.txt
+set(['Car']) 005351.txt
+set(['Car']) 005352.txt
+set(['Car']) 005353.txt
+set(['Car']) 005355.txt
+set(['Car']) 005356.txt
+set(['Car']) 005357.txt
+set(['Car']) 005358.txt
+set(['Car', 'Misc']) 005359.txt
+set(['Car', 'Truck']) 005360.txt
+set(['Car']) 005361.txt
+set(['Car', 'Misc']) 005362.txt
+set(['Car', 'Truck']) 005363.txt
+set(['Car']) 005364.txt
+set(['Car']) 005365.txt
+set(['Car']) 005367.txt
+set(['Car']) 005368.txt
+set(['Car']) 005369.txt
+set(['Car']) 005370.txt
+set(['Car']) 005371.txt
+set(['Car']) 005372.txt
+set(['Car']) 005374.txt
+set(['Car']) 005375.txt
+set(['Car']) 005376.txt
+set(['Car', 'Truck']) 005377.txt
+set(['Car']) 005378.txt
+set(['Car']) 005379.txt
+set(['Misc']) 005380.txt
+set(['Car']) 005381.txt
+set(['Car', 'Truck']) 005382.txt
+set(['Car']) 005383.txt
+set(['Car', 'Truck']) 005384.txt
+set(['Car']) 005385.txt
+set(['Car']) 005386.txt
+set(['Car']) 005387.txt
+set(['Car']) 005389.txt
+set(['Truck']) 005390.txt
+set(['Car']) 005391.txt
+set(['Car']) 005392.txt
+set(['Car']) 005393.txt
+set(['Car']) 005394.txt
+set(['Car']) 005395.txt
+set(['Car']) 005396.txt
+set(['Car']) 005397.txt
+set(['Car']) 005398.txt
+set(['Car', 'Truck']) 005399.txt
+set(['Car']) 005400.txt
+set(['Car']) 005401.txt
+set(['Car']) 005402.txt
+set(['Car', 'Truck']) 005403.txt
+set(['Car']) 005404.txt
+set(['Car']) 005405.txt
+set(['Car']) 005406.txt
+set(['Car']) 005407.txt
+set(['Car', 'Misc']) 005409.txt
+set(['Car', 'Misc', 'Truck']) 005410.txt
+set(['Car', 'Truck']) 005411.txt
+set(['Car']) 005412.txt
+set(['Car', 'Truck']) 005413.txt
+set(['Car']) 005414.txt
+set(['Car']) 005415.txt
+set(['Car']) 005416.txt
+set(['Car']) 005417.txt
+set(['Misc']) 005418.txt
+set(['Car']) 005419.txt
+set(['Car']) 005420.txt
+set(['Car']) 005421.txt
+set(['Car']) 005423.txt
+set(['Car']) 005424.txt
+set(['Car', 'Truck']) 005425.txt
+set(['Car']) 005426.txt
+set(['Car']) 005427.txt
+set(['Car']) 005428.txt
+set(['Car', 'Truck']) 005430.txt
+set(['Car']) 005431.txt
+set(['Car']) 005432.txt
+set([]) 005433.txt
+set(['Car']) 005435.txt
+set(['Car']) 005436.txt
+set(['Car']) 005438.txt
+set(['Car']) 005441.txt
+set(['Car', 'Truck']) 005442.txt
+set(['Car']) 005443.txt
+set(['Car']) 005444.txt
+set(['Car']) 005445.txt
+set(['Car']) 005446.txt
+set([]) 005447.txt
+set(['Car']) 005448.txt
+set(['Car']) 005449.txt
+set(['Car']) 005450.txt
+set(['Car']) 005451.txt
+set(['Car', 'Truck']) 005452.txt
+set(['Car', 'Truck']) 005453.txt
+set(['Car']) 005456.txt
+set(['Car', 'Misc']) 005458.txt
+set(['Car']) 005459.txt
+set(['Car']) 005460.txt
+set(['Car']) 005461.txt
+set(['Car']) 005462.txt
+set(['Car']) 005463.txt
+set(['Car', 'Truck']) 005464.txt
+set(['Car']) 005465.txt
+set(['Car']) 005466.txt
+set(['Car']) 005467.txt
+set(['Car']) 005468.txt
+set(['Car']) 005469.txt
+set(['Car']) 005470.txt
+set(['Car']) 005471.txt
+set(['Car']) 005472.txt
+set(['Car', 'Misc']) 005473.txt
+set(['Car', 'Misc']) 005476.txt
+set(['Car']) 005477.txt
+set(['Car']) 005478.txt
+set(['Car']) 005479.txt
+set(['Car']) 005480.txt
+set(['Car']) 005481.txt
+set(['Car']) 005482.txt
+set([]) 005483.txt
+set(['Car', 'Truck']) 005484.txt
+set(['Car']) 005486.txt
+set(['Car']) 005487.txt
+set(['Car', 'Truck']) 005488.txt
+set(['Car']) 005489.txt
+set(['Car']) 005490.txt
+set(['Car']) 005491.txt
+set(['Car']) 005492.txt
+set(['Car']) 005493.txt
+set(['Car']) 005494.txt
+set(['Car']) 005495.txt
+set(['Car']) 005496.txt
+set(['Car']) 005497.txt
+set(['Car', 'Misc']) 005498.txt
+set(['Car']) 005499.txt
+set(['Car']) 005500.txt
+set(['Car']) 005501.txt
+set(['Car']) 005502.txt
+set(['Car', 'Truck']) 005503.txt
+set(['Car']) 005504.txt
+set(['Car']) 005505.txt
+set(['Car']) 005506.txt
+set(['Car']) 005508.txt
+set(['Car']) 005509.txt
+set(['Car']) 005510.txt
+set(['Car']) 005511.txt
+set(['Car']) 005512.txt
+set(['Car', 'Truck']) 005513.txt
+set(['Car']) 005514.txt
+set(['Car']) 005515.txt
+set(['Car']) 005517.txt
+set(['Car']) 005519.txt
+set(['Car', 'Misc']) 005520.txt
+set(['Car']) 005521.txt
+set(['Car']) 005522.txt
+set(['Car']) 005523.txt
+set(['Car']) 005525.txt
+set(['Car']) 005527.txt
+set(['Car']) 005528.txt
+set(['Car', 'Truck']) 005529.txt
+set(['Car', 'Truck']) 005530.txt
+set(['Car']) 005531.txt
+set([]) 005532.txt
+set(['Car']) 005533.txt
+set(['Car', 'Truck']) 005534.txt
+set(['Car']) 005535.txt
+set(['Misc']) 005536.txt
+set(['Car']) 005538.txt
+set(['Car']) 005539.txt
+set(['Car']) 005541.txt
+set(['Car', 'Misc']) 005542.txt
+set(['Car']) 005543.txt
+set(['Car', 'Truck']) 005544.txt
+set(['Car']) 005545.txt
+set(['Car']) 005546.txt
+set(['Car']) 005547.txt
+set(['Car']) 005548.txt
+set(['Car']) 005549.txt
+set(['Car']) 005550.txt
+set(['Car']) 005551.txt
+set(['Car']) 005552.txt
+set(['Car']) 005553.txt
+set(['Car']) 005554.txt
+set(['Car']) 005555.txt
+set(['Car']) 005556.txt
+set(['Car']) 005557.txt
+set(['Car']) 005558.txt
+set(['Car']) 005560.txt
+set(['Car', 'Truck']) 005561.txt
+set(['Car']) 005562.txt
+set(['Car']) 005563.txt
+set(['Car']) 005564.txt
+set(['Car']) 005565.txt
+set(['Car']) 005566.txt
+set(['Car']) 005568.txt
+set(['Car']) 005569.txt
+set(['Car', 'Misc']) 005570.txt
+set(['Car']) 005572.txt
+set(['Car']) 005573.txt
+set(['Car']) 005574.txt
+set(['Car']) 005575.txt
+set(['Car']) 005576.txt
+set(['Car']) 005578.txt
+set(['Car']) 005579.txt
+set(['Car']) 005580.txt
+set(['Car', 'Truck']) 005581.txt
+set(['Truck']) 005582.txt
+set(['Car']) 005583.txt
+set([]) 005584.txt
+set(['Car']) 005585.txt
+set(['Car']) 005586.txt
+set(['Car']) 005587.txt
+set(['Car']) 005588.txt
+set(['Car']) 005589.txt
+set(['Car']) 005590.txt
+set(['Car']) 005591.txt
+set(['Car']) 005592.txt
+set(['Car', 'Truck']) 005593.txt
+set(['Car', 'Misc']) 005595.txt
+set(['Car']) 005596.txt
+set(['Car']) 005597.txt
+set(['Car', 'Truck']) 005598.txt
+set(['Car']) 005599.txt
+set(['Car']) 005600.txt
+set([]) 005601.txt
+set(['Truck']) 005603.txt
+set([]) 005604.txt
+set(['Car']) 005605.txt
+set(['Car']) 005606.txt
+set(['Car', 'Truck']) 005607.txt
+set(['Car']) 005608.txt
+set(['Car', 'Truck']) 005609.txt
+set(['Car']) 005610.txt
+set(['Car']) 005611.txt
+set(['Car']) 005612.txt
+set(['Car', 'Truck']) 005613.txt
+set(['Car']) 005614.txt
+set(['Car']) 005616.txt
+set(['Car']) 005618.txt
+set(['Car']) 005619.txt
+set(['Car', 'Truck']) 005620.txt
+set(['Car']) 005621.txt
+set(['Car']) 005622.txt
+set(['Car']) 005623.txt
+set(['Car']) 005624.txt
+set(['Car']) 005625.txt
+set(['Car', 'Truck']) 005626.txt
+set(['Car']) 005627.txt
+set(['Car']) 005628.txt
+set(['Car']) 005629.txt
+set(['Car']) 005630.txt
+set(['Car']) 005631.txt
+set(['Car']) 005633.txt
+set(['Car']) 005634.txt
+set(['Car', 'Misc']) 005635.txt
+set(['Car']) 005636.txt
+set(['Car', 'Truck']) 005638.txt
+set(['Car']) 005639.txt
+set(['Car', 'Truck']) 005640.txt
+set(['Car']) 005641.txt
+set(['Car']) 005642.txt
+set(['Truck']) 005644.txt
+set(['Car']) 005645.txt
+set(['Car', 'Truck']) 005646.txt
+set(['Car', 'Truck']) 005648.txt
+set(['Car']) 005649.txt
+set(['Car', 'Misc', 'Truck']) 005650.txt
+set(['Car', 'Misc']) 005651.txt
+set(['Car', 'Misc']) 005652.txt
+set(['Car']) 005655.txt
+set(['Car']) 005656.txt
+set(['Car']) 005657.txt
+set(['Car']) 005658.txt
+set(['Car']) 005659.txt
+set(['Car']) 005660.txt
+set(['Car', 'Truck']) 005661.txt
+set(['Car']) 005662.txt
+set(['Car']) 005663.txt
+set(['Car']) 005664.txt
+set([]) 005665.txt
+set(['Car']) 005666.txt
+set(['Car']) 005667.txt
+set(['Car']) 005669.txt
+set(['Truck']) 005670.txt
+set([]) 005671.txt
+set(['Car']) 005672.txt
+set(['Car']) 005673.txt
+set(['Car', 'Truck']) 005674.txt
+set(['Car']) 005675.txt
+set(['Car', 'Truck']) 005676.txt
+set(['Car']) 005677.txt
+set(['Car']) 005679.txt
+set(['Car']) 005680.txt
+set(['Car']) 005681.txt
+set(['Car']) 005682.txt
+set(['Car']) 005684.txt
+set(['Car', 'Misc', 'Truck']) 005685.txt
+set(['Car']) 005687.txt
+set(['Car']) 005688.txt
+set(['Car', 'Misc']) 005689.txt
+set(['Car']) 005690.txt
+set(['Car']) 005691.txt
+set(['Car']) 005692.txt
+set(['Car', 'Truck']) 005693.txt
+set(['Car', 'Truck']) 005694.txt
+set(['Car']) 005695.txt
+set([]) 005696.txt
+set(['Car', 'Truck']) 005697.txt
+set(['Car']) 005698.txt
+set([]) 005699.txt
+set(['Car', 'Misc', 'Truck']) 005700.txt
+set(['Car']) 005701.txt
+set(['Car']) 005702.txt
+set(['Car', 'Truck']) 005703.txt
+set(['Car']) 005704.txt
+set(['Car']) 005706.txt
+set(['Car']) 005707.txt
+set(['Car']) 005708.txt
+set(['Car', 'Truck']) 005709.txt
+set(['Car']) 005712.txt
+set(['Car']) 005713.txt
+set(['Car']) 005714.txt
+set(['Car']) 005715.txt
+set(['Car']) 005716.txt
+set(['Car']) 005717.txt
+set(['Car']) 005718.txt
+set(['Car']) 005719.txt
+set(['Car', 'Misc']) 005720.txt
+set(['Car']) 005721.txt
+set(['Car']) 005722.txt
+set(['Car']) 005723.txt
+set(['Car']) 005725.txt
+set(['Car']) 005726.txt
+set(['Car', 'Truck']) 005727.txt
+set(['Car', 'Misc']) 005728.txt
+set(['Car']) 005729.txt
+set(['Car', 'Truck']) 005730.txt
+set(['Car']) 005731.txt
+set(['Car']) 005732.txt
+set(['Car']) 005733.txt
+set(['Car']) 005734.txt
+set(['Car']) 005736.txt
+set(['Car', 'Truck']) 005737.txt
+set(['Car']) 005738.txt
+set(['Car', 'Truck']) 005739.txt
+set(['Car']) 005740.txt
+set(['Car']) 005741.txt
+set(['Car']) 005742.txt
+set(['Car']) 005747.txt
+set(['Car']) 005748.txt
+set(['Car']) 005749.txt
+set(['Car']) 005750.txt
+set(['Car']) 005751.txt
+set(['Car', 'Truck']) 005752.txt
+set(['Car']) 005753.txt
+set(['Car', 'Misc']) 005754.txt
+set(['Car']) 005755.txt
+set(['Car']) 005756.txt
+set(['Car']) 005757.txt
+set(['Car']) 005758.txt
+set(['Car']) 005759.txt
+set(['Car']) 005761.txt
+set(['Car']) 005763.txt
+set(['Car']) 005764.txt
+set(['Car']) 005765.txt
+set(['Car', 'Misc']) 005766.txt
+set(['Car']) 005767.txt
+set(['Car']) 005768.txt
+set(['Car']) 005769.txt
+set(['Car']) 005770.txt
+set(['Car']) 005771.txt
+set(['Car', 'Truck']) 005772.txt
+set(['Car']) 005773.txt
+set(['Car']) 005774.txt
+set(['Car']) 005775.txt
+set(['Car']) 005776.txt
+set(['Car']) 005777.txt
+set(['Car']) 005778.txt
+set(['Car']) 005780.txt
+set(['Car']) 005781.txt
+set(['Car']) 005782.txt
+set(['Car']) 005783.txt
+set(['Car', 'Truck']) 005785.txt
+set(['Car']) 005786.txt
+set(['Car', 'Truck']) 005787.txt
+set(['Car']) 005788.txt
+set(['Car', 'Misc']) 005789.txt
+set(['Car']) 005790.txt
+set(['Car']) 005791.txt
+set(['Car']) 005792.txt
+set(['Car', 'Truck']) 005793.txt
+set(['Car']) 005794.txt
+set(['Car', 'Truck']) 005795.txt
+set(['Car']) 005798.txt
+set(['Car', 'Truck']) 005799.txt
+set(['Car']) 005800.txt
+set(['Car']) 005803.txt
+set(['Car', 'Misc']) 005805.txt
+set(['Car']) 005807.txt
+set(['Car']) 005809.txt
+set(['Car', 'Misc']) 005810.txt
+set(['Car', 'Misc']) 005811.txt
+set([]) 005813.txt
+set(['Car']) 005814.txt
+set(['Car']) 005815.txt
+set(['Car']) 005816.txt
+set([]) 005818.txt
+set(['Car']) 005819.txt
+set(['Car']) 005820.txt
+set(['Car']) 005821.txt
+set(['Car']) 005822.txt
+set(['Car']) 005823.txt
+set([]) 005824.txt
+set(['Car']) 005826.txt
+set(['Car']) 005828.txt
+set(['Car']) 005829.txt
+set(['Car', 'Truck']) 005830.txt
+set(['Car', 'Truck']) 005831.txt
+set(['Car', 'Truck']) 005832.txt
+set(['Car']) 005833.txt
+set(['Car', 'Misc']) 005834.txt
+set(['Car']) 005836.txt
+set([]) 005837.txt
+set(['Car']) 005838.txt
+set(['Car']) 005839.txt
+set(['Car']) 005840.txt
+set(['Truck']) 005841.txt
+set(['Car']) 005842.txt
+set(['Car']) 005844.txt
+set(['Car']) 005845.txt
+set(['Car']) 005846.txt
+set(['Car']) 005848.txt
+set(['Car']) 005849.txt
+set(['Car']) 005850.txt
+set(['Car']) 005851.txt
+set(['Car']) 005852.txt
+set(['Car', 'Truck']) 005853.txt
+set(['Car']) 005854.txt
+set(['Car', 'Misc']) 005855.txt
+set([]) 005856.txt
+set(['Car']) 005858.txt
+set(['Car', 'Truck']) 005859.txt
+set(['Car']) 005861.txt
+set(['Car']) 005862.txt
+set(['Car']) 005863.txt
+set(['Car']) 005864.txt
+set(['Car']) 005865.txt
+set(['Car']) 005867.txt
+set(['Car']) 005868.txt
+set(['Car', 'Misc']) 005869.txt
+set(['Car']) 005870.txt
+set(['Car']) 005871.txt
+set(['Car', 'Truck']) 005872.txt
+set(['Car', 'Truck']) 005873.txt
+set(['Car']) 005875.txt
+set(['Car']) 005876.txt
+set(['Car']) 005877.txt
+set(['Car', 'Misc']) 005878.txt
+set(['Car', 'Misc']) 005879.txt
+set(['Car']) 005880.txt
+set(['Car']) 005882.txt
+set(['Car']) 005883.txt
+set(['Car']) 005884.txt
+set(['Car']) 005885.txt
+set(['Car']) 005886.txt
+set(['Car']) 005887.txt
+set(['Car', 'Misc']) 005889.txt
+set(['Car']) 005890.txt
+set(['Car']) 005891.txt
+set(['Car']) 005892.txt
+set(['Car', 'Misc']) 005893.txt
+set(['Car']) 005894.txt
+set(['Car']) 005895.txt
+set(['Car']) 005898.txt
+set(['Truck']) 005899.txt
+set(['Car']) 005900.txt
+set(['Car']) 005902.txt
+set(['Car']) 005903.txt
+set(['Car', 'Misc']) 005904.txt
+set(['Car']) 005906.txt
+set(['Car']) 005907.txt
+set(['Car']) 005908.txt
+set(['Car']) 005909.txt
+set(['Car']) 005911.txt
+set(['Car']) 005912.txt
+set(['Car']) 005913.txt
+set(['Car']) 005915.txt
+set(['Car', 'Truck']) 005916.txt
+set(['Car']) 005917.txt
+set(['Car', 'Misc']) 005918.txt
+set(['Car']) 005919.txt
+set(['Car']) 005920.txt
+set(['Car', 'Truck']) 005921.txt
+set(['Car']) 005922.txt
+set(['Car']) 005923.txt
+set(['Truck']) 005925.txt
+set(['Car']) 005926.txt
+set(['Car']) 005927.txt
+set(['Car']) 005928.txt
+set(['Car']) 005929.txt
+set(['Car']) 005930.txt
+set(['Car']) 005932.txt
+set(['Car']) 005933.txt
+set(['Car']) 005934.txt
+set(['Car', 'Misc', 'Truck']) 005935.txt
+set(['Car', 'Truck']) 005938.txt
+set(['Car', 'Truck']) 005939.txt
+set(['Car']) 005940.txt
+set(['Car']) 005941.txt
+set(['Car']) 005942.txt
+set(['Car']) 005943.txt
+set(['Car']) 005944.txt
+set([]) 005945.txt
+set(['Car', 'Misc', 'Truck']) 005946.txt
+set(['Car']) 005947.txt
+set(['Car']) 005948.txt
+set(['Car', 'Truck']) 005949.txt
+set(['Car']) 005950.txt
+set(['Car']) 005951.txt
+set(['Car']) 005953.txt
+set(['Car']) 005955.txt
+set(['Car']) 005956.txt
+set(['Car']) 005957.txt
+set(['Car']) 005959.txt
+set(['Car']) 005960.txt
+set(['Car']) 005961.txt
+set(['Car', 'Truck']) 005962.txt
+set(['Car']) 005963.txt
+set(['Car']) 005964.txt
+set(['Car', 'Misc']) 005966.txt
+set(['Car']) 005967.txt
+set(['Car']) 005968.txt
+set(['Car', 'Misc']) 005969.txt
+set(['Car']) 005970.txt
+set(['Car']) 005972.txt
+set(['Car']) 005973.txt
+set(['Car', 'Truck']) 005974.txt
+set(['Car']) 005975.txt
+set(['Car']) 005977.txt
+set(['Car']) 005978.txt
+set(['Car']) 005979.txt
+set(['Car']) 005980.txt
+set(['Car', 'Misc']) 005981.txt
+set(['Car']) 005982.txt
+set(['Car']) 005983.txt
+set(['Misc']) 005985.txt
+set(['Car', 'Truck']) 005987.txt
+set([]) 005988.txt
+set(['Car']) 005989.txt
+set(['Car']) 005990.txt
+set(['Car']) 005991.txt
+set(['Car']) 005992.txt
+set(['Car']) 005993.txt
+set(['Car']) 005994.txt
+set(['Car']) 005995.txt
+set(['Car', 'Misc']) 005996.txt
+set(['Car', 'Truck']) 005997.txt
+set(['Car', 'Truck']) 005998.txt
+set(['Car']) 005999.txt
+set(['Car']) 006000.txt
+set(['Car']) 006001.txt
+set(['Car']) 006002.txt
+set(['Car']) 006004.txt
+set(['Car']) 006005.txt
+set([]) 006006.txt
+set(['Car']) 006007.txt
+set(['Car']) 006008.txt
+set(['Car']) 006009.txt
+set(['Car']) 006011.txt
+set(['Car']) 006013.txt
+set(['Car']) 006014.txt
+set(['Car']) 006015.txt
+set(['Car']) 006016.txt
+set(['Car', 'Truck']) 006017.txt
+set(['Car']) 006018.txt
+set(['Car']) 006019.txt
+set(['Car', 'Truck']) 006020.txt
+set(['Car']) 006021.txt
+set(['Car']) 006022.txt
+set(['Car', 'Truck']) 006023.txt
+set(['Car']) 006024.txt
+set(['Car']) 006025.txt
+set(['Car', 'Misc']) 006026.txt
+set(['Car']) 006028.txt
+set(['Car', 'Misc']) 006030.txt
+set(['Car']) 006033.txt
+set(['Car']) 006034.txt
+set(['Car']) 006036.txt
+set(['Car']) 006037.txt
+set(['Car', 'Truck']) 006038.txt
+set(['Car']) 006039.txt
+set(['Car']) 006040.txt
+set(['Car', 'Misc', 'Truck']) 006041.txt
+set(['Car', 'Truck']) 006042.txt
+set(['Car']) 006043.txt
+set(['Car']) 006045.txt
+set(['Car', 'Misc']) 006046.txt
+set(['Car']) 006047.txt
+set(['Car']) 006048.txt
+set(['Car']) 006049.txt
+set(['Car']) 006051.txt
+set(['Car']) 006052.txt
+set(['Car']) 006054.txt
+set(['Car']) 006055.txt
+set(['Car']) 006056.txt
+set(['Car']) 006057.txt
+set(['Car']) 006058.txt
+set(['Car']) 006059.txt
+set(['Car']) 006060.txt
+set(['Car']) 006061.txt
+set(['Car', 'Truck']) 006062.txt
+set(['Car', 'Misc']) 006063.txt
+set(['Car']) 006064.txt
+set(['Car']) 006066.txt
+set(['Car', 'Truck']) 006068.txt
+set(['Car']) 006070.txt
+set(['Car']) 006071.txt
+set(['Car']) 006072.txt
+set(['Car']) 006073.txt
+set(['Car']) 006074.txt
+set(['Car']) 006075.txt
+set(['Car']) 006077.txt
+set(['Car']) 006079.txt
+set(['Car']) 006080.txt
+set(['Car']) 006081.txt
+set(['Car']) 006082.txt
+set(['Car']) 006083.txt
+set(['Car']) 006084.txt
+set(['Car']) 006085.txt
+set(['Car']) 006086.txt
+set(['Car']) 006087.txt
+set(['Car']) 006088.txt
+set(['Car']) 006090.txt
+set(['Car', 'Misc']) 006091.txt
+set(['Car']) 006092.txt
+set(['Car']) 006093.txt
+set(['Car']) 006094.txt
+set(['Car', 'Misc']) 006096.txt
+set(['Car']) 006098.txt
+set(['Car', 'Truck']) 006099.txt
+set(['Car']) 006100.txt
+set(['Car']) 006101.txt
+set(['Car', 'Truck']) 006102.txt
+set(['Car']) 006103.txt
+set(['Car']) 006104.txt
+set(['Car']) 006105.txt
+set(['Car']) 006106.txt
+set(['Car']) 006107.txt
+set(['Car', 'Truck']) 006108.txt
+set(['Car']) 006109.txt
+set(['Car']) 006110.txt
+set(['Car', 'Misc']) 006111.txt
+set(['Car']) 006112.txt
+set(['Car']) 006113.txt
+set(['Car', 'Misc']) 006114.txt
+set(['Car']) 006115.txt
+set(['Car', 'Misc', 'Truck']) 006116.txt
+set(['Car']) 006117.txt
+set(['Car']) 006118.txt
+set(['Car']) 006119.txt
+set(['Car']) 006120.txt
+set([]) 006121.txt
+set(['Car', 'Truck']) 006123.txt
+set(['Car', 'Truck']) 006124.txt
+set(['Car']) 006125.txt
+set(['Car']) 006126.txt
+set(['Car']) 006127.txt
+set(['Car']) 006128.txt
+set(['Car']) 006129.txt
+set(['Car']) 006131.txt
+set(['Car']) 006132.txt
+set(['Car']) 006133.txt
+set(['Car']) 006134.txt
+set(['Car']) 006135.txt
+set(['Car']) 006136.txt
+set(['Car']) 006137.txt
+set(['Car']) 006138.txt
+set([]) 006139.txt
+set(['Car']) 006140.txt
+set(['Car']) 006141.txt
+set(['Car']) 006142.txt
+set(['Car', 'Truck']) 006143.txt
+set(['Car', 'Misc', 'Truck']) 006144.txt
+set(['Car']) 006145.txt
+set(['Car']) 006146.txt
+set(['Car']) 006147.txt
+set(['Car']) 006148.txt
+set(['Car']) 006149.txt
+set(['Car']) 006150.txt
+set(['Car']) 006153.txt
+set(['Car', 'Truck']) 006154.txt
+set(['Car']) 006156.txt
+set(['Car', 'Truck']) 006157.txt
+set(['Car']) 006159.txt
+set(['Car']) 006160.txt
+set(['Car', 'Misc']) 006161.txt
+set(['Car', 'Truck']) 006162.txt
+set(['Car']) 006163.txt
+set(['Car', 'Misc']) 006165.txt
+set(['Car']) 006166.txt
+set(['Truck']) 006168.txt
+set(['Car', 'Truck']) 006170.txt
+set(['Car']) 006171.txt
+set(['Car', 'Misc']) 006172.txt
+set(['Car']) 006174.txt
+set(['Car', 'Misc']) 006175.txt
+set(['Car']) 006176.txt
+set(['Car', 'Truck']) 006177.txt
+set(['Truck']) 006178.txt
+set(['Car', 'Truck']) 006180.txt
+set(['Car']) 006181.txt
+set(['Car']) 006182.txt
+set(['Car']) 006183.txt
+set(['Car']) 006184.txt
+set(['Car']) 006185.txt
+set(['Car']) 006186.txt
+set(['Car']) 006187.txt
+set(['Car']) 006188.txt
+set(['Car', 'Truck']) 006189.txt
+set(['Misc']) 006190.txt
+set(['Car']) 006191.txt
+set(['Car']) 006192.txt
+set(['Car']) 006193.txt
+set(['Car']) 006195.txt
+set(['Car']) 006196.txt
+set(['Car']) 006197.txt
+set(['Car']) 006198.txt
+set(['Car']) 006200.txt
+set(['Car', 'Misc', 'Truck']) 006202.txt
+set(['Car']) 006203.txt
+set(['Car']) 006204.txt
+set(['Car']) 006205.txt
+set(['Car']) 006206.txt
+set(['Car']) 006207.txt
+set(['Car']) 006208.txt
+set(['Car']) 006209.txt
+set(['Car']) 006210.txt
+set(['Car', 'Truck']) 006211.txt
+set([]) 006212.txt
+set(['Car']) 006213.txt
+set(['Car']) 006214.txt
+set(['Car']) 006216.txt
+set(['Car']) 006217.txt
+set(['Car']) 006218.txt
+set(['Car']) 006219.txt
+set(['Car']) 006221.txt
+set(['Car']) 006223.txt
+set(['Car', 'Truck']) 006224.txt
+set(['Car']) 006225.txt
+set(['Car']) 006226.txt
+set(['Car']) 006227.txt
+set(['Misc']) 006229.txt
+set(['Car', 'Misc']) 006230.txt
+set(['Car']) 006231.txt
+set(['Car', 'Truck']) 006232.txt
+set(['Car']) 006233.txt
+set(['Car']) 006234.txt
+set(['Car']) 006235.txt
+set(['Car']) 006236.txt
+set(['Car']) 006237.txt
+set(['Car', 'Misc']) 006238.txt
+set(['Car']) 006241.txt
+set(['Car']) 006242.txt
+set(['Car']) 006244.txt
+set(['Car', 'Misc']) 006245.txt
+set(['Car']) 006246.txt
+set(['Car', 'Truck']) 006247.txt
+set(['Car']) 006248.txt
+set(['Car', 'Misc']) 006249.txt
+set(['Car', 'Truck']) 006250.txt
+set(['Car', 'Truck']) 006251.txt
+set(['Car']) 006253.txt
+set(['Car']) 006254.txt
+set(['Car']) 006255.txt
+set(['Car', 'Misc']) 006256.txt
+set(['Car']) 006257.txt
+set(['Car']) 006259.txt
+set(['Car']) 006260.txt
+set(['Car']) 006261.txt
+set(['Car']) 006262.txt
+set(['Car']) 006263.txt
+set(['Car', 'Truck']) 006264.txt
+set(['Car']) 006265.txt
+set(['Car']) 006266.txt
+set(['Car', 'Truck']) 006267.txt
+set([]) 006268.txt
+set(['Car']) 006269.txt
+set(['Car']) 006270.txt
+set(['Car']) 006271.txt
+set(['Car']) 006272.txt
+set(['Car']) 006273.txt
+set(['Car']) 006274.txt
+set(['Car']) 006276.txt
+set([]) 006277.txt
+set(['Car']) 006278.txt
+set(['Car']) 006279.txt
+set(['Car', 'Truck']) 006280.txt
+set(['Car']) 006281.txt
+set(['Truck']) 006282.txt
+set(['Car']) 006283.txt
+set(['Car']) 006284.txt
+set(['Car', 'Misc', 'Truck']) 006285.txt
+set(['Car']) 006286.txt
+set(['Car', 'Truck']) 006287.txt
+set(['Car']) 006288.txt
+set(['Car']) 006289.txt
+set(['Car', 'Misc']) 006290.txt
+set(['Car', 'Misc', 'Truck']) 006291.txt
+set(['Car']) 006293.txt
+set(['Car', 'Misc']) 006296.txt
+set(['Car', 'Truck']) 006297.txt
+set(['Car', 'Misc']) 006300.txt
+set(['Car', 'Misc']) 006301.txt
+set(['Car']) 006302.txt
+set(['Car']) 006303.txt
+set(['Car']) 006304.txt
+set(['Car', 'Truck']) 006305.txt
+set(['Car']) 006306.txt
+set(['Car', 'Truck']) 006307.txt
+set(['Car']) 006309.txt
+set(['Car']) 006310.txt
+set(['Car']) 006312.txt
+set(['Car']) 006313.txt
+set(['Car']) 006314.txt
+set(['Car']) 006315.txt
+set(['Car']) 006317.txt
+set(['Car', 'Misc']) 006318.txt
+set(['Car']) 006319.txt
+set(['Car']) 006320.txt
+set(['Car']) 006321.txt
+set(['Car']) 006323.txt
+set(['Car']) 006324.txt
+set(['Car']) 006326.txt
+set(['Car']) 006327.txt
+set(['Car']) 006328.txt
+set(['Car', 'Truck']) 006329.txt
+set(['Car', 'Truck']) 006331.txt
+set(['Car', 'Misc']) 006332.txt
+set(['Car']) 006333.txt
+set(['Car']) 006334.txt
+set(['Car']) 006336.txt
+set(['Car']) 006338.txt
+set(['Car']) 006339.txt
+set(['Car']) 006340.txt
+set(['Truck']) 006341.txt
+set(['Car']) 006342.txt
+set(['Car', 'Truck']) 006343.txt
+set(['Car', 'Misc']) 006344.txt
+set(['Car']) 006345.txt
+set(['Car']) 006346.txt
+set(['Car']) 006347.txt
+set(['Car', 'Misc']) 006348.txt
+set(['Car', 'Misc']) 006349.txt
+set(['Car']) 006350.txt
+set([]) 006351.txt
+set(['Car']) 006352.txt
+set(['Car']) 006353.txt
+set(['Car']) 006355.txt
+set(['Car']) 006356.txt
+set(['Car']) 006357.txt
+set(['Car']) 006358.txt
+set(['Car']) 006360.txt
+set(['Car']) 006361.txt
+set(['Car']) 006362.txt
+set(['Car']) 006363.txt
+set(['Car']) 006364.txt
+set(['Car', 'Misc', 'Truck']) 006365.txt
+set(['Car']) 006366.txt
+set(['Car', 'Misc']) 006367.txt
+set(['Car']) 006368.txt
+set(['Car', 'Truck']) 006369.txt
+set(['Car']) 006370.txt
+set(['Car']) 006371.txt
+set(['Car']) 006372.txt
+set(['Car', 'Misc']) 006373.txt
+set(['Car']) 006375.txt
+set(['Car']) 006376.txt
+set(['Car', 'Truck']) 006377.txt
+set(['Car']) 006378.txt
+set(['Car']) 006379.txt
+set(['Car']) 006380.txt
+set(['Car']) 006383.txt
+set(['Car']) 006384.txt
+set(['Car']) 006385.txt
+set(['Car', 'Truck']) 006386.txt
+set(['Car']) 006387.txt
+set(['Car']) 006388.txt
+set(['Car']) 006389.txt
+set(['Car', 'Truck']) 006390.txt
+set(['Car']) 006391.txt
+set(['Car']) 006392.txt
+set(['Car']) 006393.txt
+set(['Car', 'Misc', 'Truck']) 006394.txt
+set([]) 006395.txt
+set(['Car']) 006396.txt
+set(['Car']) 006397.txt
+set(['Car', 'Misc']) 006398.txt
+set(['Car']) 006399.txt
+set([]) 006400.txt
+set(['Car']) 006401.txt
+set(['Car']) 006403.txt
+set(['Car']) 006404.txt
+set(['Car', 'Truck']) 006405.txt
+set(['Car']) 006406.txt
+set(['Car']) 006407.txt
+set(['Car']) 006410.txt
+set(['Car']) 006413.txt
+set(['Car']) 006414.txt
+set(['Car', 'Truck']) 006415.txt
+set(['Car']) 006416.txt
+set(['Car', 'Misc']) 006417.txt
+set(['Car', 'Truck']) 006418.txt
+set(['Car']) 006419.txt
+set(['Car', 'Misc', 'Truck']) 006420.txt
+set(['Car', 'Truck']) 006421.txt
+set(['Car']) 006422.txt
+set(['Car']) 006423.txt
+set(['Car']) 006426.txt
+set(['Car']) 006428.txt
+set(['Car']) 006429.txt
+set(['Car']) 006431.txt
+set(['Car', 'Truck']) 006432.txt
+set(['Car']) 006433.txt
+set(['Car', 'Truck']) 006436.txt
+set(['Car']) 006437.txt
+set(['Car', 'Truck']) 006438.txt
+set(['Car']) 006439.txt
+set(['Car']) 006440.txt
+set(['Car', 'Misc', 'Truck']) 006442.txt
+set(['Car']) 006443.txt
+set(['Car']) 006445.txt
+set(['Car']) 006446.txt
+set(['Car', 'Truck']) 006447.txt
+set(['Car']) 006448.txt
+set(['Car']) 006450.txt
+set(['Car']) 006452.txt
+set(['Car']) 006454.txt
+set(['Car']) 006455.txt
+set(['Car']) 006456.txt
+set(['Car']) 006457.txt
+set(['Car']) 006461.txt
+set(['Car']) 006462.txt
+set(['Car', 'Truck']) 006463.txt
+set([]) 006464.txt
+set(['Car', 'Truck']) 006465.txt
+set(['Car', 'Misc']) 006466.txt
+set(['Car']) 006467.txt
+set(['Car']) 006468.txt
+set(['Car']) 006469.txt
+set(['Car']) 006470.txt
+set([]) 006473.txt
+set(['Car', 'Misc']) 006474.txt
+set(['Car']) 006475.txt
+set(['Car']) 006476.txt
+set(['Car', 'Misc', 'Truck']) 006477.txt
+set(['Car']) 006478.txt
+set(['Car']) 006479.txt
+set(['Car', 'Truck']) 006481.txt
+set(['Car', 'Misc', 'Truck']) 006482.txt
+set(['Car']) 006483.txt
+set(['Car']) 006484.txt
+set(['Car']) 006485.txt
+set(['Car']) 006487.txt
+set(['Car']) 006488.txt
+set(['Car']) 006489.txt
+set(['Car', 'Truck']) 006490.txt
+set(['Car', 'Misc']) 006491.txt
+set(['Car']) 006492.txt
+set(['Car']) 006493.txt
+set(['Car', 'Misc', 'Truck']) 006494.txt
+set(['Car']) 006495.txt
+set(['Car']) 006496.txt
+set(['Car']) 006497.txt
+set(['Car', 'Truck']) 006498.txt
+set(['Car']) 006500.txt
+set(['Car', 'Misc']) 006501.txt
+set(['Car']) 006504.txt
+set(['Car']) 006506.txt
+set(['Car', 'Truck']) 006507.txt
+set(['Car', 'Truck']) 006508.txt
+set(['Car']) 006509.txt
+set(['Car']) 006510.txt
+set(['Car', 'Misc', 'Truck']) 006512.txt
+set(['Car', 'Truck']) 006513.txt
+set(['Car', 'Misc']) 006514.txt
+set(['Car']) 006515.txt
+set(['Car', 'Misc']) 006516.txt
+set([]) 006517.txt
+set(['Car']) 006518.txt
+set(['Car']) 006519.txt
+set(['Car']) 006520.txt
+set(['Car']) 006521.txt
+set(['Car']) 006522.txt
+set(['Car']) 006523.txt
+set(['Car']) 006524.txt
+set(['Car', 'Misc']) 006525.txt
+set(['Car']) 006526.txt
+set(['Car', 'Truck']) 006529.txt
+set(['Car']) 006530.txt
+set(['Car']) 006531.txt
+set(['Car']) 006532.txt
+set(['Car']) 006533.txt
+set(['Car']) 006534.txt
+set(['Car']) 006535.txt
+set(['Car', 'Misc']) 006537.txt
+set(['Car']) 006538.txt
+set([]) 006539.txt
+set(['Car']) 006540.txt
+set(['Car', 'Misc']) 006541.txt
+set(['Car']) 006542.txt
+set(['Car', 'Truck']) 006543.txt
+set(['Car', 'Misc']) 006544.txt
+set(['Car']) 006545.txt
+set(['Car']) 006546.txt
+set(['Car']) 006547.txt
+set(['Car']) 006548.txt
+set(['Car']) 006549.txt
+set(['Car']) 006550.txt
+set(['Car']) 006551.txt
+set(['Car']) 006553.txt
+set(['Car', 'Truck']) 006554.txt
+set([]) 006555.txt
+set(['Car', 'Truck']) 006556.txt
+set(['Car', 'Truck']) 006557.txt
+set(['Car']) 006558.txt
+set(['Car']) 006560.txt
+set(['Car']) 006561.txt
+set(['Car']) 006562.txt
+set(['Car']) 006563.txt
+set(['Car']) 006564.txt
+set(['Truck']) 006565.txt
+set(['Car']) 006567.txt
+set(['Car']) 006568.txt
+set(['Car']) 006569.txt
+set(['Car', 'Truck']) 006570.txt
+set(['Car', 'Truck']) 006571.txt
+set(['Car']) 006572.txt
+set(['Car']) 006576.txt
+set(['Car']) 006577.txt
+set(['Misc']) 006578.txt
+set(['Car']) 006581.txt
+set(['Car']) 006582.txt
+set([]) 006583.txt
+set(['Car']) 006584.txt
+set(['Car', 'Misc']) 006587.txt
+set(['Car']) 006588.txt
+set(['Car']) 006589.txt
+set(['Car']) 006590.txt
+set(['Car']) 006591.txt
+set(['Car']) 006592.txt
+set(['Car', 'Truck']) 006593.txt
+set(['Car']) 006594.txt
+set(['Car']) 006595.txt
+set(['Car']) 006596.txt
+set(['Car']) 006597.txt
+set(['Car']) 006598.txt
+set(['Car', 'Truck']) 006599.txt
+set(['Car']) 006600.txt
+set(['Car']) 006601.txt
+set(['Car']) 006603.txt
+set(['Car', 'Truck']) 006604.txt
+set([]) 006605.txt
+set(['Car']) 006606.txt
+set(['Car']) 006607.txt
+set(['Car']) 006608.txt
+set(['Car']) 006609.txt
+set(['Car', 'Misc']) 006610.txt
+set(['Car']) 006611.txt
+set(['Car', 'Misc']) 006612.txt
+set([]) 006613.txt
+set([]) 006615.txt
+set(['Car', 'Truck']) 006616.txt
+set(['Car']) 006617.txt
+set(['Car']) 006618.txt
+set(['Car']) 006620.txt
+set(['Car']) 006621.txt
+set(['Car']) 006622.txt
+set(['Car']) 006623.txt
+set(['Car', 'Misc']) 006624.txt
+set(['Car']) 006625.txt
+set(['Car']) 006627.txt
+set(['Car']) 006628.txt
+set(['Car', 'Misc']) 006629.txt
+set(['Car']) 006630.txt
+set(['Car']) 006632.txt
+set(['Car']) 006633.txt
+set(['Car', 'Truck']) 006634.txt
+set(['Car']) 006635.txt
+set(['Car']) 006636.txt
+set(['Car', 'Misc']) 006637.txt
+set(['Car']) 006638.txt
+set(['Car', 'Truck']) 006639.txt
+set(['Car']) 006641.txt
+set(['Car']) 006642.txt
+set(['Car']) 006643.txt
+set(['Car', 'Misc']) 006644.txt
+set([]) 006645.txt
+set(['Car']) 006646.txt
+set(['Car']) 006647.txt
+set(['Car', 'Truck']) 006648.txt
+set(['Car']) 006651.txt
+set(['Car']) 006654.txt
+set(['Car']) 006655.txt
+set(['Car']) 006657.txt
+set(['Car', 'Misc', 'Truck']) 006658.txt
+set(['Car']) 006659.txt
+set(['Car', 'Misc']) 006660.txt
+set(['Car']) 006662.txt
+set(['Car']) 006665.txt
+set(['Car']) 006667.txt
+set(['Car']) 006668.txt
+set(['Car']) 006669.txt
+set(['Car']) 006670.txt
+set(['Car']) 006671.txt
+set(['Car']) 006672.txt
+set(['Car']) 006673.txt
+set(['Car']) 006674.txt
+set(['Car']) 006675.txt
+set(['Car', 'Misc']) 006677.txt
+set(['Car']) 006678.txt
+set(['Car']) 006679.txt
+set(['Car']) 006680.txt
+set(['Car']) 006681.txt
+set(['Car']) 006682.txt
+set(['Car']) 006683.txt
+set(['Car']) 006684.txt
+set(['Car']) 006686.txt
+set(['Car']) 006687.txt
+set(['Car']) 006688.txt
+set(['Car']) 006689.txt
+set(['Car']) 006690.txt
+set(['Car']) 006691.txt
+set(['Car', 'Misc']) 006692.txt
+set(['Car']) 006693.txt
+set(['Car', 'Truck']) 006694.txt
+set(['Car']) 006696.txt
+set(['Car']) 006697.txt
+set(['Car']) 006698.txt
+set(['Car']) 006699.txt
+set(['Car']) 006700.txt
+set(['Car']) 006701.txt
+set(['Car']) 006702.txt
+set(['Car']) 006703.txt
+set(['Car']) 006704.txt
+set(['Car']) 006705.txt
+set(['Car']) 006706.txt
+set(['Car', 'Misc']) 006707.txt
+set(['Car']) 006708.txt
+set(['Car']) 006709.txt
+set(['Car']) 006711.txt
+set(['Car', 'Truck']) 006712.txt
+set(['Car', 'Misc', 'Truck']) 006713.txt
+set(['Car', 'Truck']) 006714.txt
+set(['Truck']) 006715.txt
+set(['Car']) 006717.txt
+set(['Car']) 006718.txt
+set(['Car']) 006719.txt
+set(['Car']) 006720.txt
+set(['Car']) 006723.txt
+set(['Car']) 006724.txt
+set(['Car']) 006725.txt
+set(['Car']) 006726.txt
+set(['Car']) 006728.txt
+set(['Car']) 006729.txt
+set(['Car']) 006730.txt
+set(['Car']) 006731.txt
+set(['Car']) 006732.txt
+set(['Car']) 006733.txt
+set(['Car']) 006734.txt
+set(['Car']) 006735.txt
+set(['Car']) 006737.txt
+set(['Car', 'Truck']) 006738.txt
+set(['Car']) 006739.txt
+set(['Car']) 006740.txt
+set(['Car', 'Truck']) 006741.txt
+set(['Car']) 006742.txt
+set(['Car', 'Truck']) 006743.txt
+set(['Car']) 006744.txt
+set(['Car']) 006745.txt
+set(['Car', 'Truck']) 006747.txt
+set(['Car']) 006748.txt
+set(['Car']) 006749.txt
+set(['Car']) 006750.txt
+set(['Car']) 006751.txt
+set(['Car']) 006752.txt
+set(['Car']) 006753.txt
+set(['Car', 'Misc']) 006754.txt
+set(['Car', 'Truck']) 006755.txt
+set(['Car', 'Truck']) 006756.txt
+set(['Car']) 006757.txt
+set(['Car']) 006758.txt
+set(['Car']) 006759.txt
+set(['Car']) 006760.txt
+set(['Car']) 006761.txt
+set(['Car']) 006762.txt
+set(['Car']) 006763.txt
+set(['Car', 'Truck']) 006764.txt
+set(['Car']) 006767.txt
+set(['Car']) 006768.txt
+set(['Car']) 006769.txt
+set(['Car']) 006770.txt
+set(['Car', 'Truck']) 006771.txt
+set(['Car']) 006772.txt
+set(['Car']) 006773.txt
+set(['Car']) 006774.txt
+set(['Car']) 006775.txt
+set(['Car']) 006776.txt
+set(['Car']) 006777.txt
+set(['Car']) 006778.txt
+set(['Car']) 006779.txt
+set(['Car']) 006780.txt
+set(['Car']) 006781.txt
+set(['Car']) 006782.txt
+set(['Car']) 006783.txt
+set(['Car']) 006784.txt
+set(['Car']) 006785.txt
+set(['Car']) 006786.txt
+set(['Car']) 006787.txt
+set(['Car', 'Truck']) 006788.txt
+set(['Car', 'Misc']) 006789.txt
+set(['Car']) 006790.txt
+set(['Car', 'Misc']) 006791.txt
+set(['Car']) 006792.txt
+set(['Car']) 006793.txt
+set(['Car']) 006794.txt
+set(['Car']) 006796.txt
+set(['Car']) 006797.txt
+set(['Car']) 006798.txt
+set(['Car']) 006800.txt
+set(['Car']) 006801.txt
+set(['Car', 'Truck']) 006803.txt
+set(['Car']) 006805.txt
+set(['Car']) 006806.txt
+set(['Car']) 006808.txt
+set(['Car']) 006809.txt
+set(['Car']) 006810.txt
+set(['Car']) 006811.txt
+set(['Car']) 006812.txt
+set(['Car']) 006813.txt
+set(['Car']) 006814.txt
+set(['Car']) 006815.txt
+set(['Car', 'Misc']) 006816.txt
+set(['Car']) 006817.txt
+set(['Car']) 006819.txt
+set(['Car']) 006820.txt
+set(['Truck']) 006821.txt
+set(['Car', 'Misc']) 006822.txt
+set(['Car']) 006823.txt
+set(['Car', 'Truck']) 006824.txt
+set([]) 006825.txt
+set(['Car', 'Misc']) 006826.txt
+set(['Car']) 006827.txt
+set(['Car', 'Truck']) 006831.txt
+set(['Car']) 006833.txt
+set(['Car']) 006835.txt
+set(['Car']) 006836.txt
+set(['Car']) 006837.txt
+set(['Car', 'Truck']) 006838.txt
+set(['Car', 'Truck']) 006839.txt
+set(['Car']) 006840.txt
+set(['Car', 'Truck']) 006841.txt
+set(['Car']) 006842.txt
+set(['Car']) 006843.txt
+set(['Car']) 006844.txt
+set(['Car']) 006845.txt
+set(['Car']) 006846.txt
+set([]) 006847.txt
+set(['Car']) 006848.txt
+set(['Car']) 006849.txt
+set(['Car']) 006850.txt
+set(['Car', 'Truck']) 006851.txt
+set(['Car']) 006852.txt
+set(['Car', 'Misc']) 006853.txt
+set(['Car']) 006854.txt
+set(['Truck']) 006855.txt
+set(['Car', 'Misc']) 006856.txt
+set(['Car']) 006858.txt
+set(['Car']) 006859.txt
+set(['Car', 'Misc']) 006860.txt
+set(['Car', 'Misc']) 006862.txt
+set(['Car']) 006864.txt
+set(['Car']) 006865.txt
+set(['Car']) 006866.txt
+set(['Car']) 006867.txt
+set(['Car', 'Misc']) 006868.txt
+set(['Car']) 006869.txt
+set(['Car']) 006870.txt
+set(['Car']) 006871.txt
+set([]) 006872.txt
+set(['Car', 'Truck']) 006874.txt
+set(['Car', 'Truck']) 006875.txt
+set(['Truck']) 006878.txt
+set(['Car']) 006879.txt
+set(['Car']) 006881.txt
+set(['Car']) 006882.txt
+set(['Car']) 006883.txt
+set(['Car']) 006884.txt
+set(['Car', 'Truck']) 006885.txt
+set(['Car']) 006886.txt
+set(['Car']) 006887.txt
+set(['Car']) 006888.txt
+set(['Car']) 006889.txt
+set(['Car']) 006890.txt
+set(['Car']) 006891.txt
+set([]) 006893.txt
+set(['Car']) 006895.txt
+set(['Car', 'Truck']) 006896.txt
+set(['Car']) 006898.txt
+set(['Car', 'Misc']) 006900.txt
+set(['Car']) 006901.txt
+set(['Car']) 006902.txt
+set(['Car']) 006905.txt
+set(['Car', 'Truck']) 006906.txt
+set(['Car', 'Misc']) 006907.txt
+set(['Car']) 006909.txt
+set(['Car', 'Truck']) 006910.txt
+set(['Car']) 006911.txt
+set(['Car']) 006912.txt
+set(['Car', 'Misc', 'Truck']) 006913.txt
+set(['Car']) 006914.txt
+set(['Car']) 006917.txt
+set(['Car']) 006918.txt
+set(['Car', 'Misc']) 006919.txt
+set(['Car']) 006920.txt
+set(['Car']) 006921.txt
+set(['Car']) 006922.txt
+set(['Car']) 006923.txt
+set([]) 006924.txt
+set([]) 006925.txt
+set(['Car']) 006926.txt
+set(['Car', 'Misc']) 006927.txt
+set(['Car']) 006928.txt
+set(['Car']) 006929.txt
+set(['Car']) 006930.txt
+set(['Car']) 006931.txt
+set(['Car']) 006932.txt
+set(['Car']) 006933.txt
+set(['Car']) 006934.txt
+set(['Car', 'Misc']) 006936.txt
+set(['Car']) 006937.txt
+set(['Car']) 006938.txt
+set(['Car', 'Truck']) 006940.txt
+set(['Car']) 006943.txt
+set(['Car', 'Misc']) 006944.txt
+set(['Car']) 006945.txt
+set(['Car', 'Misc']) 006946.txt
+set(['Car', 'Misc']) 006947.txt
+set(['Car']) 006948.txt
+set(['Car']) 006950.txt
+set(['Car', 'Truck']) 006952.txt
+set(['Car', 'Misc']) 006953.txt
+set(['Car']) 006954.txt
+set(['Car']) 006956.txt
+set(['Car']) 006957.txt
+set(['Car']) 006958.txt
+set(['Car']) 006959.txt
+set(['Car']) 006960.txt
+set(['Car', 'Truck']) 006961.txt
+set(['Car', 'Truck']) 006962.txt
+set(['Car', 'Misc', 'Truck']) 006964.txt
+set(['Car']) 006965.txt
+set(['Car']) 006966.txt
+set(['Car']) 006967.txt
+set(['Car', 'Misc']) 006968.txt
+set([]) 006969.txt
+set(['Car']) 006970.txt
+set(['Misc']) 006971.txt
+set(['Car']) 006972.txt
+set(['Car']) 006973.txt
+set(['Car']) 006974.txt
+set(['Car']) 006975.txt
+set(['Car']) 006976.txt
+set(['Car']) 006977.txt
+set(['Car', 'Misc']) 006978.txt
+set(['Car']) 006979.txt
+set([]) 006980.txt
+set(['Car']) 006981.txt
+set(['Car', 'Truck']) 006982.txt
+set(['Car']) 006983.txt
+set(['Car', 'Truck']) 006984.txt
+set(['Car', 'Truck']) 006985.txt
+set(['Car', 'Misc']) 006986.txt
+set(['Car']) 006987.txt
+set(['Car']) 006988.txt
+set(['Car']) 006989.txt
+set(['Car']) 006990.txt
+set(['Car', 'Truck']) 006991.txt
+set(['Car']) 006992.txt
+set(['Car', 'Truck']) 006993.txt
+set(['Car']) 006994.txt
+set(['Car', 'Truck']) 006995.txt
+set(['Car']) 006996.txt
+set(['Car']) 006997.txt
+set(['Car']) 006998.txt
+set(['Car']) 006999.txt
+set(['Car']) 007000.txt
+set(['Car', 'Misc']) 007001.txt
+set(['Car']) 007002.txt
+set(['Car']) 007003.txt
+set(['Car']) 007004.txt
+set(['Car']) 007005.txt
+set(['Car']) 007007.txt
+set(['Car']) 007008.txt
+set(['Car']) 007009.txt
+set(['Car']) 007010.txt
+set(['Car']) 007011.txt
+set(['Car']) 007012.txt
+set(['Car', 'Truck']) 007013.txt
+set(['Car']) 007014.txt
+set(['Car', 'Misc']) 007015.txt
+set(['Car']) 007016.txt
+set(['Car']) 007018.txt
+set(['Car']) 007019.txt
+set(['Car']) 007020.txt
+set(['Car', 'Misc']) 007021.txt
+set(['Car']) 007022.txt
+set(['Car']) 007024.txt
+set(['Car']) 007025.txt
+set(['Car']) 007026.txt
+set(['Car']) 007027.txt
+set(['Car']) 007028.txt
+set(['Car']) 007029.txt
+set(['Car']) 007030.txt
+set(['Car']) 007032.txt
+set(['Car']) 007033.txt
+set(['Car', 'Truck']) 007034.txt
+set(['Car']) 007035.txt
+set(['Car']) 007037.txt
+set(['Car']) 007038.txt
+set(['Car']) 007039.txt
+set([]) 007040.txt
+set(['Car', 'Truck']) 007041.txt
+set(['Car', 'Misc']) 007042.txt
+set(['Car']) 007043.txt
+set(['Car']) 007044.txt
+set(['Car', 'Misc']) 007045.txt
+set(['Car']) 007046.txt
+set(['Car', 'Truck']) 007047.txt
+set(['Car', 'Misc']) 007048.txt
+set(['Car', 'Truck']) 007050.txt
+set(['Car']) 007051.txt
+set(['Car', 'Truck']) 007052.txt
+set(['Car']) 007053.txt
+set(['Car']) 007055.txt
+set(['Car']) 007057.txt
+set(['Car']) 007058.txt
+set(['Car']) 007059.txt
+set(['Car']) 007060.txt
+set(['Car']) 007061.txt
+set(['Car', 'Misc']) 007062.txt
+set(['Car']) 007063.txt
+set(['Car', 'Truck']) 007064.txt
+set(['Car']) 007065.txt
+set(['Car']) 007066.txt
+set(['Car']) 007067.txt
+set(['Car']) 007068.txt
+set(['Car']) 007070.txt
+set(['Car']) 007071.txt
+set([]) 007072.txt
+set(['Car']) 007074.txt
+set(['Car', 'Misc']) 007076.txt
+set(['Car']) 007077.txt
+set(['Car', 'Truck']) 007078.txt
+set(['Car', 'Truck']) 007079.txt
+set(['Car']) 007082.txt
+set(['Car']) 007083.txt
+set(['Car']) 007085.txt
+set(['Car']) 007086.txt
+set(['Car']) 007087.txt
+set(['Car', 'Misc']) 007088.txt
+set(['Car']) 007089.txt
+set(['Car']) 007090.txt
+set(['Car']) 007091.txt
+set([]) 007092.txt
+set(['Car']) 007093.txt
+set(['Car', 'Misc']) 007095.txt
+set(['Car', 'Misc', 'Truck']) 007096.txt
+set(['Car', 'Truck']) 007097.txt
+set(['Car']) 007098.txt
+set(['Car']) 007099.txt
+set(['Car', 'Truck']) 007100.txt
+set(['Car']) 007102.txt
+set(['Car']) 007104.txt
+set(['Car']) 007105.txt
+set(['Car']) 007106.txt
+set(['Car']) 007107.txt
+set(['Car']) 007108.txt
+set(['Car']) 007109.txt
+set(['Car']) 007111.txt
+set([]) 007113.txt
+set(['Car']) 007114.txt
+set([]) 007115.txt
+set(['Car']) 007116.txt
+set(['Car', 'Misc']) 007117.txt
+set([]) 007118.txt
+set(['Car']) 007119.txt
+set(['Car', 'Truck']) 007120.txt
+set(['Car']) 007121.txt
+set(['Car', 'Truck']) 007122.txt
+set(['Car']) 007123.txt
+set(['Car']) 007124.txt
+set(['Car']) 007125.txt
+set(['Car']) 007127.txt
+set(['Car']) 007128.txt
+set([]) 007129.txt
+set(['Car']) 007130.txt
+set(['Car']) 007131.txt
+set(['Car']) 007132.txt
+set(['Car', 'Truck']) 007133.txt
+set(['Car', 'Truck']) 007135.txt
+set(['Car']) 007136.txt
+set(['Car', 'Truck']) 007137.txt
+set(['Car']) 007139.txt
+set([]) 007141.txt
+set(['Car']) 007142.txt
+set(['Car']) 007143.txt
+set(['Car']) 007144.txt
+set(['Car']) 007145.txt
+set(['Car']) 007146.txt
+set(['Car']) 007147.txt
+set(['Car']) 007148.txt
+set(['Car', 'Misc']) 007149.txt
+set(['Car', 'Truck']) 007151.txt
+set(['Car']) 007152.txt
+set(['Car', 'Misc']) 007153.txt
+set(['Car']) 007155.txt
+set(['Car', 'Misc']) 007156.txt
+set(['Car']) 007157.txt
+set(['Car']) 007158.txt
+set(['Car']) 007161.txt
+set(['Car', 'Misc']) 007162.txt
+set(['Car']) 007163.txt
+set(['Car']) 007164.txt
+set(['Car']) 007166.txt
+set(['Car']) 007167.txt
+set(['Car', 'Truck']) 007168.txt
+set(['Car']) 007169.txt
+set(['Car']) 007170.txt
+set(['Car']) 007172.txt
+set(['Car']) 007173.txt
+set(['Car']) 007174.txt
+set(['Car']) 007175.txt
+set(['Car']) 007176.txt
+set(['Car']) 007177.txt
+set(['Car', 'Misc']) 007178.txt
+set([]) 007179.txt
+set(['Car']) 007180.txt
+set(['Car']) 007181.txt
+set(['Car']) 007182.txt
+set(['Car']) 007183.txt
+set(['Car']) 007184.txt
+set(['Car']) 007185.txt
+set(['Car']) 007186.txt
+set(['Car']) 007187.txt
+set([]) 007189.txt
+set(['Car', 'Truck']) 007190.txt
+set(['Car']) 007191.txt
+set(['Car']) 007192.txt
+set(['Car']) 007193.txt
+set(['Car']) 007194.txt
+set(['Car', 'Misc']) 007195.txt
+set(['Car']) 007196.txt
+set(['Car', 'Misc']) 007198.txt
+set([]) 007199.txt
+set(['Car']) 007200.txt
+set(['Car']) 007202.txt
+set(['Car']) 007203.txt
+set(['Car', 'Truck']) 007204.txt
+set(['Car']) 007205.txt
+set(['Car', 'Truck']) 007206.txt
+set(['Car', 'Truck']) 007207.txt
+set(['Car']) 007208.txt
+set(['Car']) 007209.txt
+set(['Car']) 007210.txt
+set(['Car']) 007211.txt
+set(['Car', 'Misc']) 007212.txt
+set(['Car']) 007213.txt
+set(['Car', 'Misc']) 007214.txt
+set(['Car']) 007215.txt
+set(['Car']) 007216.txt
+set(['Car']) 007217.txt
+set(['Car']) 007218.txt
+set(['Car']) 007219.txt
+set(['Car']) 007220.txt
+set(['Car']) 007222.txt
+set(['Car']) 007224.txt
+set(['Car', 'Truck']) 007226.txt
+set([]) 007227.txt
+set(['Car']) 007228.txt
+set(['Car']) 007229.txt
+set(['Car']) 007230.txt
+set(['Car']) 007232.txt
+set(['Car']) 007233.txt
+set(['Car']) 007234.txt
+set(['Car', 'Truck']) 007235.txt
+set(['Car', 'Truck']) 007236.txt
+set(['Car']) 007238.txt
+set(['Car']) 007240.txt
+set(['Car']) 007241.txt
+set(['Car']) 007242.txt
+set(['Car']) 007243.txt
+set(['Car']) 007244.txt
+set(['Car', 'Truck']) 007245.txt
+set(['Car']) 007246.txt
+set(['Car']) 007248.txt
+set(['Car']) 007249.txt
+set(['Car']) 007250.txt
+set(['Car']) 007251.txt
+set([]) 007253.txt
+set(['Car']) 007255.txt
+set(['Car']) 007256.txt
+set(['Car']) 007257.txt
+set(['Car', 'Truck']) 007258.txt
+set(['Car']) 007260.txt
+set(['Car']) 007262.txt
+set(['Car']) 007263.txt
+set(['Car']) 007264.txt
+set([]) 007265.txt
+set(['Car']) 007266.txt
+set(['Car']) 007267.txt
+set(['Car', 'Misc']) 007268.txt
+set(['Car']) 007270.txt
+set(['Car']) 007271.txt
+set(['Car']) 007273.txt
+set(['Car']) 007274.txt
+set(['Car']) 007275.txt
+set(['Car']) 007276.txt
+set(['Car']) 007277.txt
+set(['Car']) 007279.txt
+set(['Car']) 007280.txt
+set(['Car', 'Truck']) 007281.txt
+set(['Car']) 007282.txt
+set(['Car']) 007284.txt
+set(['Car']) 007285.txt
+set(['Car']) 007286.txt
+set(['Car', 'Truck']) 007287.txt
+set(['Car']) 007289.txt
+set(['Car']) 007290.txt
+set(['Car']) 007291.txt
+set(['Car']) 007292.txt
+set(['Car']) 007293.txt
+set(['Car']) 007294.txt
+set(['Car']) 007295.txt
+set(['Car']) 007296.txt
+set(['Car']) 007297.txt
+set(['Car']) 007299.txt
+set([]) 007300.txt
+set(['Car']) 007301.txt
+set(['Car', 'Truck']) 007302.txt
+set(['Car']) 007303.txt
+set(['Car', 'Misc']) 007304.txt
+set(['Car', 'Truck']) 007305.txt
+set(['Car']) 007306.txt
+set(['Car']) 007307.txt
+set(['Car']) 007309.txt
+set(['Car']) 007311.txt
+set(['Car']) 007312.txt
+set(['Car']) 007313.txt
+set(['Car']) 007314.txt
+set(['Car']) 007315.txt
+set(['Car']) 007316.txt
+set(['Car']) 007317.txt
+set([]) 007318.txt
+set(['Car']) 007319.txt
+set(['Car']) 007322.txt
+set(['Car']) 007323.txt
+set(['Car']) 007324.txt
+set(['Car']) 007325.txt
+set(['Car']) 007326.txt
+set(['Car']) 007328.txt
+set(['Car', 'Misc', 'Truck']) 007329.txt
+set(['Car']) 007330.txt
+set(['Car']) 007331.txt
+set(['Car']) 007332.txt
+set([]) 007333.txt
+set(['Car']) 007334.txt
+set(['Car', 'Truck']) 007335.txt
+set(['Car']) 007336.txt
+set(['Car']) 007337.txt
+set(['Car', 'Misc']) 007339.txt
+set(['Car']) 007340.txt
+set(['Car']) 007341.txt
+set(['Car']) 007342.txt
+set(['Car', 'Misc']) 007343.txt
+set(['Car', 'Truck']) 007345.txt
+set(['Car']) 007346.txt
+set(['Car']) 007347.txt
+set(['Car']) 007348.txt
+set(['Car']) 007349.txt
+set(['Car']) 007350.txt
+set(['Car']) 007352.txt
+set(['Car']) 007354.txt
+set(['Car']) 007355.txt
+set(['Car']) 007356.txt
+set(['Car']) 007357.txt
+set(['Car']) 007358.txt
+set(['Car']) 007359.txt
+set(['Car', 'Misc']) 007360.txt
+set(['Car']) 007361.txt
+set(['Car']) 007363.txt
+set(['Car']) 007364.txt
+set(['Car']) 007365.txt
+set(['Car']) 007366.txt
+set(['Car']) 007367.txt
+set([]) 007368.txt
+set(['Car']) 007370.txt
+set(['Car', 'Misc']) 007371.txt
+set(['Car']) 007374.txt
+set(['Car']) 007377.txt
+set(['Car']) 007378.txt
+set(['Car']) 007379.txt
+set(['Car']) 007380.txt
+set(['Car', 'Truck']) 007381.txt
+set(['Car']) 007382.txt
+set(['Car']) 007383.txt
+set(['Car']) 007385.txt
+set(['Car']) 007386.txt
+set(['Car']) 007389.txt
+set(['Car', 'Misc']) 007390.txt
+set(['Car']) 007392.txt
+set(['Car']) 007393.txt
+set(['Car', 'Truck']) 007394.txt
+set(['Car']) 007395.txt
+set(['Car', 'Misc']) 007396.txt
+set(['Truck']) 007397.txt
+set(['Car']) 007398.txt
+set(['Car']) 007399.txt
+set(['Car']) 007400.txt
+set(['Car', 'Truck']) 007401.txt
+set(['Car']) 007402.txt
+set(['Car']) 007403.txt
+set(['Car']) 007405.txt
+set(['Car']) 007407.txt
+set(['Car']) 007409.txt
+set(['Car']) 007410.txt
+set(['Car']) 007411.txt
+set([]) 007412.txt
+set(['Car']) 007413.txt
+set(['Car']) 007414.txt
+set(['Car']) 007416.txt
+set(['Car']) 007417.txt
+set(['Car', 'Misc']) 007418.txt
+set(['Car']) 007419.txt
+set(['Car']) 007420.txt
+set(['Car']) 007421.txt
+set(['Car']) 007422.txt
+set(['Car']) 007423.txt
+set(['Car']) 007424.txt
+set(['Car']) 007426.txt
+set(['Car', 'Truck']) 007428.txt
+set(['Car']) 007429.txt
+set(['Car']) 007430.txt
+set(['Car']) 007432.txt
+set(['Car']) 007433.txt
+set(['Car']) 007434.txt
+set(['Car']) 007435.txt
+set(['Car', 'Misc']) 007437.txt
+set(['Car']) 007438.txt
+set(['Car', 'Truck']) 007439.txt
+set(['Car']) 007440.txt
+set(['Car']) 007441.txt
+set(['Car', 'Truck']) 007442.txt
+set(['Car']) 007443.txt
+set(['Car']) 007444.txt
+set(['Car']) 007445.txt
+set(['Car']) 007446.txt
+set(['Car', 'Truck']) 007447.txt
+set(['Car', 'Truck']) 007449.txt
+set(['Car']) 007450.txt
+set(['Car']) 007451.txt
+set(['Car']) 007452.txt
+set(['Car', 'Misc', 'Truck']) 007453.txt
+set(['Car']) 007454.txt
+set(['Car']) 007455.txt
+set(['Car', 'Truck']) 007456.txt
+set(['Car']) 007457.txt
+set(['Car']) 007458.txt
+set(['Car']) 007460.txt
+set(['Car']) 007461.txt
+set(['Car']) 007462.txt
+set(['Car']) 007463.txt
+set(['Car']) 007464.txt
+set(['Car']) 007466.txt
+set(['Car']) 007467.txt
+set(['Car', 'Misc', 'Truck']) 007468.txt
+set(['Car']) 007469.txt
+set(['Car']) 007470.txt
+set(['Car']) 007471.txt
+set([]) 007472.txt
+set(['Car']) 007474.txt
+set(['Car', 'Misc']) 007475.txt
+set(['Car']) 007476.txt
+set(['Car', 'Truck']) 007478.txt
+set(['Car']) 007479.txt
+set(['Car']) 007480.txt
