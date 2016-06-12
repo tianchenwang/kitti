@@ -65,7 +65,7 @@ class KittiDataLayer(caffe.Layer):
 
 
     def setup(self, bottom, top):
-        self._kitti_dir = '/space3/mark/datasets/kitti/'
+        self._kitti_dir = './data/kitti/'
         image_list = os.listdir(self._kitti_dir + 'image/train/')
 
         self.roidb = []
