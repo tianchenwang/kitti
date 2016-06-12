@@ -4,7 +4,7 @@
 2. [Basic installation](#installation)
 3. [Usage](#usage)
 4. [Evaluation](#evaluation)
-5. [GUI](#GUI)
+5. [GUI](#gui)
 
 ### Requirements
 
