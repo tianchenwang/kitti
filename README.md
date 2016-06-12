@@ -1,13 +1,12 @@
 
 ### Contents
-1. [Requirements: software](#requirements-software)
-2. [Requirements: hardware](#requirements-hardware)
-3. [Basic installation](#installation-sufficient-for-the-demo)
-4. [Demo](#demo)
-5. [Beyond the demo: training and testing](#beyond-the-demo-installation-for-training-and-testing-models)
-6. [Usage](#usage)
+1. [Requirements](#requirements)
+2. [Basic installation](#installation)
+3. [Usage](#usage)
+4. [Evaluation](#evaluation)
+5. [GUI](#GUI)
 
-### Requirements: software
+### Requirements
 
 1. Requirements for `Caffe` and `pycaffe` (see: [Caffe installation instructions](http://caffe.berkeleyvision.org/installation.html))
 
@@ -24,18 +23,14 @@
 2. Python packages you might not have: `cython`, `python-opencv`, `easydict`
 3. [Optional] MATLAB is required for **official** PASCAL VOC evaluation only. The code now includes unofficial Python evaluation code.
 
-### Requirements: hardware
+### Installation
 
-1. For training smaller networks (ZF, VGG_CNN_M_1024) a good GPU (e.g., Titan, K20, K40, ...) with at least 3G of memory suffices
-2. For training Fast R-CNN with VGG16, you'll need a K40 (~11G of memory)
-3. For training the end-to-end version of Faster R-CNN with VGG16, 3G of GPU memory is sufficient (using CUDNN)
-
-### Installation (sufficient for the demo)
-
-1. Clone the Faster R-CNN repository
+1. Clone the Kitti repository
   ```Shell
   # Make sure to clone with --recursive
   git clone --recursive https://github.com/czhu95/kitti.git
+  cd kitti
+  git checkout master
   ```
 
 2. We'll call the directory that you cloned `KITTI_ROOT`
@@ -112,7 +107,7 @@ mkdir results
 ```
 Output will be in KITTI_ROOT/results
 
-### Draw PR curves
+### Evaluation
 
 We implemented matlab code to draw PR curve given test text files. Please refer to ./evaluation for codes and furthur instructions.
 
