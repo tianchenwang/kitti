@@ -1,0 +1,12 @@
+draw_PR_curve.m  检测到的类别和gt类别相同才算对，dontcare按照助教发的文件来处理
+pr_car.m	 car类别的PR，dontcare按照助教发的文件来处理
+pr_truck.m	 truck类别的PR，dontcare按照助教发的文件来处理
+pr_misc.m	 misc类别的PR，dontcare按照助教发的文件来处理
+PR2.m		 检测到的类别和gt类别相同才算对，dontcare检测到了就把总数和正确数各加1
+PR2_car.m	 car类别的PR，dontcare检测到了就把总数和正确数各加1
+PR2_truck.m	 truck类别的PR，dontcare检测到了就把总数和正确数各加1
+PR2_misc.m	 misc类别的PR，dontcare检测到了就把总数和正确数各加1
+PR3.m		 不考虑检测到的类别
+PR4.m		 不考虑检测到的类别，dontcare检测到了就把总数和正确数各加1
+由于跑一个时间太长，并没有把所有的都跑一遍。
+word里是draw_PR_curve.m  和 pr_car.m 运行结果
