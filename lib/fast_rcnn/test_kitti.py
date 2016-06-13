@@ -229,10 +229,12 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
 
     if test_path:
         output_dir = test_path + '/label/'
-        os.makedir(test_path)
     else:
         output_dir = 'results'
         test_path = 'data/kitti/image/test/'
+
+    if not os.path.exists(output_dir):
+        os.mkdir(output_dir)
 
     image_list = os.listdir(test_path);
     imdb = []
@@ -254,7 +256,7 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
     for i in xrange(num_images):
         # filter out any ground truth boxes
         # import pdb; pdb.set_trace()
-        im = cv2.imread(test_path + '/image/' + imdb[i])
+        im = cv2.imread(test_path + '/' + imdb[i])
         _t['im_detect'].tic()
         scores, boxes = im_detect(net, im, None)
         _t['im_detect'].toc()
@@ -288,10 +290,14 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
               .format(i + 1, num_images, _t['im_detect'].average_time,
                       _t['misc'].average_time)
 
-        det_file = os.path.join(output_dir, 'detections', imdb[i].rstrip('png') + 'txt')
+        det_file = os.path.join(output_dir, imdb[i].rstrip('png') + 'txt')
         with open(det_file, 'w') as f:
             for j in xrange(1, num_classes):
                 for k in xrange(all_boxes[j].shape[0]):
-                    f.write('{} {}\n'.format(
-                        classes[j], all_boxes[j][k,:]).strip('[]'))
+                    f.write('{} {} {} {} {}\n'.format(
+                        int(all_boxes[j][k,0]),
+                        int(all_boxes[j][k,1]),
+                        int(all_boxes[j][k,2]),
+                        int(all_boxes[j][k,3]),
+                        all_boxes[j][k,4]))
 
