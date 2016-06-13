@@ -66,8 +66,8 @@
     ./data/scripts/fetch_faster_rcnn_models.sh
     ```
 
-    Please download the pre-computed kitti model here: 
-        http://pan.baidu.com/s/1dEZOXOl password: w8n4
+    Please download the pre-computed kitti model here:  
+        http://pan.baidu.com/s/1dEZOXOl password: w8n4  
     And place the .caffenet model file under KITTI_ROOT/data/kitti_models/
 
 6. Create symlinks for the kitti dataset (Not necessary if you wish only to run test)
@@ -110,17 +110,17 @@ KITTI_ROOT/results/
 
 ### Results
 
-We ran our detector on a test image set given by TA. If you wish to evaluate the results, please download here:
-    http://pan.baidu.com/s/1hsc0Fzu password: 4pny
+We ran our detector on a test image set given by TA. If you wish to evaluate the results, please download here:  
+    http://pan.baidu.com/s/1hsc0Fzu password: 4pny  
 **Note:** These results do not include class specification. If you want the alternative, please re-run the test procedure as described above.
 
 ### Evaluation
 
-We implemented matlab code to draw PR curve given test text files. Please refer to ./evaluation for codes and furthur instructions.
+We implemented matlab code to draw PR curve given test text files. Please refer to ./evaluation for codes and furthur instructions.  
 **Note:** This implementation is for results with classifications.
 
 ### GUI
 
 We wrote a matlab gui program to display detection results. Please refer to ./gui for
-codes and furthur instructions.
+codes and furthur instructions.  
 **Note:** This implementation is for results with classifications.
