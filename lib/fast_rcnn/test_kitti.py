@@ -294,7 +294,8 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
         with open(det_file, 'w') as f:
             for j in xrange(1, num_classes):
                 for k in xrange(all_boxes[j].shape[0]):
-                    f.write('{} {} {} {} {}\n'.format(
+                    f.write('{} {} {} {} {} {:.2f}\n'.format(
+                        classes[j],
                         int(all_boxes[j][k,0]),
                         int(all_boxes[j][k,1]),
                         int(all_boxes[j][k,2]),

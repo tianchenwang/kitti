@@ -3,8 +3,9 @@
 1. [Requirements](#requirements)
 2. [Basic installation](#installation)
 3. [Usage](#usage)
-4. [Evaluation](#evaluation)
-5. [GUI](#gui)
+4. [**Results**](#results)
+5. [Evaluation](#evaluation)
+6. [GUI](#gui)
 
 ### Requirements
 
@@ -19,7 +20,6 @@
   USE_CUDNN := 1
   ```
 
-  You can download my [Makefile.config](http://www.cs.berkeley.edu/~rbg/fast-rcnn-data/Makefile.config) for reference.
 2. Python packages you might not have: `cython`, `python-opencv`, `easydict`
 3. [Optional] MATLAB is required for **official** PASCAL VOC evaluation only. The code now includes unofficial Python evaluation code.
 
@@ -67,10 +67,10 @@
     ```
 
     Please download the pre-computed kitti model here: 
-        README.md` for details.
+        http://pan.baidu.com/s/1dEZOXOl password: w8n4
     And place the .caffenet model file under KITTI_ROOT/data/kitti_models/
 
-6. Create symlinks for the kitti dataset
+6. Create symlinks for the kitti dataset (Not necessary if you wish only to run test)
     ```Shell
       cd $KITTI_ROOT/data
       ln -s $kitti kitti
@@ -81,7 +81,6 @@
       $kitti/                         # kitti dataset
       $kitti/image                    # holds all the images
       $kitti/image/train              # training images
-      $kitti/image/test               # test images
       #kitti/label                    # text annotations
       ``` 
 
@@ -102,16 +101,26 @@ To test a kitti vehicle detector.
 ```Shell
 cd $KITTI_ROOT
 mkdir results
-./experiments/scripts/test_kitti.sh [GPU_ID]
+./experiments/scripts/test_kitti.sh [GPU_ID] [TEST_DIR]
 # GPU_ID is the GPU you want to train on
+# TEST_DIR is the directory containing test images (default to data/kitti/image/test)
 ```
-Output will be in KITTI_ROOT/results
+Output will be in TEST_DIR/label. If TEST_DIR is not specified, output will be stored at 
+KITTI_ROOT/results/ 
+
+### Results
+
+We ran our detector on a test image set given by TA. If you wish to evaluate the results, please download here:
+    http://pan.baidu.com/s/1hsc0Fzu password: 4pny
+**Note:** These results do not include class specification. If you want the alternative, please re-run the test procedure as described above.
 
 ### Evaluation
 
 We implemented matlab code to draw PR curve given test text files. Please refer to ./evaluation for codes and furthur instructions.
+**Note:** This implementation is for results with classifications.
 
 ### GUI
 
 We wrote a matlab gui program to display detection results. Please refer to ./gui for
 codes and furthur instructions.
+**Note:** This implementation is for results with classifications.
