@@ -227,7 +227,14 @@ def apply_nms(all_boxes, thresh):
 def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
     """Test a Fast R-CNN network on an image database."""
 
-    image_list = os.listdir(test_path + '/image/test');
+    if test_path:
+        output_dir = test_path + '/label/'
+        os.makedir(test_path)
+    else:
+        output_dir = 'results'
+        test_path = 'data/kitti/image/test/'
+
+    image_list = os.listdir(test_path);
     imdb = []
     for name in image_list:
         if name.endswith('.png'):
@@ -241,7 +248,6 @@ def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
     #    (x1, y1, x2, y2, score)
     all_boxes = [[] for _ in xrange(num_classes)]
 
-    output_dir = 'results/'
     # timers
     _t = {'im_detect' : Timer(), 'misc' : Timer()}
 

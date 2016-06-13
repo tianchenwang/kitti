@@ -45,6 +45,9 @@ def parse_args():
     parser.add_argument('--num_dets', dest='max_per_image',
                         help='max number of detections per image',
                         default=100, type=int)
+    parser.add_argument('--path', dest='path',
+                        help='path to test images', 
+                        default='', type=str)
 
     if len(sys.argv) == 1:
         parser.print_help()
@@ -78,4 +81,4 @@ if __name__ == '__main__':
     net = caffe.Net(args.prototxt, args.caffemodel, caffe.TEST)
     net.name = os.path.splitext(os.path.basename(args.caffemodel))[0]
 
-    test_net(net, './data/kitti', max_per_image=args.max_per_image, vis=args.vis)
+    test_net(net, args.path, max_per_image=args.max_per_image, vis=args.vis)
