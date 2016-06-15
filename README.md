@@ -7,6 +7,8 @@
 5. [Evaluation](#evaluation)
 6. [GUI](#gui)
 
+**If you have any questions with this repository, please feel free to contact me at zhucz13@mails.tsinghua.edu.cn**
+
 ### Requirements
 
 1. Requirements for `Caffe` and `pycaffe` (see: [Caffe installation instructions](http://caffe.berkeleyvision.org/installation.html))
