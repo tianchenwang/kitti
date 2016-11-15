@@ -44,7 +44,7 @@ WORKDIR $CAFFE_ROOT/caffe-fast-rcnn
 #     mkdir build && cd build && \
 #     cmake -DUSE_CUDNN=1 .. && \
 RUN cp ../Makefile.config ./
-RUN make -j"$(nproc)"
+RUN make -j"$(nproc)" && make pycaffe
 
 ENV PYCAFFE_ROOT $CAFFE_ROOT/caffe-fast-rcnn/python
 ENV PYTHONPATH $PYCAFFE_ROOT:$PYTHONPATH
