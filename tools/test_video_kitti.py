@@ -21,7 +21,7 @@ def parse_args():
     """
     Parse input arguments
     """
-    parser = argparse.ArgumentParser(description='Test a Fast R-CNN network')
+    parser = argparse.ArgumentParser(description='Video test a Fast R-CNN network')
     parser.add_argument('--gpu', dest='gpu_id', help='GPU id to use',
                         default=0, type=int)
     parser.add_argument('--def', dest='prototxt',
@@ -45,8 +45,11 @@ def parse_args():
     parser.add_argument('--num_dets', dest='max_per_image',
                         help='max number of detections per image',
                         default=100, type=int)
-    parser.add_argument('--path', dest='path',
-                        help='path to test images', 
+    # parser.add_argument('--path', dest='path',
+    #                     help='path to test images', 
+    #                     default='', type=str)
+    parser.add_argument('--vid', dest='video_path',
+                        help='path to test video', 
                         default='', type=str)
 
     if len(sys.argv) == 1:
@@ -81,4 +84,4 @@ if __name__ == '__main__':
     net = caffe.Net(args.prototxt, args.caffemodel, caffe.TEST)
     net.name = os.path.splitext(os.path.basename(args.caffemodel))[0]
 
-    test_net(net, args.path, max_per_image=args.max_per_image, vis=args.vis)
+    test_video_net(net, args.vid, max_per_image=args.max_per_image, vis=args.vis)

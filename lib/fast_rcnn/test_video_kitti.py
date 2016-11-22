@@ -5,7 +5,7 @@
 # Written by Ross Girshick
 # --------------------------------------------------------
 
-"""Test a Fast R-CNN network on an imdb (image database)."""
+"""Video test a Fast R-CNN network on an imdb (image database)."""
 
 from fast_rcnn.config import cfg, get_output_dir
 from fast_rcnn.bbox_transform import clip_boxes, bbox_transform_inv
@@ -18,6 +18,79 @@ from fast_rcnn.nms_wrapper import nms
 import cPickle
 from utils.blob import im_list_to_blob
 import os
+import sys
+
+
+# class VideoProcess():
+#     def __init__(self, _input, _output, _colors, _fps = 30):
+#         self.input = _input
+#         self.output= _output
+#         self.label_colors = _colors
+#         self.fps = _fps
+#         self.initvideo()
+#         #self.readvideo()
+#         self.initoutput()
+
+#     def initvideo(self):
+#         self.video = cv2.VideoCapture(self.input) 
+#         if self.video.isOpened(): 
+#             rval, self.firstframe = self.video.read()
+#         else:
+#             rval = False
+#         if not rval:
+#             print "cannot open the input video"
+#             quit()
+
+#     def readvideo(self):
+#         _rval, _frame = self.video.read()
+#         return _rval, _frame
+
+#     def initoutput(self):
+#         fourcc = cv2.cv.CV_FOURCC(*'XVID')
+#         self.newvideo = cv2.VideoWriter(self.output, fourcc, self.fps, (self.firstframe.shape[1], self.firstframe.shape[0]))
+
+#     def writevideo(self, _frame, _seg, _alpha, _contour = False):
+#         if _contour:
+#             #resize seg to the same size as original
+#             _seg = cv2.resize(_seg, (_frame.shape[1], _frame.shape[0]), interpolation = cv2.INTER_NEAREST)
+#             for label in numpy.unique(_seg):
+#                 if label != 0 :
+#                     seg_label = numpy.zeros_like(_seg, dtype=numpy.uint8)
+#                     seg_label[_seg==label] = 1
+#                     contours, _ = cv2.findContours(seg_label, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_TC89_KCOS)
+#                     _ = cv2.drawContours(_frame, contours, -1, self.label_colors[0, label].tolist(), 2)
+#         else:
+#             rgb = numpy.empty((_seg.shape[0], _seg.shape[1], 3), dtype=numpy.uint8)
+#             rgb[:,:,0] = _seg
+#             rgb[:,:,1] = _seg
+#             rgb[:,:,2] = _seg
+#             rgb = cv2.LUT(rgb, self.label_colors)
+#             rgb = cv2.resize(rgb, (_frame.shape[1], _frame.shape[0]))
+#             _frame = cv2.addWeighted(_frame, _alpha, rgb, 1-_alpha, 0)
+#         self.newvideo.write(_frame)
+
+# colors = numpy.zeros((1,256,3), dtype=numpy.uint8)
+# colors[0, 0] = 0, 0, 0
+# colors[0, 1] = 0, 0, 255
+# colors[0, 2] = 0, 255, 0
+# colors[0, 3] = 255, 0, 0
+# colors[0, 4] = 0, 255, 255
+
+# VidObj=VideoProcess(args.input, args.output, colors, 45)
+# PredObj = SecurityModule.Predict(args.model, args.weights, 1)
+
+# rval = True
+# while rval:
+#     try:
+#         rval, frame = VidObj.readvideo()
+#     except:
+#         print "Segmentation completed"
+#         exit()
+#     segmentation = PredObj.predict(frame, 1)
+#     print numpy.unique(segmentation)
+#     #raw_input('...')
+#     VidObj.writevideo(frame, segmentation, 0.5)
+
 
 def _get_image_blob(im):
     """Converts an image into a network input.
@@ -223,6 +296,13 @@ def apply_nms(all_boxes, thresh):
                 continue
             nms_boxes[cls_ind][im_ind] = dets[keep, :].copy()
     return nms_boxes
+
+def test_video_net(net, video_path, max_per_image=100, thresh=0.05, vis=False):
+    if not video_path:
+        raise FileNotFoundError('No video found in given path!')
+
+
+
 
 def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
     """Test a Fast R-CNN network on an image database."""
