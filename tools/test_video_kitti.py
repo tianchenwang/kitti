@@ -48,8 +48,11 @@ def parse_args():
     # parser.add_argument('--path', dest='path',
     #                     help='path to test images', 
     #                     default='', type=str)
-    parser.add_argument('--vid', dest='video_path',
+    parser.add_argument('--vid', dest='vidin',
                         help='path to test video', 
+                        default='', type=str)
+    parser.add_argument('--out', dest='vidout',
+                        help='path to result video', 
                         default='', type=str)
 
     if len(sys.argv) == 1:
@@ -84,4 +87,4 @@ if __name__ == '__main__':
     net = caffe.Net(args.prototxt, args.caffemodel, caffe.TEST)
     net.name = os.path.splitext(os.path.basename(args.caffemodel))[0]
 
-    test_video_net(net, args.vid, max_per_image=args.max_per_image, vis=args.vis)
+    test_video_net(net, args.vidin, args.vidout, max_per_image=args.max_per_image, vis=args.vis)

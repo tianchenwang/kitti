@@ -21,75 +21,6 @@ import os
 import sys
 
 
-# class VideoProcess():
-#     def __init__(self, _input, _output, _colors, _fps = 30):
-#         self.input = _input
-#         self.output= _output
-#         self.label_colors = _colors
-#         self.fps = _fps
-#         self.initvideo()
-#         #self.readvideo()
-#         self.initoutput()
-
-#     def initvideo(self):
-#         self.video = cv2.VideoCapture(self.input) 
-#         if self.video.isOpened(): 
-#             rval, self.firstframe = self.video.read()
-#         else:
-#             rval = False
-#         if not rval:
-#             print "cannot open the input video"
-#             quit()
-
-#     def readvideo(self):
-#         _rval, _frame = self.video.read()
-#         return _rval, _frame
-
-#     def initoutput(self):
-#         fourcc = cv2.cv.CV_FOURCC(*'XVID')
-#         self.newvideo = cv2.VideoWriter(self.output, fourcc, self.fps, (self.firstframe.shape[1], self.firstframe.shape[0]))
-
-#     def writevideo(self, _frame, _seg, _alpha, _contour = False):
-#         if _contour:
-#             #resize seg to the same size as original
-#             _seg = cv2.resize(_seg, (_frame.shape[1], _frame.shape[0]), interpolation = cv2.INTER_NEAREST)
-#             for label in numpy.unique(_seg):
-#                 if label != 0 :
-#                     seg_label = numpy.zeros_like(_seg, dtype=numpy.uint8)
-#                     seg_label[_seg==label] = 1
-#                     contours, _ = cv2.findContours(seg_label, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_TC89_KCOS)
-#                     _ = cv2.drawContours(_frame, contours, -1, self.label_colors[0, label].tolist(), 2)
-#         else:
-#             rgb = numpy.empty((_seg.shape[0], _seg.shape[1], 3), dtype=numpy.uint8)
-#             rgb[:,:,0] = _seg
-#             rgb[:,:,1] = _seg
-#             rgb[:,:,2] = _seg
-#             rgb = cv2.LUT(rgb, self.label_colors)
-#             rgb = cv2.resize(rgb, (_frame.shape[1], _frame.shape[0]))
-#             _frame = cv2.addWeighted(_frame, _alpha, rgb, 1-_alpha, 0)
-#         self.newvideo.write(_frame)
-
-# colors = numpy.zeros((1,256,3), dtype=numpy.uint8)
-# colors[0, 0] = 0, 0, 0
-# colors[0, 1] = 0, 0, 255
-# colors[0, 2] = 0, 255, 0
-# colors[0, 3] = 255, 0, 0
-# colors[0, 4] = 0, 255, 255
-
-# VidObj=VideoProcess(args.input, args.output, colors, 45)
-# PredObj = SecurityModule.Predict(args.model, args.weights, 1)
-
-# rval = True
-# while rval:
-#     try:
-#         rval, frame = VidObj.readvideo()
-#     except:
-#         print "Segmentation completed"
-#         exit()
-#     segmentation = PredObj.predict(frame, 1)
-#     print numpy.unique(segmentation)
-#     #raw_input('...')
-#     VidObj.writevideo(frame, segmentation, 0.5)
 
 
 def _get_image_blob(im):
@@ -297,11 +228,134 @@ def apply_nms(all_boxes, thresh):
             nms_boxes[cls_ind][im_ind] = dets[keep, :].copy()
     return nms_boxes
 
-def test_video_net(net, video_path, max_per_image=100, thresh=0.05, vis=False):
-    if not video_path:
-        raise FileNotFoundError('No video found in given path!')
+
+class VideoProcess():
+    def __init__(self, _input, _output, _fps = 30):
+        self.input = _input
+        self.output= _output
+        self.label_colors = _colors
+        self.fps = _fps
+        self.initvideo()
+        #self.readvideo()
+        self.initoutput()
+
+    def initvideo(self):
+        self.video = cv2.VideoCapture(self.input) 
+        if self.video.isOpened(): 
+            rval, self.firstframe = self.video.read()
+        else:
+            rval = False
+        if not rval:
+            print "cannot open the input video"
+            quit()
+
+    def readvideo(self):
+        _rval, _frame = self.video.read()
+        return _rval, _frame
+
+    def initoutput(self):
+        fourcc = cv2.cv.CV_FOURCC(*'XVID')
+        self.newvideo = cv2.VideoWriter(self.output, fourcc, self.fps, (self.firstframe.shape[1], self.firstframe.shape[0]))
+
+    def writevideo(self, _frame, _num_classes, _all_boxes):
+    	colors = [[0,0,0],[0, 0, 255],[0, 255, 0],[255, 0, 0],[0, 255, 255], [255, 0, 255], [255, 255, 0]]
+
+        for j in xrange(1, _num_classes):
+            for k in xrange(_all_boxes[j].shape[0]):
+                cv2.rectangle(_frame, cv2.point(all_boxes[j][k,0], all_boxes[j][k,1]), 
+                	                  cv2.point(all_boxes[j][k,2], all_boxes[j][k,3]),
+                	                  colors[j], 3)
+                print classes[j]+": "+all_boxes[j][k,4]
+        self.newvideo.write(_frame)
 
 
+# colors = numpy.zeros((1,256,3), dtype=numpy.uint8)
+# colors[0, 0] = 0, 0, 0
+# colors[0, 1] = 0, 0, 255
+# colors[0, 2] = 0, 255, 0
+# colors[0, 3] = 255, 0, 0
+# colors[0, 4] = 0, 255, 255
+
+# VidObj=VideoProcess(args.input, args.output, colors, 45)
+# PredObj = SecurityModule.Predict(args.model, args.weights, 1)
+
+# rval = True
+# while rval:
+#     try:
+#         rval, frame = VidObj.readvideo()
+#     except:
+#         print "Segmentation completed"
+#         exit()
+#     segmentation = PredObj.predict(frame, 1)
+#     print numpy.unique(segmentation)
+#     #raw_input('...')
+#     VidObj.writevideo(frame, segmentation, 0.5)
+
+
+
+def test_video_net(net, vidin, vidout, max_per_image=100, thresh=0.05, vis=False):
+    # if not video_path:
+    #     raise FileNotFoundError('No video found in given path!')
+    VidObj=VideoProcess(vidin, vidout, 30)
+    
+    num_classes = 4
+    classes = ['', 'Car', 'Truck', 'Van', 'Misc']
+
+    rval = True
+	while rval:
+	    try:
+	        rval, frame = VidObj.readvideo()
+	    except:
+	        print "Video tested completed"
+	        exit()
+        # filter out any ground truth boxes
+        # import pdb; pdb.set_trace()
+        im = frame
+        _t['im_detect'].tic()
+        scores, boxes = im_detect(net, im, None)
+        _t['im_detect'].toc()
+
+        _t['misc'].tic()
+        # skip j = 0, because it's the background class
+        for j in xrange(1, num_classes):
+            inds = np.where(scores[:, j] > thresh)[0]
+            cls_scores = scores[inds, j]
+            cls_boxes = boxes[inds, j*4:(j+1)*4]
+            cls_dets = np.hstack((cls_boxes, cls_scores[:, np.newaxis])) \
+                .astype(np.float32, copy=False)
+            keep = nms(cls_dets, cfg.TEST.NMS)
+            cls_dets = cls_dets[keep, :]
+            if vis:
+                vis_detections(im, classes[j], cls_dets)
+            all_boxes[j] = cls_dets
+
+        # Limit to max_per_image detections *over all classes*
+        if max_per_image > 0:
+            image_scores = np.hstack([all_boxes[j][:, -1]
+                                      for j in xrange(1, num_classes)])
+            if len(image_scores) > max_per_image:
+                image_thresh = np.sort(image_scores)[-max_per_image]
+                for j in xrange(1, num_classes):
+                    keep = np.where(all_boxes[j][:, -1] >= image_thresh)[0]
+                    all_boxes[j] = all_boxes[j][keep, :]
+        _t['misc'].toc()
+
+        print 'im_detect: {:d}/{:d} {:.3f}s {:.3f}s' \
+              .format(i + 1, num_images, _t['im_detect'].average_time,
+                      _t['misc'].average_time)
+
+        VidObj.writevideo(im, num_classes, all_boxes)
+        # det_file = os.path.join(output_dir, imdb[i].rstrip('png') + 'txt')
+        # with open(det_file, 'w') as f:
+        #     for j in xrange(1, num_classes):
+        #         for k in xrange(all_boxes[j].shape[0]):
+        #             f.write('{} {} {} {} {} {:.2f}\n'.format(
+        #                 classes[j],
+        #                 int(all_boxes[j][k,0]),
+        #                 int(all_boxes[j][k,1]),
+        #                 int(all_boxes[j][k,2]),
+        #                 int(all_boxes[j][k,3]),
+        #                 all_boxes[j][k,4]))
 
 
 def test_net(net, test_path, max_per_image=100, thresh=0.05, vis=False):
