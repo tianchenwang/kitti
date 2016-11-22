@@ -46,17 +46,18 @@ class KittiDataLayer(caffe.Layer):
         return blob
 
     def _get_roi_blob(self, rois):
-        cls_labels = {'Car': 1, 'Truck': 2, 'Misc': 3, 'DontCare': -1}
+        cls_labels = {'Car': 1, 'Truck': 2, 'Misc': -1, 'Pedestrian': -1 , 'Cyclist': -1, 'Van': 3, 'Tram': -1, 'Person_sitting': -1, 'DontCare': -1}
         blob = np.zeros([len(rois), 5], dtype=np.float32)
         for i, roi in enumerate(rois):
             s = roi.split()
-            if s[0] == 'DontCare' and cfg.TRAIN.IGNORE == False:
-                continue
+#            if s[0] == 'DontCare' and cfg.TRAIN.IGNORE == False:
+#	    if (s[0]=='DontCare' or s[0]=='Pedestrain' or s[0]=='Cyclist' or s[0]=='Tram' or s[0]=='Person_sitting') and cfg.TRAIN.IGNORE == False:
+#                continue
             blob[i, 4] = cls_labels[s[0]]
-            blob[i, 0] = float(s[1])
-            blob[i, 1] = float(s[2])
-            blob[i, 2] = float(s[3])
-            blob[i, 3] = float(s[4])
+            blob[i, 0] = float(s[4])
+            blob[i, 1] = float(s[5])
+            blob[i, 2] = float(s[6])
+            blob[i, 3] = float(s[7])
 
         gt_inds = np.where(blob[:, 4] != 0)[0]
         blob = blob[gt_inds, :]
